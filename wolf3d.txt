@@ -1,0 +1,49 @@
+Wolfenstein 3D
+gasega68k
+2013 - 2017
+
+Port of Wolfenstein 3D for PC. 
+
+This is a demo of wolfenstein for sega genesis written in asm. 
+Mostly is based on the source code of wolfenstein 3d for PC. 
+
+The map is available by holding up on the d-pad, then pressing start. 
+
+http://www.sega-16.com/forum/showthread.php?25663-wolfenstein-3d-demo-for-sega-genesis
+http://atariage.com/forums/topic/262349-sega-genesishomebrew-port-wolfenstein-3d/
+
+
+Gameplay
+Wolfenstein 3D is a first-person shooter presented with rudimentary 3D graphics.
+The game is broken up into levels, each of which is a flat plane divided into areas 
+and rooms by a grid-based pattern of walls and doors, all of equal height.
+Each level is themed after Nazi bunkers and buildings. To finish a level, the 
+player must traverse through the area to reach an elevator.
+
+Levels—ten in the original episodes—are grouped together into named episodes, 
+with the final level focusing on a boss fight with a particularly difficult enemy.
+
+While traversing the levels, the player must fight Nazi guards and soldiers, dogs, 
+and other enemies while managing supplies of ammunition and health. The player can 
+find weapons and ammunition placed in the levels or can collect them from dead 
+enemies; weapons include a knife, a pistol, a submachine gun, and a rapid-fire 
+chain gun.
+While the levels are presented in a 3D perspective, the enemies and objects are 
+instead 2D sprites presented from several set viewing angles, a technique 
+sometimes referred to as 2.5D graphics.
+
+The player's health is represented by a percentage starting at 100, which is 
+diminished when they are shot or attacked by enemies.[5] If the player's 
+health falls to zero, they lose one life and start the level over with a 
+knife, a pistol, and eight bullets.[2] The player begins each episode with 
+three lives and can gain more by finding extra-life tokens or by earning 
+enough points. Points are scored by killing enemies or collecting treasures 
+scattered throughout the levels.[5] Points can also be scored by killing all 
+enemies in a level, collecting all treasure, finding all secret areas, or 
+completing a level under a par time; the player's completion ratio and speed 
+is displayed when a level is completed. Secret areas containing treasure, 
+health refills, or ammunition can be found in hidden rooms revealed by 
+activating certain wall tiles that slide back when triggered.
+
+The original version of the game allows the player to save their progress 
+at any point, though in many of its ports the player can only save between levels.

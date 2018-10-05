@@ -1,0 +1,25 @@
+Virtua Worm
+ComradeOj
+2016 
+
+Like pac-man crossd with snake. Navigate the mazes, but don't run in to yourself! Basically a clone of an old web game called nibblet.
+
+http://www.mode5.net/vworm.html
+
+We've had virtua cop, fighter, tennis, and racing. Now it's time for Virtua Worm!
+
+Gameplay:
+The game is like a cross between snake and pac-man. It's essentially a clone of an old web game called nibblet. Check it out if you haven't played it before!
+You have to navigate through a maze while eating food pellets. Each piece of food adds a body segment. The goal is to eat every piece of food in the stage without running in to yourself.
+
+There are 15 stages in total. Hopefully the difficulty curve is okay. It's kind of hard to judge which levels are hardest when you're the one who made them.
+The art style is the same for all 15, but the color and music changes every 5 levels.
+
+Hope you enjoy it. It was a lot of fun making it.
+
+Other stuff:
+The game was programmed in 68k assembly.
+I tried to have a consistent music style between levels instead of the anything goes type I usually use.
+The title screen was done in blender 3D. Too bad the quality got butchered.
+
+http://www.sega-16.com/forum/showthread.php?31123-Virtua-Worm-for-SEGA-Genesis

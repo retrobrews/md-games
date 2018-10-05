@@ -1,0 +1,50 @@
+Wacky Willy Weiner Sausage Surfer (GGJ17-Wacky_Willy_Wiener_Sausage_Surfer-by-Bjorn-and-Cr30s)
+by Cr30s, Bjorn
+Jam year: 2017
+
+A Megadrive surfing game with a twist. Sausage, the Origins : 
+Once upon a time, the Global Game Jam 2017 had just started for Bjorn and Cr30s and the first goal 
+was to avoid spoiling the theme during games pitching over the live feed. Therefore, the mighty word 
+of Sausage was introduced to cleverly replace the real theme : WAVES. "From now on, one must pitch 
+there game by every mean that is the sacred sausage-word" said a mischievous coder from the back of 
+the room. One story leading to another, we decided to stick with the sausage theme and the Willy "wacky" 
+Weiner was born. The Game, or it is ? 
+
+The main concept was to create a rhythm game for Sega MegaDrive/Genesis similar to a Bit Trip Runner, 
+Rez, and so on. The wacky Willy Weiner (his real name) has to please the mighty king of all seas - 
+the sea lion seen in the jam keynote video who waves his flipper at the end - by surfing a crowded wave 
+and collecting cool items. The rhythm part comes from the layout of these elements. The more you get the 
+better the background music improves. Additionally some digitized sample of a TV documentary on the 
+true "Strasbourg's sausage" is played while collecting the items. Carefully though ! You have to avoid 
+sharks who love your sausage, I mean sausages, in a general way, not especially yours ... sausage. 
+How hell this devilish contraption works : 
+
+Download the archive Extract it and just double click on either : - Credits_launcher.bat for the greetings 
+- or Game_launcher.bat for the game Kill it ! Kill it, kill this monster ! End is sufferance ! 
+
+As you will see the game is still some lines of code away from completion, but it's always fun to meet some 
+challenges in game jams by coding on a retro platform. So yes there is no game over, the enemies/bonuses do 
+not move (in fact they did but then the player wasn't able to go right, which was both technically weird and 
+made the game unplayable). Anyway we've learned a big deal on how to make music and sfx for this console, we 
+had a lot of fun with the digitized samples (by the way you can use the A/B/C buttons to trigger them at will). 
+A very big thank you at AstroFra Scorpheus and Movida for organizing the Orléans jam site and let us use their 
+offices. See you next time space-coders !
+
+Technology Notes: 
+- Game made with the SGDK framework: https://github.com/Stephane-D/SGDK 
+- Audio done using DefleMask : http://deflemask.com/ 
+- Graphics completed by Grafx2 : http://pulkomandy.tk/projects/GrafX2
+
+Installation Instructions: 
+
+Use an emulator or real hardware + flashcard.
+
+Tested on a Sega MegaDrive II with a Everdrive-MD flashcard.
+Credits: 
+    Code by Cr30s
+    Gfx by Cr30s & Bjorn
+    Sfx by Bjorn
+
+Video Link: https://www.youtube.com/watch?v=DAg-wmlhnJo
+https://globalgamejam.org/2017/jam-sites/movida-jam-orl%C3%A9ans
+https://globalgamejam.org/2017/games/wacky-willy-weiner-sausage-surfer

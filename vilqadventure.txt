@@ -1,0 +1,16 @@
+VilQ Adventure 
+by AceMan and Axi0maT and Koyot1222 
+2017/10/21
+
+
+A classic jump'n run game in cute style with nice details and some great music!
+This one is a non stop side scrolling jump, run and slider in which you need to avoid the enemies, 
+pick up the food and get as far along as possible to reach an ever higher score.
+This is second VilQ game, where you can select your hero: VilQ the wolf or Little Red Riding Hood.
+
+Place #1 at LOAD ERROR 2017 (Gamedev)
+
+
+https://demozoo.org/productions/179589/
+https://www.pouet.net/prod.php?which=72008
+https://www.youtube.com/watch?v=nHb5sRtPq-Q

@@ -1,0 +1,57 @@
+VilQ
+2016/09/04
+by AceMan and Axi0maT and tehKaiN
+
+
+CREDITS:
+    AceMan - Music
+    Axi0maT - Code, Graphics
+    tehKaiN - Code
+
+
+CONTROLS:
+On title screen:
+UP/DOWN - select option
+START - accept selected option 
+
+In game:
+RIGHT - run forward
+LEFT - stand
+DOWN - slide on back
+A, B, C - jump
+A, B, C (In air) - double jump
+
+On game over, if you have hi-score:
+UP/DOWN - select letter
+A, B, C - accept letter
+START - end input of your name
+
+
+STORY (sorry only PL version available at now)
+
+Za siedmioma górami, za siedmioma lasami, mieszka³a stado zwierzaków zwane wilkami.
+Wilk VILQ ¿y³ w tym wilczym stadzie po burcz¹cym brzuchu ³atwo go poznacie.
+VILQ co dzieñ z samego rana zjada³ tuzin kurczaków, kozê i barana,
+w po³udnie dwie krowy a na wieczór prosiaka G³ód jednak nie ustawa³ a noc¹ mêczy³a go zgaga.
+G³odowa³ wiêc VILQ bo wci¹¿ mu by³o ma³o lecz wilczy apetyt sprawi³, ¿e mu w g³owie zaœwita³o
+by skoñczyæ raz na zawsze ze s³ynnym wilczym g³odem, wybiera siê wiêc w podró¿ lecz nie samochodem.
+Okoliczny las przebiegnie wzd³u¿ i wszerz nie ostanie siê tam ¿aden ¿ywy zwierz.
+
+###########################################################
+auto-translated:
+
+Behind the seven mountains, behind seven forests, lived a herd of animals called wolves.
+Wolf VILQ lived in this wolf pack you can easily get to know him after your tummy stomach.
+VILQ every day in the morning he ate a dozen chickens, a goat and a ram,
+in the afternoon, two cows and a piglet in the evening 
+Hunger, however, did not set and during the night he suffered from heartburn.
+He fought VILQ because he was still little but the wolf's appetite made him believe he was in his head
+to end once and for all with the famous wolf hungry, so he chooses to travel but not by car.
+The surrounding forest will run length and breadth there will be no live animal there.
+
+
+
+http://retrokomp.org/?p=2793&lang=en_US
+http://www.pouet.net/prod.php?which=68213
+https://demozoo.org/productions/163623/
+https://www.youtube.com/watch?v=NwaGobuk68M

@@ -1,0 +1,53 @@
+Uwol - Quest For Money
+The Mojon Twins/ Shiru
+
+Port of a ZX Spectrum game by The Mojon Twins. Ported by Shiru, and Cartridge version released by 1985 alternativo. 
+
+
+Introduction
+The game designed to use with Sega Genesis/Mega Drive game console, or
+software emulator of the console. To run the game on actual console you need a
+Flash cartridge.
+
+The game is not licensed or endorsed by SEGA® Corporation in any way. It is
+free of charge, and provided "as is", without warranty or responsibility of any kind.
+Uwol likes money. One day he heard of a cave full of gold coins. 
+Althouth the cave was guarded by dangerous creatures, Uwol decided not to 
+give up until he will get at least 255 coins.
+
+
+How to play
+Uwol can walk left or right, and jump by pressing a key (A, B, or C). If he leaves
+the screen from the left or right side, he will appears on the another side. To
+complete the level, you have to collect all the coins, avoiding touching any
+enemies or falling to the pit. After all the coins are collected, two blocks with
+arrows will appear on the floor. To leave the level, you should stand above the
+block and press "down". This also choose which level will be next. If the time is
+up while playing the level, the ghost will appear, chasing the Uwol.
+After the first enemy touch Uwol loses his clothes, and special bonus to return
+the clothes could appear somewhere. Without the clothes, touching an enemy
+leads to losing life, and the level restarts. Falling to the pit also leads to losing
+life. Additional life provided for 1000 and 2500 points.
+The levels in the game are arranged as a pyramid. From the first room you can
+proceed to either room of second floor of the pyramid, and from those rooms
+you could go to one or two rooms on the third floor, and so on. If you have not
+collected 255 coins after completion of ten rooms, you will be returned to the
+first floor, and could choose other way through the pyramid, to collect more
+coins. When you visit already completed room, there will be no coins or
+enemies.
+
+
+Credits
+The original version of the game for ZX Spectrum was produced by Mojon Twins
+in 2006-2009. Sega Genesis/Mega Drive version was made by Shiru in 2010.
+Design: anjuel & na_th_an
+Story: David Pimperl Marco
+Code: na_th_an, Shiru
+In-game graphics: anjuel, Shiru
+Additional graphics: na_th_an, Shiru
+Cover art: Ferrán Criado
+Music: Augusto Ruiz, Shiru
+Development tools: Augusto Ruiz, Shiru
+Levels and support: Augusto Ruiz, anjuel, na_th_an, kendroock, daivod,
+dadman, t.brazil, ivanZX, benway, sejuan, konamito,
+danthalas, metalbrain, zemman, HardWareMan, Alone Coder

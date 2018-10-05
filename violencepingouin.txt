@@ -1,0 +1,24 @@
+Violence Pingouin
+
+Post by djcouchycouch » Mon Dec 01, 2014 2:24 am
+Hi,
+
+After Goplanes, I worked on another project, called Violence Pingouin.
+
+
+You can find the source here:
+
+https://www.dropbox.com/s/h4wsam3khnar6bq/ViolencePingouin.1.0.0.zip?dl=0
+
+The project layout is a little more complicated than Goplanes. The readme.txt has 
+instructions on how to build. It requires the Graphics Gale galefile.dll for it 
+to convert .gal files to .c and it's a separate download.
+
+Let me know if you're seeing any problems.
+
+If you just want the binary to play with, you can find it here:
+
+https://www.dropbox.com/s/f0h3muqwvym5019/ViolencePingouin.bin?dl=0
+
+Thanks,
+djcc

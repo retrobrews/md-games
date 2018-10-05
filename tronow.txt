@@ -1,0 +1,73 @@
+Tro-Now
+Tro-Now is one of several entries in this year’s BITBIT Jam competition. 
+1985 Alternativo’s team coder Pocket Lucho managed to squeeze the classic 
+TRON Light Cycle death match grid battles onto Sega’s finest home console. 
+Until some other home brew hero steps up and produces something like this 
+for the Super Nintendo, Sega indeed does what Nintendon’t!
+
+It is quite a complete package too. It supports up to four human players 
+with just two joypads (think Micromachines control scheme) and most 
+impressively, the game detects if you have a Mega CD attached to your Megadrive. 
+If you put the TRON Legacy soundtrack in the disc tray, it will silence the 
+regular FM music and play specific tracks of the CD during gameplay.
+
+Quite ingenious! Since I have no human friends handy, please enjoy a quick 
+test play in single player mode.
+
+I could not use the Mega CD music feature because YouTube would derezz my 
+account due to copyright. You will just have to trust me when I say it 
+works rather nicely!
+
+
+PROJECT TRON
+------------
+
+DOC DISEÑO 0.1
+
+27-6-2015
+
+
+¿QUE ES?
+---------------------------
+
+
+
+
+
+QUE NECESITAMOS (mi mantra)
+---------------------------
+- Claridad de metas (saber que queremos hacer)
+- Personas de acci—n (estar motivados y con ganas de trabajar)
+- Disciplina (currar cuando se pueda menos si juega el Barsa xD)
+- FOCO (la dispersion es mala, que me lo digan a mi)
+- PACIENCIA y compromiso (necesitaremos el tiempo que haga falta)
+- Overfinding (evitar dar 1000 vueltas a una cosa)
+- Y por supuestoÉ OPTIMISMO
+- Un pc, una gb y un everdrive tampoco estar’an mal jajaja
+
+No hay nada imposible ni personas especiales chicos, todo es trabajo, 
+ganas de aprender y pas‡rselo bien haciendo lo que nos gusta!
+
+
+
+
+
+
+MILESTONE
+---------------------------
+26-7-2015 Bitbitjam: primera build jugable con el modo batalla para 4 jugadores funcionando
+
+
+
+
+MODOS DE JUEGO
+---------------------------
+
+
+ELEMENTOS JUGABLES
+---------------------------
+
+
+
+
+
