@@ -1,0 +1,23 @@
+Fatal Smarties
+Jam year: 2016
+by Jon Davies, matt456, MichaelClarkMusic 
+
+
+Uh-oh, the occultic ritual-performing locals have taken things out of control, and they've caused a timeloop of never-ending days of ritual! 
+Take your two hillbilly heroes in their homemade flippercopter and try your best to repel the demonic waves of evil! 
+Your ship is commanded by two players, one flies, the other shoots. 
+
+You must work together to blast those hellish critters back to kingdom come, and confront the giant guardian hellbeast leading the charge. 
+You keep going until your player dies (you can survive one shot for five seconds and return to normal, but if you're shot again during this period, you both die!) 
+
+
+
+Credits: 
+
+Design & Code - Mike Tucker
+Code - Matt Cope
+Art - Jon Davies
+Music - Mike Clark
+
+Other info & source:
+https://globalgamejam.org/2016/games/fatal-smarties

@@ -1,0 +1,17 @@
+Sega Genesis development - Gen Poker
+Last updated on March 9, 2011, 21:30 by Sebastian Mihai
+
+My first attempt at a video poker game was at around twelve years of age, using BASIC on an 8-bit ZX Spectrum. 
+I programmed it without using arrays, instead writing pages and pages of "if" statements. It was terribly buggy, 
+a fact which I tried to hide by telling my friends who played it that the game was actually cheating in THEIR favour... heh
+
+Video poker machines were interesting because they usually took up a half of each arcade in Bucharest. 
+Half of the arcade had the regular games, and the other half had gambling machines, predominantly video poker. 
+Adults lost piles of money playing these things.
+
+If you just want to play it, grab the rom, and off you go! If you wish to develop your own Sega Genesis game, 
+download the modified dev kit, and read the rest of the article. 	
+
+The rules are simple: get a winning hand, and then either gamble a few times, trying to guess whether the next 
+card is red or black, or just collect. Correct guesses will double your amount won. Guessing incorrectly takes away your winnings. 
+You can collect whatever you won at any time. 

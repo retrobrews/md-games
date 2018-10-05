@@ -1,0 +1,132 @@
+TµEE co.(TM) presents: Glass Braker MD
+
+
+----------------------------------------------------------------------------
+Introduction
+----------------------------------------------------------------------------
+
+This is my first game for my favourite video game system: Sega Mega Drive
+(Genesis for North American people). The original PC version of this game is 
+Glass Breaker QB, like the name says its written in QB (not QBASIC !!!) plus
+tiny amount of 386 optimized assembly. GBMD is not written in BASIC like its 
+PC counterpart, its written in 68K ASM and little in Z80 ASM.
+
+
+----------------------------------------------------------------------------
+Objective, enemies, hints
+----------------------------------------------------------------------------
+
+Objective of this game is to break all the windows on the house. It is not
+the easiest task because the inhabitants don't let you do it so easily. You
+will encounter 5 enemies, each level adds one. 
+
+First enemy is hyper active blind grampa who throws out slippers from a 
+broken window. Because he's blind, he doesn't know where you are and throws 
+them randomly at random windows that are broken. 
+
+Second enemy you'll encounter is a bird that keeps on trying to shit on you. 
+That bird flies slowly near the roof of the house and when it flies above 
+you, it drops a present aimed at your head. 
+
+Third enemy, the most pain of them all, is a killer kitty cat who tries to 
+scratch your ass of. NOTE: no other enemy likes kitty. 
+
+Fourth enemy is granny, she is ugly and she has a 2 barrel shot gun !!! Just 
+pass the door and granny will blast your head off if you don't pass the door 
+fast enough. NOTE: granny hates cats (she has allergy).
+
+Fifth enemy is a UFO disquised as a cloud. Granny and gramps are its current 
+subjects and it will not let you harm them. UFO tries to cause you terrible
+pain and suffering with a low charge protonic beams which are enough to make
+you immobilised for days. NOTE: Cats have much weaker body than you.
+
+Try to break upper windows before lower ones and also aim while you move.
+If you have taken care of all the windows, you'll complete the level. If
+you have better time than in TOP players list you will get the honor of 
+entering your name and being in the list yourself. This game hides some 
+sectrets in it, you have to do certain actions at certain point of the game 
+to reveal them... NOTE: most keyboards don't allow you to open secrets, use 
+gamepad like I do ;) Anyone who finds all the secrets and developes for 
+MD/Genny can have the FULL source of this game !!!
+
+
+----------------------------------------------------------------------------
+Thing you should know
+----------------------------------------------------------------------------
+
+This game runs only on European systems with 3 or 6 button controllers. You 
+will see notification screen if you run this game on non 50Hz system.
+I added 60Hz compatibility in 2013 november. The game will switch to 224 
+line res if 60Hz is detected and 240 if 50Hz. Some flashcarts like the Mega 
+Everdrive patch the games on the fly and this will cause issues. Turn off 
+region patching to avoid problems with this game !
+If you happen to see "Back-up RAM error", it means, that SRAM is not present 
+or compatible with this game. This error is very unlikely to happen if your
+cartridge uses "standard" (what most games and emulator use) SRAM accessing 
+technique. You can press start to skip the screen but beware that TOP 5 list
+will show some garbage. Directly readable/writable SRAM method is supported.
+
+
+----------------------------------------------------------------------------
+Credits (in no particular order)
+----------------------------------------------------------------------------
+
+Tiido Priimägi         - for SFX, GFX and programming
+Magnus Kivistik        - for his ideas and testing of PC version
+Deven Gallo            - for pointing out some resources on MD
+Charles MacDonald      - for his super-duper VDP docs
+Stéphane Dallongeville - for helping me with an SRAM issue, for Gens
+Olivier Brosseron      - for pointing out the "home of Z80 CPU"
+Madis Kivistik         - for recording glass breaking sounds
+Kaur Küüt              - for gladly throwing rocks into windows
+Fonzie Voltonov        - for his decimal number printing idea
+Cross Products         - for SNASM68K assembler
+Frank A. Vorstenbosch  - for AS80 assembler
+KanedaFr               - for Gens KMod
+Katkise Puu Ordu       - for their support and taking me in
+
+
+----------------------------------------------------------------------------
+Legal stuff
+----------------------------------------------------------------------------
+
+You are allowed to modify this game (Glass Breaker MD) in any way, you 
+are allowed to disassemble or decompile this game. You may redistribute 
+this game in its original archive which can be obtained from the author's 
+(Tiido Priimägi) web-site. You may E-mail the author all your questions, 
+comments or any other thing which has something to do with this game. The 
+author is not responsible for anything this game might cause to you, your 
+computer, your MD or anything else you can think of at the moment and in the 
+future. If you do not agree with these terms, you would delete this game and 
+all the related files including the archive where all the files (ROM image,
+this text file) were extracted from.
+
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+This game is 100% freeware !!!
+
+E-mail me : tmeeco@gmail.com
+Visit my web-site : http://www.tmeeco.eu
+
+Copyright (C) 2006, 2007, 2013 TµEE co.(TM)
+All rights reserved
+
+PS: spamming is pointless as both mailboxes have very good spam filters !!!
+
+
+HISTORY.txt
+2013.11.25
++ Added provisions to support flashcarts that do not have SRAM. Writing to them can cause lockups.
+
+2013.11.24 : Version 0.11 started
+? Removed checksum checking
++ Made some of the code a little bit more readable, holy hell what was I thinking when I wrote it LOL
++ Changed 50Hz lockout into notification that 60Hz works but is not ideal.
++ Adjusted some text to become visible in lower resolution.
++ Made sound enabled by default.
++ Fixed HUD placement issues. All done now !
+
+2007.02.xx : Version 0.1 released
+2006.09.xx : Version 0.1 started
