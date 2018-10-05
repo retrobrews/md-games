@@ -1,0 +1,10 @@
+Pingouin Bleu
+by djcouchycouch
+Sat Dec 06, 2014 8:48 pm 
+
+Pingouin Bleu is a horizontal shmup.
+A to shoot
+B to switch between three weapons
+C to "grab" things, but it's a prototype feature and only works on the red spinning guys. I figured I'd keep it in for fun.
+
+Pick up stars left by defeated enemies to boost your weapon meter. More stars equals upgraded weapons.

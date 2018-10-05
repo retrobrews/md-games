@@ -1,0 +1,33 @@
+Odeio Carros (I hate cars)
+Dec 14, 2017
+
+I was playing around with bex and made a small puzzle game, called Odeio Carros (I hate cars - in english).
+This game is an adaptation of an old html5 game of a friend.
+It is in portuguese, but it is so simple that dont nedd a translation.
+
+OBJETIVO
+destruir todos os carros, em cada fase, utilizando menor numero de chutes.
+Para destruir os carros, tem que fazer com que dois carros da mesma cor se toquem.
+Os cones podem ajudar ou atrapalhar.
+
+ASSUMA O CONTROLLE
+botao inicio (start) - incia o jogo
+botao D - controla o personagem em 4 direcoes, baxio, esquerda, direita, cima
+botao A -reinicia a fase
+
+
+
+GOAL
+Destroy all cars, in each phase, using less number of kicks.
+To destroy the cars, you have to make two cars of the same color touch each other.
+Cones can help you or defend.
+
+CONTROLS
+start button - start play
+button A - restart phase
+button B - character kicks
+button C - no use in the game
+button D - controls the character in 4 directions, left, down, right, up
+
+Bin --> https://drive.google.com/file/d/1k0DAjQjuf4mGf5R7rXPJlGe7iLB0nEC-/view
+Manual --> https://drive.google.com/file/d/1QqPxnvUPTVgALKYisr4ZKz9SjOTcv7AQ/view

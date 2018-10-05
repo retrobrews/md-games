@@ -1,0 +1,16 @@
+Miniball SE for Sega Megadrive/Genesis
+Copyright (c) 2002 Wejp
+Website: http://wejp.k.vu/games/
+
+This game is FREEWARE. You can use and copy it as much
+as you like as long as you do not modify any of the game
+files.
+
+This is a game similar to "Breakout" or "Arkanoid",
+with the difference that in this game you have four
+pads (instead of just one) - one pad on each side of
+the screen - and you have to catch the ball on all 
+sides of the screen.
+
+A Java version of this game (which is playable in your 
+web browser) is available on my website (see above).

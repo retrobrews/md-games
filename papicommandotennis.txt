@@ -1,0 +1,45 @@
+*NEW* Papi Commando Tennis Demo BEX - Megadrive
+
+
+This is the new Demo of Papi Tennis !
+
+Coded with BasiEgaXorz by Joseph Norman.
+
+You can play with a Friend or against AI for training of a 1 set Match !!
+
+This Demo will be done with the futur new Studio Vetea Game published by Côté Gamers, Bomb on Basic City SE !!
+
+Controls :
+
+PAD : Move Papi.
+
+Button A : Normal Shoot !
+
+UP & Button A : Long Shoot.
+
+DOWN & Button A : Short Shoot.
+
+Button A & Button B : Power Shoot.
+
+Button START : Pause Game.
+
+============================================
+
+* Graphics,Sound & Code by Vetea.
+
+* Music by Kaot.
+
+* Powered with Bex & 68K ASM.
+
+Have fun ! :D
+
+Vetea
+
+
+Published	Mar 17, 2018
+Status	Prototype
+Platforms	Windows, macOS, Linux, Android
+Author	Studio Vetea
+Genre	Sports
+
+https://vetea.itch.io/papi-commando-tennis-bex-demo

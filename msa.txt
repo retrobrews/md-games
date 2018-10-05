@@ -1,0 +1,20 @@
+Mega Squad Advantage
+by Michael Moffitt 
+2014
+
+How to play:
+Slap the other player around of bunch to win!
+Your health is shown in your corner.
+
+Use the dash strategically to evade your enemy and strike at the right time.
+You may slap during a dash, and you may dash during a slap.
+
+Controls:
+A - Slap
+B - Jump
+C - Dash
+D-pad - Movements
+
+
+http://www.sega-16.com/forum/showthread.php?28684-I-made-an-MD-Genesis-Game-Jam-game
+http://mikejmoffitt.com/msa.bin

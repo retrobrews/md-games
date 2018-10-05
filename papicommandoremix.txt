@@ -1,0 +1,59 @@
+Papi Commando - Megadrive Version !
+This game is published by WaterMelon
+
+ !! Papi Commando Megadrive Edition FREE VERSION !!
+
+You waited for it ? Here is finally !!!
+This official demo is the quite last stable version deserving of a complete game. 
+
+Papi Commando and his wife are at war with the CePlusPlus because they stole them their CommoStrad!
+But it will be necessary to clean at first 11 zones of the BaseCamp ! Exciting Gameplay ... 
+
+Up to the final Boss, terrible Colonel KASSTAGOUL guard of the retro treasure!
+
+!! Papi Commando Remix !!
+
+Here is a new extra version with enhanced graphics and some news improvement and bugs fixes.
+
+The game is exactly the same than the original Free Game( https://vetea.itch.io/papi-commando-megadrive-version- )
+
+Features :
+- An exciting 2 Players Mode !
+- 5 musical quality atmospheres to choose in game ! (Button START) and a rich sound FX !
+- An increasing difficulty and a retro challenge deserving of the best productions HomeBrew.
+- 11 exclusive Zones with 2 Zones Bonus!
+- Varied units: of the soldier CePlusPlus in passing the Zombie starving for human flesh and Cyber Guard, technological jewel CePlusPlus with specific IA !
+- Diversified Retro Gameplay.
+- A REAL final BOSS who will give a hard Challenge to you and a CommoStrad designed to encourage you in game !
+- All the knowledge of the Studio Vetea only for you!
+- Compatible PAL and NTSC.
+
+( This game has been released with Bex. )
+
+The challenge is hard, will be ready ?!
+Papi & Mami Commando can't wait for this !
+
+
+Install instructions
+
+The game is a ROM type ( .BIN ) !
+
+So you can use it with a lot of Megadrive's emulator :
+
+- KegaFusion, Regen, Gens, etc ...
+
+( You can find their for LinuX, Windows, Mac OS, Android. )
+
+PAPI MOVE :
+* D-PAD 1 TO MOVE.
+* START TO PAUSE THE GAME.
+* BUTTON A TO FIRE.
+* BUTTON B TO REZ PLAYER AND CIVILIANS
+* BUTTON C TO USE KNIFE.
+
+
+MAMI MOVE :
+* D-PAD 2 TO MOVE.
+* START TO START THE 2P MODE.
+* BUTTON A TO FIRE.
+* BUTTON B TO REZ PLAYER AND CIVILIANS.

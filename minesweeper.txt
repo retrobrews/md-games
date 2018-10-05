@@ -1,0 +1,18 @@
+MineSweeper
+PSCD.ru 
+2013
+
+Port of popular MineSweeper game. 
+
+Game MineSweeper for SMD is a port of the original game with the same name. 
+The gameplay repeats the original game completely. 
+You are also given a closed playing field, on which you must find a certain number of mines. 
+And to be precise, it is necessary to open the whole playing field while not touching (not touching) the mines. 
+It is possible to set the number of mines on the playing field from 10 to 64 (In older versions).
+One of the unique features of this game is the mouse support ( Sega Mouse ). 
+Not more than a dozen games for Sega MegaDrive / Genesis support the mouse and the appearance of 
+the game with a fully functional mouse is a great event.
+Now a little bit about creating the game Minesweeper for Sega Mega Drive / Genesis . 
+The game was made in early September 2013. The game is made by specialists of the portal PSCD.ru. 
+For the creation of the game on SEGA , a development kit called SGDK (Sega Genesis Dev Kit) was used.
+The game is known under the following names: Sapper (Minesweeper), Miner, MineSweeper, Mine Sweeper, MineSweeper Genesis, Sapper (Saper) .
