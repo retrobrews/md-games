@@ -1,0 +1,27 @@
+This is Riley's Letter Recycle.  It is a homebrew game for
+the Sega CD.  This game is great for young kids.  This
+game was made for my child Riley and for me to learn how to
+program the Sega CD.
+
+In the first level, guide Riley to recycle three letter
+into three letter words.  And parents, have fun and play
+the two player mode with your child where you both spell
+the same word.
+
+In the second level, Riley surfs on top of a Recycle truck
+and you must jump to collect the needed letters.  In the
+third level, you must move the recycle bin to the left and
+right to catch the falling letters.  In the fourth level,
+you must drive the recycle truck to collect letters.  The
+"A" and "C" buttons are the gas pedals, the "B" button is
+the brake pedal, and the up and down directions allow you
+change lanes (as long the recycle truck is moving).  And
+the final fifth level is a platformer style level where
+Riley must jump around to collect letters to put in the
+recycle bin.
+
+On the title screen, you can enter "C","A","B" to enter the
+level select.  If you enter it on the first controller, it
+will use one player mode.  If you enter it on the second
+controller, it will use two player mode.  The level select
+also contains additional platform levels.

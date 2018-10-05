@@ -1,0 +1,10 @@
+Rad Rhino
+2018/08/14
+
+Author	Triger Mountain
+Genre	Shooter
+
+You are the last Rhino and Birb in the world, forced out of what 
+little wild lands remain. Now there's nothing left to do but kill every human.
+Two player shooting action! It's called Rad Rhino but player 1 is the Birb. Shoot, run, and flap!
+Made in 60 some-odd hours for Ludum Dare 42 using Stephane Dallongeville's excellent Genesis SDK: https://github.com/Stephane-D/SGDK

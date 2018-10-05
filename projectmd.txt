@@ -1,0 +1,59 @@
+Project MD
+20120429
+by Javier Degirolmo (Sik)
+
+
+In this game, you play as Stephany, who just loves playing games; And since she 
+renders everyday life as boring, in modern day, she creates her own virtual world 
+to roam around in and enjoy, but not all is happy in this realm, as she will find 
+out later on. 
+
+
+Github https://github.com/sikthehedgehog/projectmd
+ _____ _____ _____     _ _____ _____ _____     ____ ____ ____
+|  _  |  _  |  _  |   | |  ___|  _  |_   _|   |  _ ' _  |  _ \
+| |_| | |_| | | | |   | | |__ | | |_| | |     | | | | | | | | |
+|  ___|    _| | | |_  | |  __|| |  _  | |     | | | | | | | | |
+| |   | |\ \| |_| | |_| | |___| |_| | | |     | | |_| | | |_| |
+|_|   |_| \_|_____|_____|_____|_____| |_|     |_|     |_|____/
+
+Official GitHub repo for Project MD. Here you will find the following stuff:
+
+- /bin ....... Prebuilt binaries
+- /minimal ... Minimal source release
+
+TO-DO: full source release that contains the source files to the data, not
+just the code. But that will take some time. The minimal release is still
+enough to build the game.
+
+Project MD uses the Echo sound engine: http://echo.mdscene.net/
+
+
+Project MD official repository http://projectmd.mdscene.net/
+
+
+
+It's time for yet another commentary on Royameadow, and this time, we are touching 
+what would happen to be one of the greatest Homebrew titles for the Sega Genesis 
+and Megadrive of modern day; Possibly one of the most superior Homebrew titles of 
+All~Time, when we look at others from over the years. Fellow viewers, welcome to 
+Project MD, a Platform Shooter by Sik and Oerg866, originally released in 20I0 in 
+the form of prototype builds. Us here at Royameadow know them best for their work 
+in the Sonic Hacking scene, while others might know them more from their works in 
+Megadrive Homebrew. In this game, you play as Stephany, who just loves playing games; 
+And since she renders everyday life as boring, in modern day, she creates her own 
+virtual world to roam around in and enjoy, but not all is happy in this realm, as she 
+will find out later on. For the sake of this commentary, we will be looking at the 029 
+April of 2012 build, of which is the most complete version of the game publicly available 
+within Version 03.2I of the GoodGen set; What this version includes that is not present 
+in most of the builds before 20II is a (near) complete soundtrack, opening credits, a 
+Sapphire Blue title screen (instead of a palette of Purple Mountain's Majesty combined 
+with Magenta and Dahlia Purple from the 20II builds), fixed level palettes, more completed 
+backgrounds, and bugfixes, of course (if there were any to begin with, that is). 
+There is more to mention, but we will leave that to the commentary to tell; In the meanwhile,
+if you would like to get Project MD, then feel free to go to either the website on Oerg866's
+new website or the forum topic on Sega~0I6, or if you want to view Troy's Vectorman commentary
+on SuperTNT '94 that was promoted in this episode, then the respective links are available below.
+
+~ Project MD (Main Page): http://oerg866.titandemo.de/projmd/ 
+~ Project MD thread on Sega~0I6: http://www.sega-16.com/forum/showthread.php?15853-Project-MD-Official-Thread

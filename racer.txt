@@ -1,0 +1,77 @@
+Racer [SMD] v1.2
+Name: Racer;
+Platform: SMD;
+Genre: puzzle;
+Developer: TOF Studio;
+Language: English;
+Released: 2013;
+Number of players: 1.
+
+In far 2007, I got a fairly simple engine - GINCS v0.52. This engine allowed for the account of 
+a dozen script commands to create games of the genre of adventure (Visual Novel) on a 16-bit Sega 
+Mega Drive game console. At that time, few people were engaged in developing games on SMD, so this 
+thing was more than in demand.
+
+The engine is so simple that it can be attributed to the class of game designers, but already then 
+it was abandoned by its author (Haroldo de Oliveira Pinheiro). I made a review of GINCS in the emu-log 
+"TOF # 8". But before making a review, I had to try it out - for knowledge of the topic. I made a 
+series of sketches, among which the game "Racer" arose. This is a very unpretentious game, the gameplay
+ I've seen in the rather interesting quest "Safecracker" for PC. Actually, in that game on the second 
+ floor of the mansion there was a slot machine with a mini-game on 1 level. This is a logical puzzle 
+ for memory and ingenuity. It seemed to me that it would be enough just to shift its gameplay to the 
+ possibilities of GINCS. Which I did. By the way, from the same game I transferred a puzzle with a 
+ ball to the engine «Battle City», making a mod-hack « Marble City ».
+
+However, at that time, there was little time (it is not even now, to be honest), but the project did
+ not attract, as it was initially seen as quite strange and unpromising. Yes, and writing music in 
+ the program MVSTracker MD seemed to me a very difficult task. Not only that I was not particularly 
+ fond of tracker music (in terms of its creation), so this format seemed to me very primitive. 
+ MVS does not really reflect the audio capabilities of the YM2612 chip. In general, the project 
+ was postponed.
+
+Several months passed, I made several more demos of this engine, and forgot about it, because 
+I did not really need it. My knowledge in developing games for this platform has expanded. But 
+I did not actively create games at that time. As for SMD, for it I made hundreds of mod-hacks 
+and translations into Russian, most of which came out on the cartridges. If there was a goal, 
+then there would be a game, but the sponsors then paid only for translations and modifications.
+
+Time passed. And recently on the forum I was again asked about GINCS. To help the interested 
+person, I opened old files in order to remember the topic. And I discovered a miraculously 
+preserved folder with the game "Racer". Why not, I thought, and decided to finish it to 
+release it to the heap. Personally, even now, when new games are often played on retro 
+platforms, I am delighted to meet every handicraft.
+
+I finished the levels, scanned the graphics from the game "Safecracker", processed it and 
+inserted it. I had to torment myself with the music - to make a few tunes in the MVS format
+ to me and now it was hard. But I managed, as if everything was not buggy.
+
+In "Safecracker" there was only one level, and in "Racer" I made them 8 pieces. 
+And between the levels inserted a screensaver with screenshots of unpopular SMD-games,
+ representing the genre of "race". I thought that it would be interesting for the player 
+ to test himself for the memory and knowledge of the games of this platform, remembering 
+ the name of each. A useful addition, so to speak. In any case, so as not to be 
+ particularly boring.
+
+
+The essence of the gameplay is that the player presented a car traveling along the road. 
+The road is symbolized by the green line. And at each turn the player needs to choose 
+one of two options, where to turn the steering wheel relative to the driver: to the 
+right or to the left. The game is complicated by the fact that the player needs to 
+mentally represent the position of the car and at what turn it is now. 
+After passing several turns the car reaches the finish line, after which it moves 
+to the next more difficult level. From level to level, only the number of turns 
+is added; changes route.
+
+Immediately I say that the speed of the engine (and the platform itself) is quite 
+slow, so when building large images, artifacts arise temporarily. But this fact 
+should not especially upset you. If you like board games, logic puzzles for memory, 
+then you will be interested to pass this game at least once. In general, rock the 
+toy, play it, leave your opinions.
+
+
+Control:
+Down / Up - move to the selection menu;
+A / B / C - execution of the selected action.
+
+The game was recorded on a flash cartridge and tested on the original hardware - 
+it works fine. In September 2014, it was published on cartridges - a circulation of 10 copies. 

@@ -1,0 +1,23 @@
+Rick Dangerous II
+2018/01/21
+by alekmaul
+
+Rick Dangerous II is a platform game released in 1990 for many computers including the ZX Spectrum, Amiga, Commodore 64, MS-DOS, and others.
+
+Here is our hero more intrepid than ever!
+Rick Dangerous, the indomitable Superhero and philatelist in his spare time, is back after defeating 
+Fat Man during his first adventure. Fat Man is back and Rick has to fight him again to save the 
+Earth from the ugly aliens.
+
+Controls:
+Button A : fire
+Button B : Bomb
+Button C : Jump
+
+Original 16-bit graphics, like music from the Atari ST version
+5 worlds to explore
+Battle of Bosses
+Developed with SGDK
+
+http://www.portabledev.com/jeux/megadrive/rick-dangerous-ii/
+www.gamopat-forum.com/t97180-rick-dangerous-ii-pour-megadrive
