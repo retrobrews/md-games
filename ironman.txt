@@ -1,0 +1,10 @@
+Iron Man
+BMB
+2014
+
+
+Iron Man is an unlicensed 2D platform game for the Sega Mega Drive based off the Marvel character of the same name. 
+It was released by BMB in 2014. The music is glitched when running on a real Mega Drive (Or Genesis), although 
+it is fixed when running on a MD/Genesis Emulator. The same glitch occurs in LEGO Batman and The Adventures 
+of the Gummi Bears, which could imply that all three share an engine and were possibly made by the same developers. 
+It plays very similar to the aforementioned Adventures of Gummi Bears, like a platformer with no scrolling implemented. 

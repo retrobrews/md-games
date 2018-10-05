@@ -1,0 +1,20 @@
+Invasion
+Psycatic Software
+2013
+Space Invaders
+
+Has 6 different game modes. Also available on Sega CD.
+
+"Invasion" is a playable history of space invader type games. It's not a direct recreation of any 
+particular version of space invaders but instead a collection games and artwork to inspire nostalgia. 
+For the main release it has 6 different game modes plus a two player mode, the free version available 
+below has just three game modes.
+
+The project started as a test, to check that the old Psygnosis Megadrive Development Kit I had was 
+working and to see if I had everything I needed in terms of a tool chain to build a fairly complete 
+game. I wanted to ensure I had the tools to be able to create graphics and sound for the SEGA 16-bit 
+platform and also a set of development libraries and programming techniques. The platform is not like 
+programming a PC or a modern console and special consideration has to be given to the limited hardware 
+and design choices that SEGA put together. 
+
+http://www.psycatic.com/psycatic/games_invasion.cfm

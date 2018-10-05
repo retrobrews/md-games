@@ -1,0 +1,6 @@
+Megamindtris
+By 1985 Alternativo
+
+Megamindtris by 1985 Alternativo is an easy puzzle game: 
+Just sum up the same numbers until you get the desired solution. 
+A row clears when all cells contain the goal value.
