@@ -1,0 +1,5 @@
+2048
+By Oerg866
+
+
+2048 is a logic game which has seen plenty of platforms as of now, also the Sega Genesis/Megadrive. Written entirely by Oerg866 including graphics and music.

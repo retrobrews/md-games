@@ -1,0 +1,8 @@
+Berzerk
+Paul Lee
+2010
+
+Remake of the classic Berzerk Atari 2600 game. 
+Shoot the robots in the maze to score points. 
+Berzerk was first released on the Atari 2600 console in 1982. 
+You play a stick-figure, representing a "humanoid."

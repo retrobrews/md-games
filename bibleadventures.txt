@@ -1,0 +1,30 @@
+Bible Adventures
+
+Bible Adventures is a Christian video game by Wisdom Tree first released in 1991 for the Nintendo Entertainment System, 
+and ported to the Mega Drive/Genesis in 1995. The game was unusual in that it was never sold in video game outlets. 
+It contains three different games: Noah's Ark, Baby Moses, and David and Goliath, all of which are based rather 
+loosely on stories from the Bible. The gameplay of these games is sidescroller style similar to that of Super Mario 
+Bros. 2 for the NES. The game also features Jesu, Joy of Man's Desiring, by J. S. Bach, as the background music for 
+the title screen. The game bypasses the 10NES lockout chip by emitting a voltage spike when the NES control deck is turned on. 
+
+
+Gameplay
+Noah carrying a stack of animals in Noah's Ark.
+
+The game is a collection of three games based on stories contained in the Old Testament:
+
+In Noah's Ark, the player must round up animals and food — sometimes by knocking animals out with an object that resembles 
+a barrel or catching fruit thrown by a monkey — and carry them onto the Ark. Noah's health is recharged when the player reads 
+Bible verses that are scattered around the four levels. Snakes seen on the trees are decoys; the real snakes the player has 
+to capture are inside of a cave.
+
+In Baby Moses, the player controls Miriam, Moses' sister, as she tries to save her brother from the Pharaoh's decree that all 
+male Hebrew children be killed. In order to do this, the player carries Moses from one end of the level to the other, in a 
+manner quite similar to the way in which characters in Super Mario Bros. 2 carry vegetables. Moses can be thrown around 
+without harming him, but enemies cannot be harmed in any way. The adversaries attempt to throw Moses into the Nile. 
+If the player completes the level without Moses, the game says "Good work, but you forgot Baby Moses", and the level must 
+be restarted.
+
+In David and Goliath, the player starts out controlling David as he herds sheep and avoids predators such as lions and bears. 
+Acorns can be used to stun the beasts. The player then obtains a sling and goes on to dodge guards, scorpions and stones before
+ he fights Goliath's shield bearer and ultimately Goliath himself, whom the player must strike once in the head to defeat. 

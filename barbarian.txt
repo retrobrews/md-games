@@ -1,0 +1,28 @@
+Barbarian (1987 video game)
+BARBARIAN AMSTRAD CPC PORT
+autor: F.L.
+2014
+
+http://barbarian.1987.free.fr/indexEN.htm
+
+
+Barbarian is a 1987 computer platform game by Psygnosis. It was first developed for the Atari ST, and was ported to the Amiga, 
+Commodore 64, MS-DOS, MSX, Amstrad CPC and ZX Spectrum. 
+The Amiga port was released in 1987; the others were released in 1988. Like most early Psygnosis titles, the cover artwork 
+(part of "Red Dragon" figure/landscape) was by the popular fantasy artist, Roger Dean.
+
+The game spawned a 1991 sequel, Barbarian II, released alongside Leander, and Ork, other platform-based action-adventures from Psygnosis. 
+The game opens with a striking—for the era—animation of a muscle-bound barbarian cutting a chain with a sword. On the Amiga and Atari ST 
+versions, the animation is accompanied by a loud, digital sound effect.
+
+In the game, the player is Hegor, a barbarian who must traverse several dungeons and underground habitats to defeat his brother, the evil 
+sorcerer Necron. He has a sword and bow in his arsenal of weapons. Running and jumping, as with many platform games, comprises a large part 
+of the gameplay of this title.
+
+The game used a unique control system to make up for lack of more than one joystick button on many systems. The player would first press the 
+one button after which a "menu" of actions would appear along the bottom of the screen. The player then selected the desired action by cycling 
+through the choices with the joystick and then pressing the button again when the desired action was highlighted.
+
+In the original versions, this game tried to emulate the visual style of the game cover and opening animation. The game used very detailed and 
+colorful sprites and a variety of thoughtful sound effects to accompany the onscreen action. The DOS version played digitized speech in the 
+opening sequence and featured other sound effects using the PC speaker. 

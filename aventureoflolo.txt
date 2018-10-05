@@ -1,0 +1,56 @@
+Aventure of Lolo (NES Port)
+by Staffan
+2017/10/14
+
+Your objective is to collect all the pink hearts. You can collect poke balls to kill frogs. 
+Once all hearts collected, push the bomb and kill all the frogs. Then exit the level. 
+
+Controls: 
+A- Shoot
+C- restart level
+
+
+
+Adventure of Lolo
+
+Post by Staffan » Sat Oct 14, 2017 10:30 am
+I have a five level demo available. Its yet completly silent. I would really like to see some feedback as to if 
+you understand what to do in this game, without instructions. How far can you get in my demo, if the only thing 
+I tell you is that you have to collect all the hearts, the Treasure and then head for exit?
+
+Is it fun?
+
+**********************************************************
+
+The project is in danger of not being continued though.
+I Had a vision when I started this project to port Amiga games to Genesis because most people have enough time to 
+start a Genesis emulator but fewer have the time to setup an Amiga emulator.
+
+Because if you live in a normal boring town with a mortage and cannot quit your daily job to make games, how do you 
+get people to play your hobby game, when there are so many good hobby projects theese days?
+
+Making a new game takes so much time and is so hard that its hardly a hobby. In order for it to be good you have to 
+put together graphics and art and stuff, so therefore my hobby was bound to be to an old console. This also solves 
+the compatibility problem, as a Genesis emulator is something that most system have.
+
+But no kid will ever play any game made here, only other 35-year old nerds. I therefore started to think about how 
+to get another 35-year old nerd to play my hobby project. Giving them away for free is not enough, because they 
+mostly play old games for nostalgic reasons and there are 10000 free games with a classic touch. I therefore thought 
+that I if I started to port old amiga games that theese people recognised, then maybe a few would play my games. 
+(My first game is an old nes game, hope this doesnt confuse you :), cause it was a good game to start with) Sure 
+there are a few collectors that might buy a new genesis game but they are really few and might not even play it.
+
+I was planning to just release the rom on the Internet and se it pop ut from place to place. However having googled 
+for copyright laws, I now see that I can get sued even if its a dead console, and even if its given away for free 
+as a hobby project. In order for me to continue, I HAVE TO SOLVE THE LEGAL ISSUES. I have two kids, and the should 
+not grow up poor because their father have a nerdy hobby. I can change the character name to Lollo from lolo and so
+on, but then I like totally miss my audience.
+
+The same goes for all other planned games. I have known this for some time, but I thought a at least should release 
+the Demo and see if anyone have any great ideas how to solve this.
+
+I really thought I should get away with the game beeing free and not have to think about legal issues.
+
+/Staffan
+
+http://gendev.spritesmind.net/forum/viewtopic.php?f=8&t=2724

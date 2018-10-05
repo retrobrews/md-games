@@ -1,0 +1,47 @@
+ASCII WAR
+Copyright 2015 ComradeOj.
+
+This game is not for commercial sale, and may only be distributed if it's done without charge.
+
+Contact: ComradeOj@Yahoo.com, 
+http://www.sega-16.com/forum/member.php?138488-ComradeOj
+
+
+
+ASCII WAR - A simple 2 player homebrew Genesis game
+
+    A month or so ago I decided to start working on a simple 2 player combat game. Now it's pretty much finished. It could still use some polish though!
+    I decided to just have fun with it, and get kind of creative. What's the point in making a Genesis game if you can't have fun while you're doing it?
+
+    The plot:
+    An evil warlord lives in a dimension where everything is made up of ASCII art. He sent out a scout, to look for new lands to conquer. 
+    A resistance group also sent out a scout of their own, and they meet in out dimension to fight. The ships don't shoot bullets, but strings of text. 
+    It's dumb, but I thought it was just goofy enough to work. The concept almost reminds me of the Mooninites from ATHF.
+
+    About the game:
+    The music is all from miscellaneous sources. It's all played back using my simple VGM driver. The background graphics are all various photos I had 
+    taken in the past, and the images of my desk and cat were taken specifically for the game. The digitized still image backgrounds look pretty ugly, 
+    so I might try experimenting with using 2 backgrounds layers, that way I can get twice the colors. The game was programmed in 68k assembly, and 
+    consists of about 2000 lines of code.
+
+    I have not idea if this game is fun or not. I sure had fun making it though. I'm afraid that gameplay will just devolve into flying as fast as you 
+    can while spamming the fire button. It could easily be polished up, and re-skinned into a different game in the future though. I bet this game could 
+    be transformed into a fun 2 player top down naval combat game with torpedoes, mines, and map obstacles. As it is, it plays kind of like a 2 player 
+    VS. game of asteroids.
+
+    If someone is able to get a friend to play this with them, I would love to know how it worked out. I wasn't able to find someone to play it with me,
+     so I haven't really "played" this game. I'm open to critique.
+
+    Controls:
+    The D pad moves you around, and the 'A' button shoots. 'B' locks your movement vertically, and 'C' locks your movement horizontally. I'm hoping that 
+    the axis locking will add a little bit of depth to the combat.
+
+    ROM Download link:
+    https://drive.google.com/file/d/0B-uZnRwZEI1YYkNJWkJEbHEtSmM/view?usp=sharing
+    Source code is included with the ROM download.
+    Seasoned programmers will cringe when they open up those .ASMs, but I still like to include source code for everything I make, even if it shows a lot 
+    of improper coding that would otherwise be unknown to everyone.
+
+    Gameplay video:
+    I was playing both side by myself, so that's why there is so much aimless wandering around the screen and missed shots.
+    https://youtu.be/_bWWyrh1O0c

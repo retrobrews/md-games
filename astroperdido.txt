@@ -1,0 +1,15 @@
+Astronauta Perdido (Lost Astronaut) 
+for SEGA Genesis/Megadrive 
+by nemezes
+
+2018/01/09
+
+You are a lost astronaut and you need to find a way out to go home.
+Collect bullets and then fire our the barricade!
+
+Controls:
+
+A =     restart stage
+B =     laser shoot
+C =     jump
+START = pause game
