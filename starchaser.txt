@@ -1,0 +1,20 @@
+Star Chaser (sans sound)
+
+Post by Sik » Sun Sep 20, 2015 2:32 am
+OK, a lot of people here probably know about this video:
+https://www.youtube.com/watch?v=f2_wlWYeoMA
+
+But I had never released it so far... screw this, here's the game:
+https://sik.titandemo.de/megadrive/starchaser-20140705.bin
+
+The game is pretty much finished except for the complete lack of sound (ouch). 
+If some day we can ever get around adding sound to it, I'll update this ROM. 
+This game supports the multitap (either the Sega or the EA one) to allow for four players =D
+
+Tech support remark: if you press Reset three times in a row (do it quickly) you'll also 
+get a screen to test if the multitap is working (or the joypad ports as-is, if no 
+multitap is connected). Before you complain that the game doesn't work well on real hardware 
+please check this, because I lost the count of times things "weren't working" because 
+a multitap had one of its pins bent =S
+
+Sik is pronounced as "seek", not as "sick".

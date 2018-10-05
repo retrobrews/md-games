@@ -1,0 +1,143 @@
+SupraKillminds! (v1.0)
+
+Information:
+
+· Project Name: SupraKillminds!
+· Code by: Jack Nolddor using SGDK
+· Music / SFX by: Davidian aka "David el Murciano" using Deflemask Music Tracker
+· Genre: Puzzle
+· Serial Nº: JN-20140214-01
+· Last Version: SupraKillminds! (v1.0)
+
+** New updates will be announced on Facebook and Twitter follow me!
+
+
+Description:
+SupraKillminds! is a simple puzzle game, that is being developed by Jack Nolldor. 
+The object of the game is to create complete quadrants, by using the four auxiliary 
+quadrants (up, down, left and right) to earn point, which are determined by the 
+quantity of the same color that the other other quadrants are located. 
+Parts of the center squares color appear will appear in the same auxiliary 
+quadrants in the same location, as they were in the central square by pressing 
+a button on the directional pad. Points are awarded as follows:
+    5 Points = All of the color positions are different
+    20 Points = Two of the color positions are the same
+    50 Points = Three of the color positions are the same
+    150 Points + 1Up = The whole quadrant are the same color
+    250 Points + 1Up = If all quadrants are empty at the end
+
+
+
+Description:
+
+SupraKillminds! al que apartir de ahora nos referiremos a él como *JuegoQueNoDebesJugarJamas* es un juego para Sega Mega Drive / Genesis especialmente diseñado para que 
+vuestro cerebro se derrita como un helado de Sevilla en pleno verano, en el que contamos con fichas de cuatro colores diferentes que a su vez pueden ocupar 4 posiciones 
+distintas de un cuadrante.
+
+El juego consiste en crear cuadrantes completos usando los cuadrantes auxiliares (arriba, abajo, derecha y izquierda) para ganar puntos, dependieno de la cantidad de un 
+mismo color con el que hayamos rellenado el cuadrante.
+Las piezas de color del cuadrado central aparecen en los cuadrantes auxiliares en la misma posición en la que estaban en el cuadrado central al pulsar una dirección del 
+pad.
+
+10 pts = Todas las posiciones de un color distinto
+40 pts = Dos posiciones del mismo color
+100 pts = Tres posiciones del mismo color
+300 pts = Todo el cuadrante del mismo color
+500 pts + 1Up = Si además todos los cuadrantes están vacíos
+
+** Time decrease every 1.000 points.
+
+Pero no es tán facil como lo pintan, solo tendremos aproximadamente dos segundos para decidir en que posición poner nuestra ficha, si se agota el tiempo o la posicion 
+donde hemos colocado nuestra ficha no se encontraba vacía perderemos una vida.
+
+Si se te agotan todas las vidas habrá acabado la partida *Snif Snif*
+
+» You can buy physical cartridge in StoreBonus.net
+
+
+
+P.S:
+* Special thanks to Pocket_lucho(1985 Alternativo), Theelf and The Mojon Twins for their programming manuals (here, here & here), and realbrucest, Manveru Ainu, Stef 
+and MoonWatcherMD for helping me to continue my code and show me how to improve it.
+
+** This game is based on "Quarter" by Photon Storm
+
+
+
+ 
+ ESTE JUEGO HA SIDO PUBLICADO DE FORMA GRATUITA, SI PAGASTE POR ÉL HAS SIDO ESTAFADO.
+
+
+
+::::::::::::::::::::::::::::::::::::
+::::	INFORMACÍON TÉCNICA	::::
+::::::::::::::::::::::::::::::::::::
+
+ - Nombre: SupraKillminds!
+ - Plataforma: Sega Mega Drive / Genesis
+ - Género: Puzzle
+ - Código: Jack Nolddor
+ - Música / SFX: David Sanchez aka Davidian (el Murciano)
+ - Versión: 1.0
+ - Nº de Serie: JN-20140214-01
+
+
+
+::::::::::::::::::::::::::::::::::::
+::::	    ¿CÓMO JUGAR?        ::::
+::::::::::::::::::::::::::::::::::::
+
+ En SupraKillminds! contamos con trozos de gemas de cuatro colores diferentes que a su vez pueden ocupar 4 posiciones distintas de un cuadrante.
+
+ El juego consiste en crear cuadrantes completos usando los cuadrantes auxiliares (arriba, abajo, derecha y izquierda) para ganar puntos, 
+ dependieno de la cantidad de un mismo color con el que hayamos rellenado el cuadrante.
+ Las piezas de color del cuadrado central aparecen en los cuadrantes auxiliares en la misma posición en la que estaban en el cuadrado central al pulsar una dirección del pad.
+
+
+	10 pts = Todas las posiciones de un color distinto
+	40 pts = Dos posiciones del mismo color
+	100 pts = Tres posiciones del mismo color
+	300 pts = Todo el cuadrante del mismo color
+	500 pts + 1Up = Si además todos los cuadrantes están vacíos
+
+
+ Pero no es tán facil como parece, tan solo tendremos aproximadamente dos segundos para decidir en que posición poner nuestro trozo de gema, 
+ si se agota el tiempo o la posicion donde hemos colocado nuestro trozo de gema no se encontraba vacía perderemos una vida.
+ Además el tiempo irá disminuyendo  en función de los puntos que obtengamos, cada 1.000 puntos el contador que inicialmente esta en 120 disminuirá en uno.
+
+ Se rápido y este muy antento, si se te agotan todas las vidas habrá acabado la partida.
+
+
+
+::::::::::::::::::::::::::::::::::::
+::::	     HISTORIAL          ::::
+::::::::::::::::::::::::::::::::::::
+
+ V1.0 (14/02/2014)
+ - Lanzamiento de la primera versión estable.
+
+
+
+::::::::::::::::::::::::::::::::::::
+::::	  AGRADECIMIENTOS       ::::
+::::::::::::::::::::::::::::::::::::
+
+ Este juego no habría sido posible sin la ayuda de Pocket_lucho(1985 Alternativo), Theelf, The Mojon Twins, realbrucest, Manveru Ainu, bertobp, Stef y MoonWatcherMD.
+ Muchas gracias a todos ellos por ayudarme de una u otra forma a continuar mi código y mejorarlo.
+
+
+
+::::::::::::::::::::::::::::::::::::
+::::	      CONTACTO          ::::
+::::::::::::::::::::::::::::::::::::
+ 
+ Puede contactar conmigo mediante email:
+		
+	nolddor@hotmail.com
+
+
+ Recuerda, ¡nuevos juegos te esperan!. No olvides visitarnos en las redes sociales:
+	
+	Facebook: https://www.facebook.com/retrofullgameplay
+	
+	Twitter: https://twitter.com/RetroFullPlay

@@ -1,0 +1,10 @@
+Super Mario Bros (MULS_1.4.2)
+by Mairtrus 
+2010/July/11
+
+A complete port of the Super Mario Bros game for NES. 
+
+https://segaretro.org/List_of_Sega_Mega_Drive_homebrew_games
+http://devster.proboards.com/thread/613
+https://virtuallyfun.com/wordpress/2011/12/05/super-mario-for-the-sega-genesis/
+http://www.fileden.com/files/2007/11/30/1616239//MULS.bin

@@ -1,0 +1,48 @@
+[MD GAME] Mega-Drive Space Pixy
+« on: August 20, 2010, 12:24:34 PM »
+Nickname: sarang
+Projet name: Brave space PIXY
+Division: Retro GAME
+Platform: MD (mega-drive, or SEGA genesis)
+Original enter: YES
+Support Motion: ??
+In last NEO Compo this project have won in the top 10: YES
+
+Project description:
+I just found this compo only recently. Even there wasn't much time to work, I really wanted to try. 
+You see--I love RETRO CONSOLE!! So, when I heard it is RETRO-theme compo, I just had to enter  
+
+This is my first time to write a code on this hardware (mega-drive). 
+I thought it's important to me, so I had to make retro console (not nds or psp or iphone etc) game
+
+So... then some couple short weeks of learning, learning learning,  ~sm-58.gif~.gif and, little bit of work  
+I made this entry for 2010 summer Neo Compo! I tell honest, it is not perfect for my standard... almost, 
+I didn't enter it!! But, then, I see so many NDS, PSP game here... and no love for mega-drive  :'( 
+(or even nes/gba/gbc,,why???) so even it's not my best work, I'll share anyway  ::sm-25.gif:: retro console never let die!!! hehehe
+
+ps- sorry my poor english...i got little help so game is not so bad english...maybe i made some mistake, i hope you please excuse~
+
+How to use it:
+i can make it much more difficult, but i hoped you can all finish this game ^^ the story is quite fun to me~ so, maybe it little 
+too easy, but was my intention in this version of game.
+it's very simple game... you just gotta, collect mushrooms. when mushroom counter = 0, you can collect a horn. when horn counter = 0, 
+you can finish the level (use a wand the rainbow bridge)
+
+Controls:
+d-pad = move the pixy
+A button = use the wand
+^--use wand on: the mushroom, unicorns' horn, rainbow briges, boss (<3)
+
+This game is 8 level, and you can choose the start level. I made it so you can see all level, even if you hate the play...  
+::sm-02::  maybe you can enjoy storyline,
+but you gotta beat the BOSS if u wanna see ending and credits  ~sm-31.gif~
+
+
+DOWNLOAD: http://squarenipple.com/onionzoo/roms/spacy-pixy-neoretro.bin spacy-pixy-neoretro.bin (SMD .bin file, about 380 KB)
+EMULATOR: http://squarenipple.com/onionzoo/roms/Fusion364.zip Kega Fusion-Window version
+
+please, let's enjoy together
+cheers!
+
+ps- if you cannot understand my explain, please ask me, i try to help ... or,any other question?
+
