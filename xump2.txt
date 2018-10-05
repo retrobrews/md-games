@@ -1,0 +1,71 @@
+                                                                                                 
+                                                                    .-''-.     
+                              __  __   ___  _______   _...._      .' .-.  )    
+                             |  |/  `.'   `.\      |.'      '.   / .'  / /     
+                             |   .-.  .-.   '\      .'```'.   '.(_/   / /      
+   ____     _____            |  |  |  |  |  | \    |       \    \    / /       
+  `.   \  .'    /     _    _ |  |  |  |  |  |  |   |        |   |   / /        
+    `.  `'    .'     | '  / ||  |  |  |  |  |  |    \      /   .   . '         
+      '.    .'      .' | .' ||  |  |  |  |  |  |   |\`'-.-'  .'   / /    _.-') 
+      .'     `.     /  | /  ||__|  |__|  |__|  |   | '-....-'   .' '  _.'.-''  
+    .'  .'`.   `.  |   `'.  |                 .'   '.          /  /.-'_.'      
+  .'   /    `.   `.'   .'|  '/              '---------'       /    _.'         
+ '----'       '----'`-'  `--'                                 ( _.-'                           
+                                                                                
+
+Xump 2 for Mega Drive by Retroguru
+
+A Revision 2017 Party Release - Final to come...
+Check retroguru.com for updates!
+We are also on Facebook! :)
+
+Only god knows how old this file is :)
+There might be also a phyiscal version by now!
+
+
+Xump 2 - Back In Space is the second follow up of Xump.
+
+Help Misuki to clean up deserted space fields. Luckily Holger borrowed out his headbot Xump, who will take over again.
+Clear all dissolving tiles on several single-screen levels by simply stepping on them, one by one. 
+Few fields are secured with mines and need a double tap. Mines can be blown up when passing by or disarmed by Xump
+when staying on this specific field for a short moment. Certainly the mission sounds easier than it will be.
+
+Xump 2 Features:
+* Joystick, Joypad and Mouse Controls (all system depending)
+* 3 YM tracks for your audio pleasure!
+* 48 levels
+* Retro styled password system
+
+
+*** Code ***
+Lars -AnotherGuest- Persson
+Andre -kedo- Hänsel
+Florent -x7r- U.
+
+*** Fonts ***
+Unknown
+Christian -Ragnarok- Damm
+
+*** Character Design: ***
+Christian -DayDream- Hildenbrand
+Christian -Ragnarok- Damm
+
+*** Music ***
+Jakub -AceMan- Szelag
+
+*** Sfx ***
+Andrew -ne7- Lemon
+
+*** Beta Testing ***
+Denny -Mulle- Müller
+Martin -Altraz- Ahman
+Shahzad -Kojote- Sahaib
+
+*** Levels & Project Mangement ***
+Shahzad -Kojote- Sahaib
+
+[EOF]
+
+http://www.retroguru.com/xump2/
+https://www.pouet.net/prod.php?which=69674
+https://demozoo.org/productions/170865/

@@ -1,0 +1,26 @@
+﻿Yie Ar Kung-Fu on Sega MD
+by Evgeny
+Jan 3, 2008 at 12:20pm
+
+This is my first fullgame on basiegaxorz. Port Yie Ar Kung-Fu - NES game.
+Used Music Engine by Shiru.
+
+Gameplay
+Yie Ar Kung-Fu (Chinese: 一二功夫; pinyin: yī èr gōngfū; literally: "One Two Kung Fu") 
+features the protagonist who is a Wong Jack Man-based Kung Fu master named Oolong 
+(Chinese: 烏龍; pinyin: Wūlóng, Japanese: ウーロン Ūron; see oolong) (renamed Lee for 
+the MSX and Famicom ports), controlled by the player. Oolong must fight all the 
+martial arts masters given by the game (11 in the arcade version; five to 13 in 
+the home ports) to win the title of "Grand Master" and honor the memory of his 
+father. On his side is a variety of punch and kick blows reachable by combining 
+the joystick with one of the buttons (punch or kick). He also has the greatest 
+jumping ability of all the game's fighters, with the exception of "Blues".
+
+The player faces a variety of opponents, each with a unique appearance and fighting style.
+The player can perform up to 16 different moves,[6] using a combination of buttons and 
+joystick movements while standing, crouching or jumping.[7] Moves are thrown at high, 
+middle, and low levels. Regardless of the move that defeated them, male characters 
+(save Feedle) always fall unconscious lying on their backs with their legs apart 
+(players flail their feet), and female characters always fall lying on their sides. 
+Feedle disappears. When a player gains an extra life, the word "xiè xiè" 
+(Mandarin for "thank you") is heard. 
