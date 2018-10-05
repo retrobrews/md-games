@@ -1,0 +1,28 @@
+Crazy Cars MD
+by F.L.
+2013
+
+Remake of the best racing game of Amstrad CPC released in 1988. 
+
+i have created an "open source" clone of the best racing game of Amstrad CPC in 1988 :
+CRAZY CARS , the first game of french editor TITUS
+i have done the PC version in august 2012 and the Sega Genesis version in july 2013
+
+i have tried to re-created the original as in 1988, as faithfully as possible .
+the game is "open Source", so if someone feel to correct my faults, they do not refrain.
+the programming language is BASIC, thanks to the awesome software QB64 (www.qb64.net)
+QB64.net
+ QB64.net
+which allows to program in BASIC on newer computers that proves that BASIC is not dead !!
+and for the Genesis version , i used BasiEgaXorz, a basic IDE wich allows to make Genesis roms !!
+
+http://devster.monkeeh.com/sega/basiegaxorz/
+
+
+F.L
+last update, july 06 2013
+
+FL.basic@free.fr
+
+
+http://crazycarscpc.free.fr/indexEN.htm

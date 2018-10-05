@@ -1,0 +1,85 @@
+Cave Story MD (洞窟物語 Dōkutsu Monogatari) (doukutsu-v0.5.1)
+by Andy Grind
+2018/03/12
+
+This is a rewrite/port of the popular freeware game Cave Story for Sega Mega Drive/Genesis. 
+It should work on any console or emulator*. It's fairly stable at this point but gets buggier as the game progresses.
+
+(*) Genesis Plus GX crashes at startup. This is the only emulator known to have the issue.
+
+
+Gameplay
+The player controls the on-screen character directly using the keyboard or gamepad. 
+The player progresses by navigating platform game puzzles and shooting enemies with the equipped weapon.
+When the player collects multiple weapons, they may be toggled at any time with the press of a button. 
+Defeating enemies sometimes yields yellow triangular objects, which give experience points to weapons when collected. 
+Weapons may be improved up to level three, but taking damage causes weapons to lose experience and levels.
+Health and missile capacity upgrades are scattered throughout the game world. 
+The player must interact with a variety of non-player characters and objects to complete the game. 
+
+Control Defaults
+
+If you have a 6 button controller:
+
+    C - Jump, confirm
+    B - Shoot
+    A - Fast forward through scripted events
+    Y, Z - Switch weapon
+    Start - Pause / Item Menu
+
+For 3 button, A cycles through weapons. The rest is the same.
+Cheats
+
+    Stage Select: up, down, left, right, A + Start. Like Sonic.
+    Infinite health/ammo: up, up, down, down, left, right, left, right, A + Start.
+
+You can still get crushed and fall out of bounds.
+
+Note that you can't load or save the game while cheating (including the counter).
+
+
+Thanks
+
+I did not know how to sort this list, so I did it alphabetically.
+
+    andwhyisit: A whole lot of testing. Automated builds.
+    DavisOlivier: Helped with a few music tracks.
+    Sik: Mega Drive tech support. Made the font used ingame.
+    Other people I probably forgot
+
+
+https://github.com/andwn/cave-story-md
+Licence --> https://github.com/andwn/cave-story-md/blob/master/doc/LICENSE.md
+
+License & Copying
+SGDK modules & XGM Driver - MIT
+
+The DMA queue (src/dma.c) and XGM driver (src/xgm.c, src/xgm/*) are from SGDK, and SGDK uses the MIT license.
+CS Engine and NXengine-based AI routines - GPLv3
+
+Consider all code except those explicitly mentioned above (and their respective headers) to to GPLv3. Most of the code 
+in this engine is original, except for the AI routines in src/ai/. Even is places where an AI function is entirely different, 
+NXEngine's version was still used as a starting point. There are other bits and pieces I took, such as the booster code,
+ proper speeds/logic for weapons, etc.
+Graphics, Story, and Characters - Property of Studio Pixel
+
+All created by Pixel, unless specified otherwise. I used them without permission. You absolutely can't use these in anything 
+commercial. Nicalis owns the exclusive rights (in the west at least). Not to mention it would be pretty disrespectful to the 
+original creator.
+Music Covers - CC-BY-NC
+
+Most of these are created by me in Deflemask and are CC-BY-NC (give me credit, and don't use it in a commercial product).
+
+A few were remade or modified DavisOlivier. No license was mentioned. Ask them if you want to use these in something:
+
+    Cave Story
+    Eyes of Flame
+    Gestation
+    Gravity
+    Fanfare 1 / 2 / 3
+
+Fonts
+
+The font used in the Title Screen menus, in-game dialogue, and crash messages was made by Sik. Ask him if you want to use them.
+
+The Japanese font is F16. The inside of the file states "(c) Copyright 2000-2003 /efont/ The Electronic Font Open Laboratory."

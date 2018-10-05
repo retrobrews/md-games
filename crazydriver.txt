@@ -1,0 +1,57 @@
+Crazy Driver (v1.1) for Sega Genesis
+(c) 2013 M-374 LX
+
+Gameplay
+--------
+ As the name suggests, you are a crazy driver in this game. All you want is
+ to drive fast!
+
+ Crazy Driver is a simple driving game where you only need to avoid crashing 
+ into other cars. By driving faster, you get a higher score.
+
+Controls
+--------
+ D-pad left/right: steer
+ A/B/C: accelerate like crazy!
+ Start: pause
+
+Technical side features
+-----------------------
+ Usage of sprites and VDP planes A and B
+ Vertical scrolling
+ FM sound effects
+ Music using FM, DAC samples and PSG
+
+Release history
+---------------
+ 1.0
+  First version
+
+ 1.1
+  New music, now featuring DAC samples and a Z80 sample driver
+  Audio issues on the real hardware fixed
+  Bug causing the game to run faster fixed
+
+Credits
+-------
+ Programming, music:
+  M-374 LX (wilsalx@gmail.com, http://m374lx.users.sourceforge.net)
+
+ Graphics:
+  Tião Ferreira (cabrumzine@hotmail.com, http://tiaoferreira.deviantart.com)
+
+ Thanks to:
+  Kaneda (http://gendev.spritesmind.net)
+  Paul W. Lee
+  Charles MacDonald (http://cgfm2.emuviews.com)
+  Chilly Willy
+
+Legal
+-----
+ This software can be used any purpose and redistributed freely. However,
+ it cannot be sold. 
+
+ By using any portion of the source code, the authors must be credited.
+
+ This software is not licensed by Sega.
+

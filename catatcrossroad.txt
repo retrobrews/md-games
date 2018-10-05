@@ -1,0 +1,24 @@
+Short:    Make the way to the kitten. V0.9 (Sega Mega Drive)
+Author:   Ventzislav Tzvetkov and Joar Berntsen
+Uploader: http://drhirudo.hit.bg
+Version:  0.9
+Type:     game/board
+
+  A cat stands at crossroad and somebody have to help it by choosing
+ the way, to find the other kitten, which is hidden somewhere at the
+ end of the road. In such situation will occur the fan of the logical
+ adventures, in home enviroment.
+
+  The game is played on a board divided by 5 rows and 5 columns.
+ Each player puts one of the three possible plates and the lines on
+ them make a road. The goal is to reach the kitten located at the
+ bottom right corner, or to force the opponent to touch the board
+ limits. At the top of the screen symbolicaly is showed the result
+ of the last 10 games. The one, whom cat first catch the mouse (and
+ this happens after the 10th victory), wins the whole serie of games.
+  If you play well you can always win. But the computer is a good
+ opponent - try and you will see. 
+
+ Enjoy!
+
+ Any comments, ideas, bug-reports etc. will be appreciated.

@@ -1,0 +1,14 @@
+Doroppu
+
+Doroppu is a brand new indie homebrew game for the Sega Genesis / Megadrive. It is a tile matching game with 
+influences taken from Puyo Puyo and Puzzle Bobble to create a unique new experience. Doroppu can be played 
+by 1 player, or 2 players in split screen vs mode.
+
+Created using BasiEgaXorz, Doroppu is Repixel8’s first of a line of new games for Sega’s 16 bit console.
+
+Doroppu is released as a Rom download, with a limited physical cartridge release following.
+
+video:
+https://youtu.be/9dKA8iGZVwE
+
+http://repixel8.com/doroppu/

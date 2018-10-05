@@ -1,0 +1,40 @@
+BombX
+by Josh Tari (CaptainDreamcast)
+Original release date: 31/03/2017
+
+
+Puzzle game for Sega Megadrive.
+Think outside the box and have a blast!
+
+Objective of this game is to move the boxes and make them explode. All of the boxes have numbers.
+If you move one other will also countdown. The black squares are the place where the bobms should explode!
+
+https://captaindreamcast.itch.io/bombx
+
+Bombx
+
+Controls for Mega Drive:
+
+    Move - D Pad
+    Start - Start
+
+Controls for Genesis:
+
+    Move - D Pad
+    Start - Start
+
+Half bomb... half box... full throttle!
+
+Adrian Amight is not your everyday nitro-archaeologist! After an archaeo-science experiment gone wrong, Adrian is stuck in a lab with technology that was forgotten from the pages of history - a combination of boxes and bombs: Bombxes.
+
+Can you help her escape in one piece and solve the riddle of the mysterious bombxes?
+
+A brand new puzzle adventure coming to your Sega Mega Drive in 2017!
+
+(Bombx is one of my silly smaller games, so please don't go in expecting something grand, ok?)
+
+Additional notes:
+
+    Original release date: 31/03/2017
+    Source code is on github: http://github.com/CaptainDreamcast/Bombx/
+    You can follow me on twitter, if you're into that: http://twitter.com/CaptDreamcast
