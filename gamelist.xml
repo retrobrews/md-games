@@ -349,10 +349,10 @@
      <players>1</players>
    </game>
    <game>
-     <path>./funnyworldballoonboy.bin</path>
+     <path>./funnyworldbb.bin</path>
      <name>Funny World &amp; Balloon Boy - 2in1</name>
      <desc>It contains two games, selectable by a menu on boot. 1) Funny World: Shooting gallery game. Left and Right move the gun and B shoots. There are some targets to avoid (such as humans). 2) Balloon Boy: Some type of shooting/dodging game. Left and Right move around, A shoots (you can only shoot straight up), and B jumps. The goal of each level is to shoot at balloons, collecting goodies that come out of some of them but avoiding traps that come out of some others.</desc>
-     <image>./funnyworldballoonboy.png</image>
+     <image>./funnyworldbb.png</image>
      <rating>0</rating>
      <releasedate>19930000T000000</releasedate>
      <developer>AV artisan</developer>
@@ -505,10 +505,10 @@
      <players>1</players>
    </game>
    <game>
-     <path>./leovigildosmurcianconspiracy.bin</path>
+     <path>./leomurconspiracy.bin</path>
      <name>Leovigildo&apos;s Murcian Conspiracy</name>
      <desc>A pretty game on two little sprites shot each other jumping... while fight dolphins ( and cyborg frogs one day) that eats onion fried rings controlled by the evil Leovigildo that conspires to conquer Murcia!</desc>
-     <image>./leovigildosmurcianconspiracy.png</image>
+     <image>./leomurconspiracy.png</image>
      <rating>0</rating>
      <releasedate>20140621T000000</releasedate>
      <developer>1985 Alternativo</developer>
