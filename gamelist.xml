@@ -553,7 +553,7 @@
      <players>1</players>
    </game>
    <game>
-     <path>./megamariotd.bin</path>
+     <path>./megamariotd.md</path>
      <name>Mega Mario Tower Defense</name>
      <desc>Tower defense (TD) is a subgenre of strategy video game where the goal is to defend a player's territories or possessions by obstructing the enemy attackers, usually achieved by placing defensive structures on or along their path of attack. Controls: Button A: Place a unit; Button B: Remove a unit; Button C: Menu / Map; Start: start game.</desc>
      <image>./megamariotd.png</image>
