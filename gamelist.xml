@@ -87,7 +87,7 @@
    <game>
      <path>./bareknuckleprincesss.bin</path>
      <name>Bare Knuckled Princess</name>
-     <desc>Princess Linear, the fair and loved princess of Bitland has been openly shamed by Princess Plum of Polygosia, accused of fraternising with lower class men &amp; women. The ancients decree that the only way to resolve matters of this kind is trial by combat! So the 3rd Royal Rumble takes place! Step forth Princess Linear, and defend your home lands honour,  in the ring!</desc>
+     <desc>Princess Linear, the fair and loved princess of Bitland has been openly shamed by Princess Plum of Polygosia, accused of fraternising with lower class men and women. The ancients decree that the only way to resolve matters of this kind is trial by combat! So the 3rd Royal Rumble takes place! Step forth Princess Linear, and defend your home lands honour,  in the ring!</desc>
      <image>./bareknuckleprincesss.png</image>
      <rating>0</rating>
      <releasedate>20160704T000000</releasedate>
@@ -350,14 +350,14 @@
    </game>
    <game>
      <path>./funnyworldbb.bin</path>
-     <name>Funny World &amp; Balloon Boy - 2in1</name>
+     <name>Funny World and Balloon Boy - 2in1</name>
      <desc>It contains two games, selectable by a menu on boot. 1) Funny World: Shooting gallery game. Left and Right move the gun and B shoots. There are some targets to avoid (such as humans). 2) Balloon Boy: Some type of shooting/dodging game. Left and Right move around, A shoots (you can only shoot straight up), and B jumps. The goal of each level is to shoot at balloons, collecting goodies that come out of some of them but avoiding traps that come out of some others.</desc>
      <image>./funnyworldbb.png</image>
      <rating>0</rating>
      <releasedate>19930101T000000</releasedate>
      <developer>AV artisan</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Funny World &amp; Balloon Boy - 2in1</genre>
+     <genre>Funny World and Balloon Boy - 2in1</genre>
      <players>1</players>
    </game>
    <game>
@@ -470,14 +470,14 @@
    </game>
    <game>
      <path>./joshua.md</path>
-     <name>Joshua &amp; the Battle of Jericho</name>
+     <name>Joshua and the Battle of Jericho</name>
      <desc>You are the main character Joshua and you must collect all the coins with $ on them scattered throughout each maze. A and C shoot. Shooting destroys blockades and enemies. Once all the coins are gathered, find the exit to move on to the next level.</desc>
      <image>./joshua.png</image>
      <rating>0</rating>
      <releasedate>19940101T000000</releasedate>
      <developer>Wisdom Tree</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Joshua &amp; the Battle of Jericho</genre>
+     <genre>Joshua and the Battle of Jericho</genre>
      <players>1-2</players>
    </game>
    <game>
@@ -627,7 +627,7 @@
    <game>
      <path>./octopus.bin</path>
      <name>Octopus</name>
-     <desc>A port of original Octopus game for  Game &amp; Watch Handhelds.</desc>
+     <desc>A port of original Octopus game for  Game and Watch Handhelds.</desc>
      <image>./octopus.png</image>
      <rating>0</rating>
      <releasedate>20150201T000000</releasedate>
@@ -675,7 +675,7 @@
    <game>
      <path>./papicommandotennis.bin</path>
      <name>Papi Commando Tennis</name>
-     <desc>This is the new Demo of Papi Tennis ! You can play with a Friend or against AI for training of a 1 set Match !! Controls: PAD - Move Papi; Button A - Normal Shoot; UP &amp; Button A - Long Shoot; DOWN &amp; Button A - Short Shoot; Button A &amp; Button B - Power Shoot; Button START - Pause Game.</desc>
+     <desc>This is the new Demo of Papi Tennis ! You can play with a Friend or against AI for training of a 1 set Match !! Controls: PAD - Move Papi; Button A - Normal Shoot; UP and Button A - Long Shoot; DOWN and Button A - Short Shoot; Button A and Button B - Power Shoot; Button START - Pause Game.</desc>
      <image>./papicommandotennis.png</image>
      <rating>0</rating>
      <releasedate>20180317T000000</releasedate>
