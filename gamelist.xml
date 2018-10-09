@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <gameList>
+   <game>
+     <path>./2048.bin</path>
+     <name>2048</name>
+     <desc>2048 is a logic game which has seen plenty of platforms as of now, also the Sega Genesis/Megadrive. Written entirely by Oerg866 including graphics and music.</desc>
+     <image>./2048.png</image>
+     <rating>0</rating>
+     <releasedate>20140524T000000</releasedate>
+     <developer>Oerg866</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>2048</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./aventureoflolo.bin</path>
+     <name>Aventure of Lolo</name>
+     <desc>Your objective is to collect all the pink hearts. You can collect poke balls to kill frogs. Once all hearts collected, push the bomb and kill all the frogs. Then eexit the level. Controls: A- Shoot; C- restart level. Game is a port from NES.</desc>
+     <image>./aventureoflolo.png</image>
+     <rating>0</rating>
+     <releasedate>20171014T000000</releasedate>
+     <developer>Staffan</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Aventure of Lolo</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./adventurousboy.md</path>
+     <name>Adventurous Boy</name>
+     <desc>In the game, the player&apos;s ship is placed in a level with a number of bases to destroy. When all the bases are gone, the stage boss appears, who must be defeated in order to move on to the next stage. The game is Fantasy Zone clone.</desc>
+     <image>./adventurousboy.png</image>
+     <rating>0</rating>
+     <releasedate>19961224T000000</releasedate>
+     <developer>Mao Xian Xiao Zi</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Adventurous Boy</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./airstriker.bin</path>
+     <name>Airstriker</name>
+     <desc>Airstriker is a 1980&apos;s-like arcade vertical shooter with 2 player support and an endurance mode.</desc>
+     <image>./airstriker.png</image>
+     <rating>0</rating>
+     <releasedate>20081130T000000</releasedate>
+     <developer>Electrokinesis Studios</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Airstriker</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./asciiwar.bin</path>
+     <name>ASCII WAR</name>
+     <desc>A simple 2 player combat game. An evil warlord lives in a dimension where everything is made up of ASCII art. He sent out a scout, to look for new lands to conquer. A resistance group also sent out a scout of their own, and they meet in out dimension to fight. The ships don&apos;t shoot bullets, but strings of text.</desc>
+     <image>./asciiwar.png</image>
+     <rating>0</rating>
+     <releasedate>20150000T000000</releasedate>
+     <developer>ComradeOj</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>ASCII WAR</genre>
+     <players>2</players>
+   </game>
+   <game>
+     <path>./astroperdido.bin</path>
+     <name>Astronauta Perdido (Lost Astronaut)</name>
+     <desc>You are a lost astronaut and you need to find a way out. Collect bullets and then fire our the barricade! Controls: A = restart stage; B = laser shoot; C = jump; START = pause game... Game is in spanish, but transalation is really not needed.</desc>
+     <image>./astroperdido.png</image>
+     <rating>0</rating>
+     <releasedate>20180109T000000</releasedate>
+     <developer>Nemezes</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Astronauta Perdido (Lost Astronaut)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./barbarian.bin</path>
+     <name>Barbarian (CPC)</name>
+     <desc>In the game, the player is Hegor, a barbarian who must traverse several dungeons and underground habitats to defeat his brother, the evil sorcerer Necron. He has a sword and bow in his arsenal of weapons. Running and jumping, as with many platform games, comprises a large part of the gameplay of this title.</desc>
+     <image>./barbarian.png</image>
+     <rating>0</rating>
+     <releasedate>20140925T000000</releasedate>
+     <developer>F.L.</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Barbarian (CPC)</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./bareknuckleprincesss.bin</path>
+     <name>Bare Knuckled Princess</name>
+     <desc>Princess Linear, the fair and loved princess of Bitland has been openly shamed by Princess Plum of Polygosia, accused of fraternising with lower class men &amp; women. The ancients decree that the only way to resolve matters of this kind is trial by combat! So the 3rd Royal Rumble takes place! Step forth Princess Linear, and defend your home lands honour,  in the ring!</desc>
+     <image>./bareknuckleprincesss.png</image>
+     <rating>0</rating>
+     <releasedate>20160704T000000</releasedate>
+     <developer>OhCarson</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Bare Knuckled Princess</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./battlecity.bin</path>
+     <name>Battle City</name>
+     <desc>The player, controlling a Tank, must destroy enemy tanks in each level, which enter the playfield from the top of the screen. A remake of Battle City game for NES.</desc>
+     <image>./battlecity.png</image>
+     <rating>0</rating>
+     <releasedate>20090813T000000</releasedate>
+     <developer>Krikzz </developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Battle City</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./berzerk.smd</path>
+     <name>Berzerk</name>
+     <desc>Remake of the classic Berzerk Atari 2600 game. Shoot the robots in the maze to score points. Berzerk was first released on the Atari 2600 console in 1982. You play a stick-figure, representing a "humanoid."</desc>
+     <image>./berzerk.png</image>
+     <rating>0</rating>
+     <releasedate>19990330T000000</releasedate>
+     <developer>Paul Lee</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Berzerk</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bibleadventures.md</path>
+     <name>Bible Adventures</name>
+     <desc>Game contains three different games: Noah&apos;s Ark, Baby Moses, and David and Goliath, all of which are based rather loosely on stories from the Bible. The gameplay of these games is sidescroller style similar to that of Super Mario Bros. 2 for the NES. The game also features Jesu, Joy of Man&apos;s Desiring, by J. S. Bach, as the background music for the title screen.</desc>
+     <image>./bibleadventures.png</image>
+     <rating>0</rating>
+     <releasedate>19950000T000000</releasedate>
+     <developer>Wisdom Tree</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Bible Adventures</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bomboy.md</path>
+     <name>Bomboy</name>
+     <desc>Bomboy is a strategic, maze-based video game, where the player must defeat enemies and reach an exit to progress through levels. Bomberman Clone game.</desc>
+     <image>./bomboy.png</image>
+     <rating>0</rating>
+     <releasedate>19930000T000000</releasedate>
+     <developer>Gamtec</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Bomboy</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bombx.bin</path>
+     <name>BombX</name>
+     <desc>Objective of this game is to move the boxes and make them explode. All of the boxes have numbers. If you move one other will also countdown. The black squares are the place where the bobms should explode!</desc>
+     <image>./bombx.png</image>
+     <rating>0</rating>
+     <releasedate>20170331T000000</releasedate>
+     <developer>Josh Tari</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BombX</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bottled.md</path>
+     <name>BoTTleD - Tower Defense</name>
+     <desc>A small tower defense game with one level. This level is fairly easy, can you beat it? No proper end condition yet, the enemies just stop as there&apos;s only one level.</desc>
+     <image>./bottled.png</image>
+     <rating>0</rating>
+     <releasedate>20170913T000000</releasedate>
+     <developer>Cero</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>BoTTleD - Tower Defense</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bughunt.bin</path>
+     <name>Bug Hunt</name>
+     <desc>Eat bugs while avoiding bees to compete for online highscore supremacy! Test your reflexes and timing in this simple yet addicting romp! A port of PC game by Lazy Brain Games.</desc>
+     <image>./bughunt.png</image>
+     <rating>0</rating>
+     <releasedate>20150128T000000</releasedate>
+     <developer>Jack Nolddor, MoonWatcherMD</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Bug Hunt</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./catatcrossroad.bin</path>
+     <name>Cat At Crossroad</name>
+     <desc>The game is played on a board divided by 5 rows and 5 columns.  Each player puts one of the three possible plates and the lines on them make a road. The goal is to reach the kitten located at the bottom right corner, or to force the opponent to touch the board limits. At the top of the screen symbolicaly is showed the result of the last 10 games. The one, whom cat first catch the mouse (and this happens after the 10th victory), wins the whole serie of games. If you play well you can always win. But the computer is a good opponent - try and you will see.</desc>
+     <image>./catatcrossroad.png</image>
+     <rating>0</rating>
+     <releasedate>20040714T000000</releasedate>
+     <developer>Dr. Hirudo</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Cat At Crossroad</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./cavestory.bin</path>
+     <name>Cave Story</name>
+     <desc>The player controls the on-screen character directly using the keyboard or gamepad. The player progresses by navigating platform game puzzles and shooting enemies with the equipped weapon. This is a rewrite/port of the popular freeware game Cave Story for Sega Mega Drive/Genesis.</desc>
+     <image>./cavestory.png</image>
+     <rating>0</rating>
+     <releasedate>20180312T000000</releasedate>
+     <developer>Andy Grind</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Cave Story</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./chase.bin</path>
+     <name>Chase</name>
+     <desc>Chase, that&apos;s how our protagonist is called, has heard rumors about a strange treasure hidden in the highest tower of the castle Belafort, an abandoned and inhabited place outside their village where live the most dark and gloomy beasts from so long ago that neither remembers. The Belafort castle originally, was owned by a famous thief who spent his last days of life to build mazes in each and every one of the ten floors that had the highest tower of the castle, in order to keep their wealth safe once he died. Will you be able to help Chase on his adventure? Escape from the beasts that protect the castle and back safely with the TREASURE!</desc>
+     <image>./chase.png</image>
+     <rating>0</rating>
+     <releasedate>20140805T000000</releasedate>
+     <developer>Jack Nolddor</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Chase</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./crazycars.bin</path>
+     <name>Crazy Cars</name>
+     <desc>Remake of the best racing game of Amstrad CPC released in 1988.</desc>
+     <image>./crazycars.png</image>
+     <rating>0</rating>
+     <releasedate>20130822T000000</releasedate>
+     <developer>F.L.</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Crazy Cars</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./crazydriver.bin</path>
+     <name>Crazy Driver</name>
+     <desc>As the name suggests, you are a crazy driver in this game. All you want is to drive fast! Crazy Driver is a simple driving game where you only need to avoid crashing into other cars. By driving faster, you get a higher score.</desc>
+     <image>./crazydriver.png</image>
+     <rating>0</rating>
+     <releasedate>20130918T000000</releasedate>
+     <developer>M-374 LX</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Crazy Driver</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./doroppu.bin</path>
+     <name>Doroppu</name>
+     <desc>Doroppu is a tile matching game with influences taken from Puyo Puyo and Puzzle Bobble to create a unique new experience. Doroppu can be played by 1 player, or 2 players in split screen vs mode.</desc>
+     <image>./doroppu.png</image>
+     <rating>0</rating>
+     <releasedate>20150000T000000</releasedate>
+     <developer>Repixel8</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Doroppu</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./downforce.bin</path>
+     <name>Downforce : Red Hot Princess Carnage</name>
+     <desc>Survive the race with a damn good time and try to at least come first. But be aware this game is SO fast that at times your eyes may struggle to keep up, especially when using boost lanes.</desc>
+     <image>./downforce.png</image>
+     <rating>0</rating>
+     <releasedate>20160703T000000</releasedate>
+     <developer>PixelArtM, Pocket_Lucho, ManuTrigger, DavidBonus</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Downforce : Red Hot Princess Carnage</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./dragonscastle.bin</path>
+     <name>Dragon&apos;s Castle</name>
+     <desc>Jump and attack are self-explanatory. Magic is a different kind of attack which gives you more points but it&apos;s a bit more risky to use. Currently magic doesn&apos;t work on every enemy (this will improve as development progresses). Controls: D-pad: move; A button: magic; B button: attack; C button: jump; Start button: pause.</desc>
+     <image>./dragonscastle.png</image>
+     <rating>0</rating>
+     <releasedate>20160713T000000</releasedate>
+     <developer>Javier Degirolmo (Sik)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Dragon&apos;s Castle</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./earthdefense.md</path>
+     <name>Earth Defense</name>
+     <desc>Vertical scrolling shoot &apos;em up game with simultaneous 2 player option. The player takes on the role of a jet pilot assigned to liberate five world continents from a technologically advanced army. Players had two different types of weapons to choose from during combat. A vulcan/spread shot weapon and a wave/beam shot weapon. Rather than possessing bomb-like items, the players had a shield item that made the ship temporarily invulnerable.</desc>
+     <image>./earthdefense.png</image>
+     <rating>0</rating>
+     <releasedate>19950000T000000</releasedate>
+     <developer>AV Artisan</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Earth Defense</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./errorrush.bin</path>
+     <name>Error Rush</name>
+     <desc>The objective of the game is to avoid running into the enemies for as long as you can. One new enemy is spawned every five seconds. Use the d-pad to avoid enemies, and hold &apos;A&apos; to move faster. Touch an enemy and it&apos;s game over!</desc>
+     <image>./errorrush.png</image>
+     <rating>0</rating>
+     <releasedate>20160427T000000</releasedate>
+     <developer>ComradeOj</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Error Rush</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./exodus.md</path>
+     <name>Exodus - Journey to the Promised Land</name>
+     <desc>You are the main character and you must collect all the bags with M on them scattered throughout each maze. A and C shoot; you can hold them down for rapidfire. Shooting destroys blockades and enemies. Once all the M bags are gathered, find the exit to move on to the next level. In between each level, you must answer a bunch of questions related to the story of the Bible of the game&apos;s theme; getting them wrong appears to be inconsequential to the outcome of the game (this needs investigation).</desc>
+     <image>./exodus.png</image>
+     <rating>0</rating>
+     <releasedate>19910000T000000</releasedate>
+     <developer>Wisdom Tree</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Exodus - Journey to the Promised Land</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./fatalsmarties.bin</path>
+     <name>Fatal Smarties</name>
+     <desc>Uh-oh, the occultic ritual-performing locals have taken things out of control, and they&apos;ve caused a timeloop of never-ending days of ritual! Take your two hillbilly heroes in their homemade flippercopter and try your best to repel the demonic waves of evil! Your ship is commanded by two players, one flies, the other shoots. You must work together to blast those hellish critters back to kingdom come, and confront the giant guardian hellbeast leading the charge. You keep going until your player dies (you can survive one shot for five seconds and return to normal, but if you&apos;re shot again during this period, you both die!)</desc>
+     <image>./fatalsmarties.png</image>
+     <rating>0</rating>
+     <releasedate>20160131T000000</releasedate>
+     <developer>Jon Davies, matt456, MichaelClarkMusic</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Fatal Smarties</genre>
+     <players>2</players>
+   </game>
+   <game>
+     <path>./fixitfelixjr.bin</path>
+     <name>Fix It Felix Jr.</name>
+     <desc>Port of a pseudo retro game in Flash by Disney (to help promote Wreck It Ralph).</desc>
+     <image>./fixitfelixjr.png</image>
+     <rating>0</rating>
+     <releasedate>20140325T000000</releasedate>
+     <developer>Airwalk Studios</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Fix It Felix Jr.</genre>
+     <players>1</players>
+   </game>   
+   <game>
+     <path>./flappybird.bin</path>
+     <name>Flappy Bird (RU)</name>
+     <desc>Your main goal is to fly between the pipes sticking from below and from above, trying to fly them as much as possible, in order to establish another record.</desc>
+     <image>./flappybird.png</image>
+     <rating>0</rating>
+     <releasedate>20140624T000000</releasedate>
+     <developer>PSCD</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Flappy Bird (RU)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./funnyworldballoonboy.bin</path>
+     <name>Funny World &amp; Balloon Boy - 2in1</name>
+     <desc>It contains two games, selectable by a menu on boot. 1) Funny World: Shooting gallery game. Left and Right move the gun and B shoots. There are some targets to avoid (such as humans). 2) Balloon Boy: Some type of shooting/dodging game. Left and Right move around, A shoots (you can only shoot straight up), and B jumps. The goal of each level is to shoot at balloons, collecting goodies that come out of some of them but avoiding traps that come out of some others.</desc>
+     <image>./funnyworldballoonboy.png</image>
+     <rating>0</rating>
+     <releasedate>19930000T000000</releasedate>
+     <developer>AV artisan</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Funny World &amp; Balloon Boy - 2in1</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./genpoker.bin</path>
+     <name>Gen Poker</name>
+     <desc>Poker game. The rules are simple: get a winning hand, and then either gamble a few times, trying to guess whether the next card is red or black, or just collect. Correct guesses will double your amount won. Guessing incorrectly takes away your winnings. You can collect whatever you won at any time.</desc>
+     <image>./genpoker.png</image>
+     <rating>0</rating>
+     <releasedate>20110309T000000</releasedate>
+     <developer>Sebastian Mihai</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Gen Poker</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./glassbreakermd.bin</path>
+     <name>Glass Breaker</name>
+     <desc>Objective of this game is to break all the windows of a house. It is not the easiest task because the inhabitants wont let you do so.</desc>
+     <image>./glassbreakermd.png</image>
+     <rating>0</rating>
+     <releasedate>20131125T000000</releasedate>
+     <developer>Tmeeco co.(TM)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Glass Breaker</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./goldrush.bin</path>
+     <name>Gold Rush</name>
+     <desc>Another Guitar Hero clone, Contorls: Gamepad, A, B, C.</desc>
+     <image>./goldrush.png</image>
+     <rating>0</rating>
+     <releasedate>20180401T000000</releasedate>
+     <developer>Andy Grind</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Gold Rush</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./gravitypig.bin</path>
+     <name>Gravity Pig</name>
+     <desc>A simple platformer game where you switch gravity instead of jumping. There are 15 stages and a boss fight at the end.</desc>
+     <image>./gravitypig.png</image>
+     <rating>0</rating>
+     <releasedate>20151012T000000</releasedate>
+     <developer>ComradeOj</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Gravity Pig</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./grielsquest.bin</path>
+     <name>Griels Quest for the Holy Porron</name>
+     <desc>The gameplay is similar both to Soukoban and the Lolo games, though the focus is not on moving boxes around. Instead, you are a knight who must pick up magic objects to vanquish evil creatures.</desc>
+     <image>./grielsquest.png</image>
+     <rating>0</rating>
+     <releasedate>20180725T000000</releasedate>
+     <developer>MoonWatcherMD</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Griels Quest for the Holy Porron</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./ikplusdeluxe.bin</path>
+     <name>IK+ Deluxe version</name>
+     <desc>Fight your way through this stunning sequel to International Karate. Spectacular animated backgrounds, amazing moves including double head-kick and bon-bending backflips. This must be an ultimate hit; at the sure hit; not against one but three opponents !!  Gallons on gratuitous fightin&apos; and fumpin&apos; fun to be had here.</desc> 
+     <image>./ikplusdeluxe.png</image>
+     <rating>0</rating>
+     <releasedate>20171208T000000</releasedate>
+     <developer>Igor, Troudki</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>IK+ Deluxe version</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./invasion.bin</path>
+     <name>Invasion</name>
+     <desc>A sort of Space Invaders game.</desc>
+     <image>./invasion.png</image>
+     <rating>0</rating>
+     <releasedate>20130000T000000</releasedate>
+     <developer>Psycatic Software</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Invasion</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./ironman.bin</path>
+     <name>Iron Man (RU)</name>
+     <desc>Iron Man is a 2D platform game based off the Marvel character of the same name. Game is in Russian, but you don&apos;t need to understand to play! Main character is small and with big head... and he is armed with laser. Have fun!</desc>
+     <image>./ironman.png</image>
+     <rating>0</rating>
+     <releasedate>20140705T000000</releasedate>
+     <developer>BMB</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Iron Man (RU)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./ixion.bin</path>
+     <name>Ixion</name>
+     <desc>Move the spaceship while avoiding bullets. </desc>
+     <image>./ixion.png</image>
+     <rating>0</rating>
+     <releasedate>20150000T000000</releasedate>
+     <developer>Nendo</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Ixion</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./joshua.md</path>
+     <name>Joshua &amp; the Battle of Jericho</name>
+     <desc>You are the main character Joshua and you must collect all the coins with $ on them scattered throughout each maze. A and C shoot. Shooting destroys blockades and enemies. Once all the coins are gathered, find the exit to move on to the next level.</desc>
+     <image>./joshua.png</image>
+     <rating>0</rating>
+     <releasedate>19940000T000000</releasedate>
+     <developer>Wisdom Tree</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Joshua &amp; the Battle of Jericho</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./junkbots.bin</path>
+     <name>Junkbots</name>
+     <desc>Quickly move with your bot (blue one) and find a treasure - laptop. If the AI bot will find it sooner you loose!</desc>
+     <image>./junkbots.png</image>
+     <rating>0</rating>
+     <releasedate>20140628T000000</releasedate>
+     <developer>Moon Watcher, Bitslap</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Junkbots</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./labbayedesmorts.bin</path>
+     <name>L&apos;Abbaye des Morts</name>
+     <desc>A demanding game where you will have to control Jean Reymond, a  Cathar monk, to escape to a fatal fate at the hands of the Crusade knights who want to hunt him.</desc>
+     <image>./labbayedesmorts.png</image>
+     <rating>0</rating>
+     <releasedate>20170907T000000</releasedate>
+     <developer>Playonretro</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>L&apos;Abbaye des Morts</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./leovigildosmurcianconspiracy.bin</path>
+     <name>Leovigildo&apos;s Murcian Conspiracy</name>
+     <desc>A pretty game on two little sprites shot each other jumping... while fight dolphins ( and cyborg frogs one day) that eats onion fried rings controlled by the evil Leovigildo that conspires to conquer Murcia!</desc>
+     <image>./leovigildosmurcianconspiracy.png</image>
+     <rating>0</rating>
+     <releasedate>20140621T000000</releasedate>
+     <developer>1985 Alternativo</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Leovigildo&apos;s Murcian Conspiracy</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./linkdragon.bin</path>
+     <name>Link Dragon</name>
+     <desc>The game is divided into several levels; after collecting a certain amount of fire a door opens (which you must go to without dying). Dying starts you at the beginning of the stage. A great game that deserves to be in any collection! Sega Genesis Blockade Clone Game.</desc>
+     <image>./linkdragon.png</image>
+     <rating>0</rating>
+     <releasedate>19930000T000000</releasedate>
+     <developer>Songtly, Jumbo Team</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Link Dragon</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./manganga.bin</path>
+     <name>Manganga</name>
+     <desc>Jump with Mr. Manganga (Mysterious), avoid obstacles and find the keys. Keys will open the doors for you. Once last doors are open you can find the sign. By moving to the sign you will go to next level.</desc>
+     <image>./manganga.png</image>
+     <rating>0</rating>
+     <releasedate>20180000T000000</releasedate>
+     <developer>Laudelino</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Manganga</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./megaflappysis.bin</path>
+     <name>Mega Flappy Sis</name>
+     <desc>The objective was to direct a flying bird, named "Faby", who moves continuously to the right, between sets of Mario-like pipes. If the player touches the pipes, they lose. Faby briefly flaps upward each time that the player taps the screen; if the screen is not tapped, Faby falls because of gravity; each pair of pipes that he navigates between earns the player a single point, with medals awarded for the score at the end of the game. Based on the original Flappy Bird by Dong Nguyen (2013).</desc>
+     <image>./megaflappysis.png</image>
+     <rating>0</rating>
+     <releasedate>20180107T000000</releasedate>
+     <developer>Lennart Brink-Abeler</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Mega Flappy Sis</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./megamariotd.bin</path>
+     <name>Mega Mario Tower Defense</name>
+     <desc>Tower defense (TD) is a subgenre of strategy video game where the goal is to defend a player&apos;s territories or possessions by obstructing the enemy attackers, usually achieved by placing defensive structures on or along their path of attack. Controls: Button A: Place a unit; Button B: Remove a unit; Button C: Menu / Map; Start: start game.</desc>
+     <image>./megamariotd.png</image>
+     <rating>0</rating>
+     <releasedate>20160828T000000</releasedate>
+     <developer>Kannagi</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Mega Mario Tower Defense</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./megamindtris.bin</path>
+     <name>Megamindtris</name>
+     <desc>Easy puzzle game: Just sum up the same numbers until you get the desired solution. A row clears when all cells contain the goal value.</desc>
+     <image>./megamindtris.png</image>
+     <rating>0</rating>
+     <releasedate>20170410T000000</releasedate>
+     <developer>1985 Alternativo</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Megamindtris</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./msa.bin</path>
+     <name>Mega Squad Advantage</name>
+     <desc>Slap the other player around of bunch to win! Your health is shown in your corner. Use the dash strategically to evade your enemy and strike at the right time. You may slap during a dash, and you may dash during a slap. Controls: A - Slap; B - Jump; C - Dash; D-pad - Movements.</desc>
+     <image>./msa.png</image>
+     <rating>0</rating>
+     <releasedate>20140000T000000</releasedate>
+     <developer>Michael Moffitt</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Mega Squad Advantage</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./megaqbert.bin</path>
+     <name>Mega Q*Bert</name>
+     <desc>Mega Q*bert is a fan adaptation of the popular arcade title for the Sega Mega Drive/Genesis. The title has 2 modes - Mega mode with 80 new different levels to beat and an Arcade mode, which is based on NES Q*bert (which in turn is based on the original game). Both modes allow simultaneous cooperative play.</desc>
+     <image>./megaqbert.png</image>
+     <rating>0</rating>
+     <releasedate>20160608T000000</releasedate>
+     <developer>Jaklub</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Mega Q*Bert</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./minesweeper.bin</path>
+     <name>MineSweeper (RU)</name>
+     <desc>Port of popular MineSweeper game. It is necessary to open the whole playing field while not touching (not touching) the mines. </desc>
+     <image>./minesweeper.png</image>
+     <rating>0</rating>
+     <releasedate>20130903T000000</releasedate>
+     <developer>PSCD</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>MineSweeper (RU)</genre>
+     <players>1</players>
+   </game>  
+   <game>
+     <path>./miniball.smd</path>
+     <name>Miniball</name>
+     <desc>This is a game similar to "Breakout" or "Arkanoid", with the difference that in this game you have four pads (instead of just one) - one pad on each side of the screen - and you have to catch the ball on all sides of the screen.</desc>
+     <image>./miniball.png</image>
+     <rating>0</rating>
+     <releasedate>20020218T000000</releasedate>
+     <developer>Wejp</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Miniball</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./octopus.bin</path>
+     <name>Octopus</name>
+     <desc>A port of original Octopus game for  Game &amp; Watch Handhelds.</desc>
+     <image>./octopus.png</image>
+     <rating>0</rating>
+     <releasedate>20150201T000000</releasedate>
+     <developer>theelf</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Octopus</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./odeiocarros.bin</path>
+     <name>Odeio Carros (I hate cars)</name>
+     <desc>Destroy all cars, in each phase, using less number of kicks. To destroy the cars, you have to make two cars of the same color touch each other. Cones can help you or defend. Game is in portuguese, but it is so simple that you don&apos;t nedd a translation.</desc>
+     <image>./odeiocarros.png</image>
+     <rating>0</rating>
+     <releasedate>20171213T000000</releasedate>
+     <developer>Nemezes</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Odeio Carros (I hate cars)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./ohmummy.bin</path>
+     <name>Oh Mummy!</name>
+     <desc>2-in-1 (port and original version of Amstrad CPC game). Oh Mummy Genesis is a remake of the classic Oh Mummy by Amstrad. This version for Mega Drive was developed by Pocket Lucho, recreating the original and adding a totally new game with many extras.</desc>
+     <image>./ohmummy.png</image>
+     <rating>0</rating>
+     <releasedate>20150827T000000</releasedate>
+     <developer>1985 alternativo</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Oh Mummy!</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./papicommandoremix.bin</path>
+     <name>Papi Commando (Remix)</name>
+     <desc>Papi Commando and his wife are at war with the CePlusPlus because they stole them their CommoStrad! But it will be necessary to clean at first 11 zones of the BaseCamp ! Exciting Gameplay ... Up to the final Boss, terrible Colonel KASSTAGOUL guard of the retro treasure!</desc>
+     <image>./papicommandoremix.png</image>
+     <rating>0</rating>
+     <releasedate>20160611T000000</releasedate>
+     <developer>Studio Vetea</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Papi Commando (Remix)</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./papicommandotennis.bin</path>
+     <name>Papi Commando Tennis</name>
+     <desc>This is the new Demo of Papi Tennis ! You can play with a Friend or against AI for training of a 1 set Match !! Controls: PAD - Move Papi; Button A - Normal Shoot; UP &amp; Button A - Long Shoot; DOWN &amp; Button A - Short Shoot; Button A &amp; Button B - Power Shoot; Button START - Pause Game.</desc>
+     <image>./papicommandotennis.png</image>
+     <rating>0</rating>
+     <releasedate>20180317T000000</releasedate>
+     <developer>Studio Vetea</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Papi Commando Tennis</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pingouinbleu.bin</path>
+     <name>Pingouin Bleu</name>
+     <desc>Pingouin Bleu is a horizontal shmup. A to shoot; B to switch between three weapons; C to "grab" things, but it&apos;s a prototype feature and only works on the red spinning guys. I figured I&apos;d keep it in for fun. Pick up stars left by defeated enemies to boost your weapon meter. More stars equals upgraded weapons.</desc>
+     <image>./pingouinbleu.png</image>
+     <rating>0</rating>
+     <releasedate>20141206T000000</releasedate>
+     <developer>DjCouchyCouch</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Pingouin Bleu</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pingouinrose.bin</path>
+     <name>Pingouin Rose</name>
+     <desc>A small platformer game, where you need to bring stuffed toys (mostly penguins) back to the house.</desc>
+     <image>./pingouinrose.png</image>
+     <rating>0</rating>
+     <releasedate>20141205T000000</releasedate>
+     <developer>DjCouchyCouch</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Pingouin Rose</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pongram.bin</path>
+     <name>Pong RAM</name>
+     <desc>It is a small game of pong for Mega Drive / Genesis that makes no use of RAM at all, everything is done on CPU registers. You have semi challenging opponent, 2P mode, simple sound effect and nothing more.</desc>
+     <image>./pongram.png</image>
+     <rating>0</rating>
+     <releasedate>20090309T000000</releasedate>
+     <developer>Tmeeco co.(TM)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Pong RAM</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pringles.bin</path>
+     <name>Pringles Game</name>
+     <desc>There are three worlds with each three levels. Collect all Pringles and don&apos;t let your jump flow get into the wrong direction!</desc>
+     <image>./pringles.png</image>
+     <rating>0</rating>
+     <releasedate>20091012T000000</releasedate>
+     <developer>Future Driver</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Pringles Game</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./projectmd.bin</path>
+     <name>Project MD</name>
+     <desc>In this game, you play as Stephany, who just loves playing games; And since she renders everyday life as boring, in modern day, she creates her own virtual world to roam around in and enjoy, but not all is happy in this realm, as she will find out later on.</desc>
+     <image>./projectmd.png</image>
+     <rating>0</rating>
+     <releasedate>20120429T000000</releasedate>
+     <developer>Javier Degirolmo (Sik)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Project MD</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./racer.bin</path>
+     <name>Racer</name>
+     <desc>The essence of the gameplay is that the player presented a car traveling along the road. The road is symbolized by the green line. And at each turn the player needs to choose one of two options, where to turn the steering wheel relative to the driver: to the right or to the left. The game is complicated by the fact that the player needs to mentally represent the position of the car and at what turn it is now. After passing several turns the car reaches the finish line, after which it moves to the next more difficult level. From level to level, only the number of turns is added; changes route.</desc>
+     <image>./racer.png</image>
+     <rating>0</rating>
+     <releasedate>20130316T000000</releasedate>
+     <developer>TOF Studio</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Racer</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./radrhino.bin</path>
+     <name>Rad Rhino</name>
+     <desc>You are the last Rhino and Birb in the world, forced out of what little wild lands remain. Now there&apos;s nothing left to do but kill every human. Two player shooting action! It&apos;s called Rad Rhino but player 1 is the Birb. Shoot, run, and flap!</desc>
+     <image>./radrhino.png</image>
+     <rating>0</rating>
+     <releasedate>20180814T000000</releasedate>
+     <developer>Triger Mountain</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Rad Rhino</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./redqueenrampage.bin</path>
+     <name>Red Queen Rampage</name>
+     <desc>Red Queen has been captured inside deadly maze, she is going to kill everything on her way to freedom.</desc>
+     <image>./redqueenrampage.png</image>
+     <rating>0</rating>
+     <releasedate>20160702T000000</releasedate>
+     <developer>Demens Deum</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Red Queen Rampage</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./returntogenesis.bin</path>
+     <name>Return To Genesis</name>
+     <desc>For years the scientists tolled to produce products and medicines that are now taken for granted. Then one by one the planets were overrun by MECHANAUTS and the scientists forced into slavery. Now the Mechanauts themselves are at war. Their armies are away, the occupied planets barely defended. NOW IT IS YOUR CHANCE ! Rescue all of the scientists from the planets. Some of the scientists may bring their latest project with them to aid you in your mission. GO! NOW IS TIME to RETURN TO GENESIS !</desc>
+     <image>./returntogenesis.png</image>
+     <rating>0</rating>
+     <releasedate>20180000T000000</releasedate>
+     <developer>Igor, Troudki</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Return To Genesis</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./rickdangerous.bin</path>
+     <name>Rick Dangerous</name>
+     <desc>Will Rick Dangerous, intrepid Super Hero and part-time stamp collector, survive his first mission in the Aztec temple of the tribe? Should he do so, Rick will face new hazards in the Egyptian tomb and the enemy fortress.</desc>
+     <image>./rickdangerous.png</image>
+     <rating>0</rating>
+     <releasedate>20110215T000000</releasedate>
+     <developer>Pascal-O-Rama</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Rick Dangerous</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./rickdangerous2.bin</path>
+     <name>Rick Dangerous II</name>
+     <desc>Here is our hero more intrepid than ever! Rick Dangerous, the indomitable Superhero and philatelist in his spare time, is back after defeating Fat Man during his first adventure. Fat Man is back and Rick has to fight him again to save the Earth from the ugly aliens.</desc>
+     <image>./rickdangerous2.png</image>
+     <rating>0</rating>
+     <releasedate>20180121T000000</releasedate>
+     <developer>Alekmaul</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Rick Dangerous II</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./rlr.smd</path>
+     <name>Riley&apos;s Letter Recycle</name>
+     <desc>In the first level, guide Riley to recycle three letter into three letter words. In the second level, Riley surfs on top of a Recycle truck and you must jump to collect the needed letters.  In the third level, you must move the recycle bin to the left and right to catch the falling letters.  In the fourth level, you must drive the recycle truck to collect letters.  The "A" and "C" buttons are the gas pedals, the "B" button is the brake pedal, and the up and down directions allow you change lanes (as long the recycle truck is moving).  And the final fifth level is a platformer style level where Riley must jump around to collect letters to put in the recycle bin. On the title screen, you can enter "C","A","B" to enter the level select.  If you enter it on the first controller, it will use one player mode.  If you enter it on the second controller, it will use two player mode.  The level select also contains additional platform levels.</desc>
+     <image>./rlr.png</image>
+     <rating>0</rating>
+     <releasedate>20110702T000000</releasedate>
+     <developer>Bgvanbur </developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Riley&apos;s Letter Recycle</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./seggala.smd</path>
+     <name>SegGala</name>
+     <desc>The objective of game is to score as many points as possible by destroying enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bullets at and attempting to crash into them. A Galaga clone.</desc>
+     <image>./seggala.png</image>
+     <rating>0</rating>
+     <releasedate>19980000T000000</releasedate>
+     <developer>Pure-Byte </developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>SegGala</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./scorpionilluminati.bin</path>
+     <name>Scorpion Illuminati</name>
+     <desc>Scorpion Illuminati is an open source homebrew rhythm game - a Guitar Hero clone. Controls: Green - left; Red - right; Yellow - A; Blue - B; Orange - C</desc>
+     <image>./scorpionilluminati.png</image>
+     <rating>0</rating>
+     <releasedate>20150412T000000</releasedate>
+     <developer>MoonWatcherMD</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Scorpion Illuminati</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./shatteringjaws.md</path>
+     <name>Shattering Jaws</name>
+     <desc>You are little Timmy. Be a good boy and pay attention to mom&apos;s advice. Exceed level 4 and get your reward. Be smart, you are the slowest thing out there, learn how to use boats to your advantage. It may be challenging sometimes, don&apos;t give up!</desc>
+     <image>./shatteringjaws.png</image>
+     <rating>0</rating>
+     <releasedate>20160704T000000</releasedate>
+     <developer>MoonWatcherMD</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Shattering Jaws</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./silenthill.bin</path>
+     <name>Silent Hill</name>
+     <desc>Freeware fan-made adaptation of the original Silent Hill for Sega Megadrive/Genesis in the form of visual novel, based on Silent Hill: Play novel for GBA. A visual novel is an interactive fiction game featuring mostly static graphics with text.  At certain moments the game asks a player to make a choice between two or more possible variants  which affect the following walkthrough. Such kind of games is very popular in Japan, however totally unpopular in the west, therefore  Silent Hill: Play Novel was never released outside this country.</desc> 
+     <image>./silenthill.png</image>
+     <rating>0</rating>
+     <releasedate>20131023T000000</releasedate>
+     <developer>Bad Lupus</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Silent Hill</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./smartmouse.bin</path>
+     <name>Smart Mouse</name>
+     <desc>The player uses a four-ways buttons and a single button to control Mouse. Pressing the button while pushing the four-ways buttons against an block will cause it to slide in that direction until it hits another block or a wall, if the space directly ahead of it is unoccupied by a block or wall. If that space is occupied, pressing the button will crush the block instead.</desc>
+     <image>./smartmouse.png</image>
+     <rating>0</rating>
+     <releasedate>19961224T000000</releasedate>
+     <developer>Huan Le Tao Qi Shu</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Smart Mouse</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./sonic1megamix.bin</path>
+     <name>Sonic the Hedgehog</name>
+     <desc>South Island. A magnificent land; one that is not bound by restrictions such as time. 15 years have passed since Sonic the Hedgehog&apos;s first plight against the nefarious Dr. Eggman. Ever since, the two sides have clashed nonstop in a variety of settings, with the eventual outcome always being Sonic&apos;s victory. Both sides have gained both new allies and new enemies; some helpful, others... not so much. Naturally, throughout this time, Sonic has learned a few new techniques, which he uses to further stifle Eggman&apos;s plans of world domination. And so, the world is safe - but always just out of Eggman&apos;s grasp. Some say history repeats itself. In this case, the statement is proven true, as Eggman returns to South Island, in hopes that he can obtain the land&apos;s powerful Chaos Emeralds, and finally put forth a solid step in conquering the planet. As he arrives on the island, he brings with him a single Chaos Emerald - one that had been missing, and had upset the natural balance of the island for decades beforehand. The others were trapped in an alternate dimension; one which only very few could enter, and from which even fewer returned. Of course, Eggman isn&apos;t very good at keeping his plans secret (a big reason why they&apos;re foiled so easily). As a result, Sonic hears of this, and readies his travel back to South Island. With him, he brings two allies: one being Mighty the Armadillo, a longtime friend of his (though they had not spoken in quite some time); and the other being Shadow the Hedgehog who, after finally getting over his angst (at least for the moment), felt like teaching Eggman a thing or two about trying the same thing twice. And besides that, he had never seen South Island before; he had heard things about it, certainly, but never saw it for himself. So, he figured, why not? And so, the three begin their trek of South Island, each taking their own unique abilities with them, and going their separate ways, each in search of the remaining Chaos Emeralds, and of Eggman, in hopes that once he is defeated, he will finally abandon his plans of world domination. But, then again, that&apos;s not very likely to happen.</desc> 
+     <image>./sonic1megamix.png</image>
+     <rating>0</rating>
+     <releasedate>20070630T000000</releasedate>
+     <developer>Team Megamix</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Sonic the Hedgehog</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./spacypixy.bin</path>
+     <name>Space Pixy</name>
+     <desc>It&apos;s very simple game... You just gotta, collect mushrooms. when mushroom counter = 0, you can collect a horn. When horn counter = 0, you can finish the level (use a wand the rainbow bridge). This game have 8 levels, and you can choose the start level.</desc>
+     <image>./spacypixy.png</image>
+     <rating>0</rating>
+     <releasedate>20101221T000000</releasedate>
+     <developer>Sarang</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Space Pixy</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./squirrelking.bin</path>
+     <name>Squirrel King</name>
+     <desc>One or two-player game mode where the characters play cooperatively. In this game, the player can throw boxes, hide in them and throw fireballs. The player starts off with 5 hearts for health, and they can collect med-kits which restore one heart and acorns which restore health completely. They also have a limited amount of gloves which throw a fireball at the enemies. They start with three of these and extra ones can be collected by finding more gloves inside boxes. The player starts with 4 lives and 5 continues. 100 diamonds are required to get an extra life in single player, while only 50 are needed in cooperative play.</desc>
+     <image>./squirrelking.png</image>
+     <rating>0</rating>
+     <releasedate>19960000T000000</releasedate>
+     <developer>Gamtec</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Squirrel King</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./starchaser.bin</path>
+     <name>Star Chaser</name>
+     <desc>Taking control of one of four coloured balls, your task is to zoom around the maze-like scenery in a race to gather the forming stars before your enemies. The game is pretty much finished except for the complete lack of sound (ouch).</desc>
+     <image>./starchaser.png</image>
+     <rating>0</rating>
+     <releasedate>20150920T000000</releasedate>
+     <developer>Javier Degirolmo (Sik)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Star Chaser</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./sumoslam.gen</path>
+     <name>Sumo Slam!</name>
+     <desc>The game is the port of the game Sumo Smash! This is a unique arcade game, analogues of which for SMD almost does not exist, you have to play for the Sumoista, and manage it with just one button. Thus, on one gamepad can play up to six people, and two to twelve. Has a cheat code to make the game harder, but it requires 6-button gamepad (U, D, U, U, D, U, D, U, D).</desc>
+     <image>./sumoslam.png</image>
+     <rating>0</rating>
+     <releasedate>20130000T000000</releasedate>
+     <developer>Segaman Production</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Sumo Slam!</genre>
+     <players>1-6</players>
+   </game>
+   <game>
+     <path>./supermariobros.bin</path>
+     <name>Super Mario Bros</name>
+     <desc>A complete port of the Super Mario Bros game for NES.</desc>
+     <image>./supermariobros.png</image>
+     <rating>0</rating>
+     <releasedate>20100711T000000</releasedate>
+     <developer>Mairtrus</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Super Mario Bros</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./superpingpong.bin</path>
+     <name>Super Ping-Pong</name>
+     <desc>A simple pong game with some additional fetaures like super speed.</desc>
+     <image>./superpingpong.png</image>
+     <rating>0</rating>
+     <releasedate>19910000T000000</releasedate>
+     <developer>Pure-Byte</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Super Ping-Pong</genre>
+     <players>2</players>
+   </game>
+   <game>
+     <path>./supertankwar.bin</path>
+     <name>Super Tank War</name>
+     <desc>Players control a tank and fires using either A,B or C buttons.</desc>
+     <image>./supertankwar.png</image>
+     <rating>0</rating>
+     <releasedate>20141210T000000</releasedate>
+     <developer>Gamtec</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Super Tank War</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./suprakillminds.bin</path>
+     <name>SupraKillminds!</name>
+     <desc>A simple puzzle game. The object of the game is to create complete quadrants, by using the four auxiliary quadrants (up, down, left and right) to earn point, which are determined by the quantity of the same color that the other other quadrants are located. Parts of the center squares color appear will appear in the same auxiliary quadrants in the same location, as they were in the central square by pressing a button on the directional pad. Points are awarded as follows:    5 Points = All of the color positions are different; 20 Points = Two of the color positions are the same; 50 Points = Three of the color positions are the same; 150 Points + 1Up = The whole quadrant are the same color; 250 Points + 1Up = If all quadrants are empty at the end</desc>
+     <image>./suprakillminds.png</image>
+     <rating>0</rating>
+     <releasedate>20140214T000000</releasedate>
+     <developer>Jack Nolddor</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>SupraKillminds!</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./tgunii.smd</path>
+     <name>T-Gun II</name>
+     <desc>This is the story of the two metal hawks, Ruby and Cobalt. While floating through space, they happened upon the bird sanctuary planet of Toal. The observatory space station and surface of the planet were being devoured by a swarm of space insects. Using bits granted to the by the phantom bird of planet Toal, the metal hawks wiped out the invaders. Ruby and Cobalt then perched on to a mountain top and turned to stone. Hundreds of orbits of the planet have passed. The space insects have returned with a  device called the Buzzstar. It has the power to burn the atmosphere off of a planet. The old observatory space station is already infested, and the Buzzstar is close. Ruby and Cobalt return to their original form and fly off to meet the invaders once again. Can the metal hawks conquer 7 stages with wave after wave of invaders and giant screen filling bosses?</desc>
+     <image>./tgunii.png</image>
+     <rating>0</rating>
+     <releasedate>20150626T000000</releasedate>
+     <developer>Robot Urchin</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>T-Gun II</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./tomclown.bin</path>
+     <name>Tom Clown</name>
+     <desc>Move the teeterboard back and forth to bounce the clowns upwards and pop balloons. Power-ups will pass by overhead and give the player extra chances or clear certain colored balloons. After clearing the stage, the player moves onto the next round. The game is a re-imagining of the Atari 2600 game.</desc>
+     <image>./tomclown.png</image>
+     <rating>0</rating>
+     <releasedate>19930000T000000</releasedate>
+     <developer>AV artisan</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Tom Clown</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./tronow.bin</path>
+     <name>Tro-Now</name>
+     <desc>A 16-bit Tron game. The light cycle battles featured in Tron are probably the most iconic sequences of the movie, and it spawn hundreds of games with the same gameplay.</desc>
+     <image>./tronow.png</image>
+     <rating>0</rating>
+     <releasedate>20150726T000000</releasedate>
+     <developer>1985 Alternativo</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Tro-Now</genre>
+     <players>1-4</players>
+   </game>
+   <game>
+     <path>./twocyclops.bin</path>
+     <name>Two Cyclops (Dois Ciclopes)</name>
+     <desc>Jump with Cyclop, avoid obstacles and find the flag. You have 3 lives per level. For 1 or 2 players, with 3 modes: Easy, Normal, Hard. You can choose language: Spanish or English.</desc>
+     <image>./twocyclops.png</image>
+     <rating>0</rating>
+     <releasedate>20180000T000000</releasedate>
+     <developer>Laudelino</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Two Cyclops (Dois Ciclopes)</genre>
+     <players>1-2</players>
+   </game>
+   <game>
+     <path>./ultimatetetris.bin</path>
+     <name>Ultimate Tetris</name>
+     <desc>This is a tetris clone for Sega Genesis/Mega Drive. Includes several options for 1 player, player vs cpu, 2 players...</desc>
+     <image>./ultimatetetris.png</image>
+     <rating>0</rating>
+     <releasedate>20010000T000000</releasedate>
+     <developer>Haroldo OK!</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Ultimate Tetris</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./uwolquestformoney.bin</path>
+     <name>Uwol - Quest For Money</name>
+     <desc>Uwol likes money. One day he heard of a cave full of gold coins. Althouth the cave was guarded by dangerous creatures, Uwol decided not to give up until he will get at least 255 coins.</desc>
+     <image>./uwolquestformoney.png</image>
+     <rating>0</rating>
+     <releasedate>20111122T000000</releasedate>
+     <developer>The Mojon Twins, Shiru</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Uwol - Quest For Money</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./vilq.bin</path>
+     <name>VilQ</name>
+     <desc>Behind the seven mountains, behind seven forests, lived a herd of animals called wolves. Wolf VILQ lived in this wolf pack you can easily get to know him after your tummy stomach. Controls: RIGHT - run forward; LEFT - stand; DOWN - slide on back; A, B, C - jump; A, B, C (In air) - double jump. On game over, you will have hi-score.</desc>
+     <image>./vilq.png</image>
+     <rating>0</rating>
+     <releasedate>20160904T000000</releasedate>
+     <developer>AceMan, Axi0maT, tehKaiN</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>VilQ</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./vilqadventure.bin</path>
+     <name>VilQ Adventure</name>
+     <desc>A classic jump&apos;n run game in cute style with nice details and some great music! This one is a non stop side scrolling jump, run and slider in which you need to avoid the enemies, pick up the food and get as far along as possible to reach an ever higher score. This is second VilQ game, where you can select your hero: VilQ the wolf or Little Red Riding Hood.</desc>
+     <image>./vilqadventure.png</image>
+     <rating>0</rating>
+     <releasedate>20171021T000000</releasedate>
+     <developer>AceMan, Axi0maT, Koyot1222 </developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>VilQ Adventure</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./violencepingouin.bin</path>
+     <name>Violence Pingouin</name>
+     <desc>The player must help Violence Pingouin to slaughter few robots.</desc>
+     <image>./violencepingouin.png</image>
+     <rating>0</rating>
+     <releasedate>20141201T000000</releasedate>
+     <developer>DJCC</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Violence Pingouin</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./virtuaworm.bin</path>
+     <name>Virtua Worm</name>
+     <desc>Like pac-man crossd with snake. Navigate the mazes, but don&apos;t run in to yourself! Basically a clone of an old web game called nibblet.</desc>
+     <image>./virtuaworm.png</image>
+     <rating>0</rating>
+     <releasedate>20160212T000000</releasedate>
+     <developer> ComradeOj</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Virtua Worm</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./wackywilly.bin</path>
+     <name>Wacky Willy Weiner Sausage Surfer</name>
+     <desc>A Megadrive surfing game with a twist. Sausage, the Origins : The wacky Willy Weiner (his real name) has to please the mighty king of all seas - the sea lion seen in the jam keynote video who waves his flipper at the end - by surfing a crowded wave and collecting cool items. The rhythm part comes from the layout of these elements. The more you get the better the background music improves. Additionally some digitized sample of a TV documentary on the true "Strasbourg's sausage" is played while collecting the items. Carefully though ! You have to avoid sharks who love the sausages.</desc>
+     <image>./wackywilly.png</image>
+     <rating>0</rating>
+     <releasedate>20170122T000000</releasedate>
+     <developer>Cr30s, Bjorn</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Wacky Willy Weiner Sausage Surfer</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./wolf3d.bin</path>
+     <name>Wolfenstein 3D</name>
+     <desc>Wolfenstein 3D is a first-person shooter presented with rudimentary 3D graphics. The game is broken up into levels, each of which is a flat plane divided into areas and rooms by a grid-based pattern of walls and doors, all of equal height. Each level is themed after Nazi bunkers and buildings. To finish a level, the player must traverse through the area to reach an elevator. This is a demo of wolfenstein for sega genesis written in asm. Mostly is based on the source code of wolfenstein 3D for PC.</desc>
+     <image>./wolf3d.png</image>
+     <rating>0</rating>
+     <releasedate>20170217T000000</releasedate>
+     <developer>GASEGA68K</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Wolfenstein 3D</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./xump2.bin</path>
+     <name>Xump 2: Back in Space</name>
+     <desc>Help Misuki to clean up deserted space fields. Luckily Holger borrowed out his headbot Xump, who will take over again. Clear all dissolving tiles on several single-screen levels by simply stepping on them, one by one. Few fields are secured with mines and need a double tap. Mines can be blown up when passing by or disarmed by Xump when staying on this specific field for a short moment. Certainly the mission sounds easier than it will be.</desc>
+     <image>./xump2.png</image>
+     <rating>0</rating>
+     <releasedate>20170413T000000</releasedate>
+     <developer>Retroguru</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Xump 2: Back in Space</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./yiearkungfu.bin</path>
+     <name>Yie Ar Kung-Fu</name>
+     <desc>Game features the protagonist who is a Wong Jack Man-based Kung Fu master named Oolong, controlled by the player. Oolong must fight all the martial arts masters given by the game (11 in the arcade version; five to 13 in the home ports) to win the title of "Grand Master" and honor the memory of his father. On his side is a variety of punch and kick blows reachable by combining the joystick with one of the buttons (punch or kick). He also has the greatest jumping ability of all the game&apos;s fighters, with the exception of "Blues".</desc>
+     <image>./yiearkungfu.png</image>
+     <rating>0</rating>
+     <releasedate>20080103T000000</releasedate>
+     <developer>Evgeny</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Yie Ar Kung-Fu</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./zerotolerance.bin</path>
+     <name>Zero Tolerance</name>
+     <desc>Gameplay in Zero Tolerance is similar to other first person shooters of the era, with the player controlling one of several characters navigating map from a third-person perspective, shooting enemies while trying to find an exit. Zero Tolerance and its unfinished sequel, Beyond Zero Tolerance, were released by the developers as freeware.</desc>
+     <image>./zerotolerance.png</image>
+     <rating>0</rating>
+     <releasedate>19980521T000000</releasedate>
+     <developer>Technopop, Accolade</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Zero Tolerance</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./zombiterror.bin</path>
+     <name>Zombi Terror</name>
+     <desc>A horror text adventure game. August, 1981. You&apos;re going to take some days for holidays when you receive a short telegram from your father, doctor Herbert Von Freudstein: &apos;Experiment has gone bad. Please, come to island asap.&apos; Worried, you rent a boat to Almanzora Island, in order to help your father...</desc>
+     <image>./zombiterror.png</image>
+     <rating>0</rating>
+     <releasedate>20150000T000000</releasedate>
+     <developer>Kabuto Factory</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Zombi Terror</genre>
+     <players>1</players>
+   </game>
+ </gameList>
