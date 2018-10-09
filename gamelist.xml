@@ -349,7 +349,7 @@
      <players>1</players>
    </game>
    <game>
-     <path>./funnyworldbb.bin</path>
+     <path>./funnyworldbb.md</path>
      <name>Funny World and Balloon Boy - 2in1</name>
      <desc>It contains two games, selectable by a menu on boot. 1) Funny World: Shooting gallery game. Left and Right move the gun and B shoots. There are some targets to avoid (such as humans). 2) Balloon Boy: Some type of shooting/dodging game. Left and Right move around, A shoots (you can only shoot straight up), and B jumps. The goal of each level is to shoot at balloons, collecting goodies that come out of some of them but avoiding traps that come out of some others.</desc>
      <image>./funnyworldbb.png</image>
@@ -877,7 +877,7 @@
      <players>1</players>
    </game>
    <game>
-     <path>./smartmouse.bin</path>
+     <path>./smartmouse.md</path>
      <name>Smart Mouse</name>
      <desc>The player uses a four-ways buttons and a single button to control Mouse. Pressing the button while pushing the four-ways buttons against an block will cause it to slide in that direction until it hits another block or a wall, if the space directly ahead of it is unoccupied by a block or wall. If that space is occupied, pressing the button will crush the block instead.</desc>
      <image>./smartmouse.png</image>
@@ -913,7 +913,7 @@
      <players>1</players>
    </game>
    <game>
-     <path>./squirrelking.bin</path>
+     <path>./squirrelking.md</path>
      <name>Squirrel King</name>
      <desc>One or two-player game mode where the characters play cooperatively. In this game, the player can throw boxes, hide in them and throw fireballs. The player starts off with 5 hearts for health, and they can collect med-kits which restore one heart and acorns which restore health completely. They also have a limited amount of gloves which throw a fireball at the enemies. They start with three of these and extra ones can be collected by finding more gloves inside boxes. The player starts with 4 lives and 5 continues. 100 diamonds are required to get an extra life in single player, while only 50 are needed in cooperative play.</desc>
      <image>./squirrelking.png</image>
