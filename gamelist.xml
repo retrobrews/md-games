@@ -27,7 +27,7 @@
    <game>
      <path>./adventurousboy.md</path>
      <name>Adventurous Boy</name>
-     <desc>In the game, the player's ship is placed in a level with a number of bases to destroy. When all the bases are gone, the stage boss appears, who must be defeated in order to move on to the next stage. The game is Fantasy Zone clone.</desc>
+     <desc>In the game, the player&apos;s ship is placed in a level with a number of bases to destroy. When all the bases are gone, the stage boss appears, who must be defeated in order to move on to the next stage. The game is Fantasy Zone clone.</desc>
      <image>./adventurousboy.png</image>
      <rating>0</rating>
      <releasedate>19961224T000000</releasedate>
@@ -39,7 +39,7 @@
    <game>
      <path>./airstriker.bin</path>
      <name>Airstriker</name>
-     <desc>Airstriker is a 1980's-like arcade vertical shooter with 2 player support and an endurance mode.</desc>
+     <desc>Airstriker is a 1980&apos;s-like arcade vertical shooter with 2 player support and an endurance mode.</desc>
      <image>./airstriker.png</image>
      <rating>0</rating>
      <releasedate>20081130T000000</releasedate>
@@ -51,10 +51,10 @@
    <game>
      <path>./asciiwar.bin</path>
      <name>ASCII WAR</name>
-     <desc>A simple 2 player combat game. An evil warlord lives in a dimension where everything is made up of ASCII art. He sent out a scout, to look for new lands to conquer. A resistance group also sent out a scout of their own, and they meet in out dimension to fight. The ships don't shoot bullets, but strings of text.</desc>
+     <desc>A simple 2 player combat game. An evil warlord lives in a dimension where everything is made up of ASCII art. He sent out a scout, to look for new lands to conquer. A resistance group also sent out a scout of their own, and they meet in out dimension to fight. The ships don&apos;t shoot bullets, but strings of text.</desc>
      <image>./asciiwar.png</image>
      <rating>0</rating>
-     <releasedate>20150101T000000</releasedate>
+     <releasedate>20150000T000000</releasedate>
      <developer>ComradeOj</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>ASCII WAR</genre>
@@ -87,7 +87,7 @@
    <game>
      <path>./bareknuckleprincesss.bin</path>
      <name>Bare Knuckled Princess</name>
-     <desc>Princess Linear, the fair and loved princess of Bitland has been openly shamed by Princess Plum of Polygosia, accused of fraternising with lower class men and women. The ancients decree that the only way to resolve matters of this kind is trial by combat! So the 3rd Royal Rumble takes place! Step forth Princess Linear, and defend your home lands honour,  in the ring!</desc>
+     <desc>Princess Linear, the fair and loved princess of Bitland has been openly shamed by Princess Plum of Polygosia, accused of fraternising with lower class men &amp; women. The ancients decree that the only way to resolve matters of this kind is trial by combat! So the 3rd Royal Rumble takes place! Step forth Princess Linear, and defend your home lands honour,  in the ring!</desc>
      <image>./bareknuckleprincesss.png</image>
      <rating>0</rating>
      <releasedate>20160704T000000</releasedate>
@@ -123,10 +123,10 @@
    <game>
      <path>./bibleadventures.md</path>
      <name>Bible Adventures</name>
-     <desc>Game contains three different games: Noah's Ark, Baby Moses, and David and Goliath, all of which are based rather loosely on stories from the Bible. The gameplay of these games is sidescroller style similar to that of Super Mario Bros. 2 for the NES. The game also features Jesu, Joy of Man's Desiring, by J. S. Bach, as the background music for the title screen.</desc>
+     <desc>Game contains three different games: Noah&apos;s Ark, Baby Moses, and David and Goliath, all of which are based rather loosely on stories from the Bible. The gameplay of these games is sidescroller style similar to that of Super Mario Bros. 2 for the NES. The game also features Jesu, Joy of Man&apos;s Desiring, by J. S. Bach, as the background music for the title screen.</desc>
      <image>./bibleadventures.png</image>
      <rating>0</rating>
-     <releasedate>19950101T000000</releasedate>
+     <releasedate>19950000T000000</releasedate>
      <developer>Wisdom Tree</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Bible Adventures</genre>
@@ -138,7 +138,7 @@
      <desc>Bomboy is a strategic, maze-based video game, where the player must defeat enemies and reach an exit to progress through levels. Bomberman Clone game.</desc>
      <image>./bomboy.png</image>
      <rating>0</rating>
-     <releasedate>19930101T000000</releasedate>
+     <releasedate>19930000T000000</releasedate>
      <developer>Gamtec</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Bomboy</genre>
@@ -159,7 +159,7 @@
    <game>
      <path>./bottled.md</path>
      <name>BoTTleD - Tower Defense</name>
-     <desc>A small tower defense game with one level. This level is fairly easy, can you beat it? No proper end condition yet, the enemies just stop as there's only one level.</desc>
+     <desc>A small tower defense game with one level. This level is fairly easy, can you beat it? No proper end condition yet, the enemies just stop as there&apos;s only one level.</desc>
      <image>./bottled.png</image>
      <rating>0</rating>
      <releasedate>20170913T000000</releasedate>
@@ -207,7 +207,7 @@
    <game>
      <path>./chase.bin</path>
      <name>Chase</name>
-     <desc>Chase, that's how our protagonist is called, has heard rumors about a strange treasure hidden in the highest tower of the castle Belafort, an abandoned and inhabited place outside their village where live the most dark and gloomy beasts from so long ago that neither remembers. The Belafort castle originally, was owned by a famous thief who spent his last days of life to build mazes in each and every one of the ten floors that had the highest tower of the castle, in order to keep their wealth safe once he died. Will you be able to help Chase on his adventure? Escape from the beasts that protect the castle and back safely with the TREASURE!</desc>
+     <desc>Chase, that&apos;s how our protagonist is called, has heard rumors about a strange treasure hidden in the highest tower of the castle Belafort, an abandoned and inhabited place outside their village where live the most dark and gloomy beasts from so long ago that neither remembers. The Belafort castle originally, was owned by a famous thief who spent his last days of life to build mazes in each and every one of the ten floors that had the highest tower of the castle, in order to keep their wealth safe once he died. Will you be able to help Chase on his adventure? Escape from the beasts that protect the castle and back safely with the TREASURE!</desc>
      <image>./chase.png</image>
      <rating>0</rating>
      <releasedate>20140805T000000</releasedate>
@@ -246,7 +246,7 @@
      <desc>Doroppu is a tile matching game with influences taken from Puyo Puyo and Puzzle Bobble to create a unique new experience. Doroppu can be played by 1 player, or 2 players in split screen vs mode.</desc>
      <image>./doroppu.png</image>
      <rating>0</rating>
-     <releasedate>20150101T000000</releasedate>
+     <releasedate>20150000T000000</releasedate>
      <developer>Repixel8</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Doroppu</genre>
@@ -266,23 +266,23 @@
    </game>
    <game>
      <path>./dragonscastle.bin</path>
-     <name>Dragon's Castle</name>
-     <desc>Jump and attack are self-explanatory. Magic is a different kind of attack which gives you more points but it's a bit more risky to use. Currently magic doesn't work on every enemy (this will improve as development progresses). Controls: D-pad: move; A button: magic; B button: attack; C button: jump; Start button: pause.</desc>
+     <name>Dragon&apos;s Castle</name>
+     <desc>Jump and attack are self-explanatory. Magic is a different kind of attack which gives you more points but it&apos;s a bit more risky to use. Currently magic doesn&apos;t work on every enemy (this will improve as development progresses). Controls: D-pad: move; A button: magic; B button: attack; C button: jump; Start button: pause.</desc>
      <image>./dragonscastle.png</image>
      <rating>0</rating>
      <releasedate>20160713T000000</releasedate>
      <developer>Javier Degirolmo (Sik)</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Dragon's Castle</genre>
+     <genre>Dragon&apos;s Castle</genre>
      <players>1</players>
    </game>
    <game>
      <path>./earthdefense.md</path>
      <name>Earth Defense</name>
-     <desc>Vertical scrolling shoot 'em up game with simultaneous 2 player option. The player takes on the role of a jet pilot assigned to liberate five world continents from a technologically advanced army. Players had two different types of weapons to choose from during combat. A vulcan/spread shot weapon and a wave/beam shot weapon. Rather than possessing bomb-like items, the players had a shield item that made the ship temporarily invulnerable.</desc>
+     <desc>Vertical scrolling shoot &apos;em up game with simultaneous 2 player option. The player takes on the role of a jet pilot assigned to liberate five world continents from a technologically advanced army. Players had two different types of weapons to choose from during combat. A vulcan/spread shot weapon and a wave/beam shot weapon. Rather than possessing bomb-like items, the players had a shield item that made the ship temporarily invulnerable.</desc>
      <image>./earthdefense.png</image>
      <rating>0</rating>
-     <releasedate>19950101T000000</releasedate>
+     <releasedate>19950000T000000</releasedate>
      <developer>AV Artisan</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Earth Defense</genre>
@@ -291,7 +291,7 @@
    <game>
      <path>./errorrush.bin</path>
      <name>Error Rush</name>
-     <desc>The objective of the game is to avoid running into the enemies for as long as you can. One new enemy is spawned every five seconds. Use the d-pad to avoid enemies, and hold 'A' to move faster. Touch an enemy and it's game over!</desc>
+     <desc>The objective of the game is to avoid running into the enemies for as long as you can. One new enemy is spawned every five seconds. Use the d-pad to avoid enemies, and hold &apos;A&apos; to move faster. Touch an enemy and it&apos;s game over!</desc>
      <image>./errorrush.png</image>
      <rating>0</rating>
      <releasedate>20160427T000000</releasedate>
@@ -303,10 +303,10 @@
    <game>
      <path>./exodus.md</path>
      <name>Exodus - Journey to the Promised Land</name>
-     <desc>You are the main character and you must collect all the bags with M on them scattered throughout each maze. A and C shoot; you can hold them down for rapidfire. Shooting destroys blockades and enemies. Once all the M bags are gathered, find the exit to move on to the next level. In between each level, you must answer a bunch of questions related to the story of the Bible of the game's theme; getting them wrong appears to be inconsequential to the outcome of the game (this needs investigation).</desc>
+     <desc>You are the main character and you must collect all the bags with M on them scattered throughout each maze. A and C shoot; you can hold them down for rapidfire. Shooting destroys blockades and enemies. Once all the M bags are gathered, find the exit to move on to the next level. In between each level, you must answer a bunch of questions related to the story of the Bible of the game&apos;s theme; getting them wrong appears to be inconsequential to the outcome of the game (this needs investigation).</desc>
      <image>./exodus.png</image>
      <rating>0</rating>
-     <releasedate>19910101T000000</releasedate>
+     <releasedate>19910000T000000</releasedate>
      <developer>Wisdom Tree</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Exodus - Journey to the Promised Land</genre>
@@ -315,7 +315,7 @@
    <game>
      <path>./fatalsmarties.bin</path>
      <name>Fatal Smarties</name>
-     <desc>Uh-oh, the occultic ritual-performing locals have taken things out of control, and they've caused a timeloop of never-ending days of ritual! Take your two hillbilly heroes in their homemade flippercopter and try your best to repel the demonic waves of evil! Your ship is commanded by two players, one flies, the other shoots. You must work together to blast those hellish critters back to kingdom come, and confront the giant guardian hellbeast leading the charge. You keep going until your player dies (you can survive one shot for five seconds and return to normal, but if you're shot again during this period, you both die!)</desc>
+     <desc>Uh-oh, the occultic ritual-performing locals have taken things out of control, and they&apos;ve caused a timeloop of never-ending days of ritual! Take your two hillbilly heroes in their homemade flippercopter and try your best to repel the demonic waves of evil! Your ship is commanded by two players, one flies, the other shoots. You must work together to blast those hellish critters back to kingdom come, and confront the giant guardian hellbeast leading the charge. You keep going until your player dies (you can survive one shot for five seconds and return to normal, but if you&apos;re shot again during this period, you both die!)</desc>
      <image>./fatalsmarties.png</image>
      <rating>0</rating>
      <releasedate>20160131T000000</releasedate>
@@ -349,15 +349,15 @@
      <players>1</players>
    </game>
    <game>
-     <path>./funnyworldbb.md</path>
-     <name>Funny World and Balloon Boy - 2in1</name>
+     <path>./funnyworldballoonboy.bin</path>
+     <name>Funny World &amp; Balloon Boy - 2in1</name>
      <desc>It contains two games, selectable by a menu on boot. 1) Funny World: Shooting gallery game. Left and Right move the gun and B shoots. There are some targets to avoid (such as humans). 2) Balloon Boy: Some type of shooting/dodging game. Left and Right move around, A shoots (you can only shoot straight up), and B jumps. The goal of each level is to shoot at balloons, collecting goodies that come out of some of them but avoiding traps that come out of some others.</desc>
-     <image>./funnyworldbb.png</image>
+     <image>./funnyworldballoonboy.png</image>
      <rating>0</rating>
-     <releasedate>19930101T000000</releasedate>
+     <releasedate>19930000T000000</releasedate>
      <developer>AV artisan</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Funny World and Balloon Boy - 2in1</genre>
+     <genre>Funny World &amp; Balloon Boy - 2in1</genre>
      <players>1</players>
    </game>
    <game>
@@ -423,7 +423,7 @@
    <game>
      <path>./ikplusdeluxe.bin</path>
      <name>IK+ Deluxe version</name>
-     <desc>Fight your way through this stunning sequel to International Karate. Spectacular animated backgrounds, amazing moves including double head-kick and bon-bending backflips. This must be an ultimate hit; at the sure hit; not against one but three opponents !!  Gallons on gratuitous fightin' and fumpin' fun to be had here.</desc> 
+     <desc>Fight your way through this stunning sequel to International Karate. Spectacular animated backgrounds, amazing moves including double head-kick and bon-bending backflips. This must be an ultimate hit; at the sure hit; not against one but three opponents !!  Gallons on gratuitous fightin&apos; and fumpin&apos; fun to be had here.</desc> 
      <image>./ikplusdeluxe.png</image>
      <rating>0</rating>
      <releasedate>20171208T000000</releasedate>
@@ -438,7 +438,7 @@
      <desc>A sort of Space Invaders game.</desc>
      <image>./invasion.png</image>
      <rating>0</rating>
-     <releasedate>20130101T000000</releasedate>
+     <releasedate>20130000T000000</releasedate>
      <developer>Psycatic Software</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Invasion</genre>
@@ -447,7 +447,7 @@
    <game>
      <path>./ironman.bin</path>
      <name>Iron Man (RU)</name>
-     <desc>Iron Man is a 2D platform game based off the Marvel character of the same name. Game is in Russian, but you don't need to understand to play! Main character is small and with big head... and he is armed with laser. Have fun!</desc>
+     <desc>Iron Man is a 2D platform game based off the Marvel character of the same name. Game is in Russian, but you don&apos;t need to understand to play! Main character is small and with big head... and he is armed with laser. Have fun!</desc>
      <image>./ironman.png</image>
      <rating>0</rating>
      <releasedate>20140705T000000</releasedate>
@@ -462,7 +462,7 @@
      <desc>Move the spaceship while avoiding bullets. </desc>
      <image>./ixion.png</image>
      <rating>0</rating>
-     <releasedate>20150101T000000</releasedate>
+     <releasedate>20150000T000000</releasedate>
      <developer>Nendo</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Ixion</genre>
@@ -470,14 +470,14 @@
    </game>
    <game>
      <path>./joshua.md</path>
-     <name>Joshua and the Battle of Jericho</name>
+     <name>Joshua &amp; the Battle of Jericho</name>
      <desc>You are the main character Joshua and you must collect all the coins with $ on them scattered throughout each maze. A and C shoot. Shooting destroys blockades and enemies. Once all the coins are gathered, find the exit to move on to the next level.</desc>
      <image>./joshua.png</image>
      <rating>0</rating>
-     <releasedate>19940101T000000</releasedate>
+     <releasedate>19940000T000000</releasedate>
      <developer>Wisdom Tree</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Joshua and the Battle of Jericho</genre>
+     <genre>Joshua &amp; the Battle of Jericho</genre>
      <players>1-2</players>
    </game>
    <game>
@@ -494,26 +494,26 @@
    </game>
    <game>
      <path>./labbayedesmorts.bin</path>
-     <name>L'Abbaye des Morts</name>
+     <name>L&apos;Abbaye des Morts</name>
      <desc>A demanding game where you will have to control Jean Reymond, a  Cathar monk, to escape to a fatal fate at the hands of the Crusade knights who want to hunt him.</desc>
      <image>./labbayedesmorts.png</image>
      <rating>0</rating>
      <releasedate>20170907T000000</releasedate>
      <developer>Playonretro</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>L'Abbaye des Morts</genre>
+     <genre>L&apos;Abbaye des Morts</genre>
      <players>1</players>
    </game>
    <game>
-     <path>./leomurconspiracy.bin</path>
-     <name>Leovigildo's Murcian Conspiracy</name>
+     <path>./leovigildosmurcianconspiracy.bin</path>
+     <name>Leovigildo&apos;s Murcian Conspiracy</name>
      <desc>A pretty game on two little sprites shot each other jumping... while fight dolphins ( and cyborg frogs one day) that eats onion fried rings controlled by the evil Leovigildo that conspires to conquer Murcia!</desc>
-     <image>./leomurconspiracy.png</image>
+     <image>./leovigildosmurcianconspiracy.png</image>
      <rating>0</rating>
      <releasedate>20140621T000000</releasedate>
      <developer>1985 Alternativo</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Leovigildo's Murcian Conspiracy</genre>
+     <genre>Leovigildo&apos;s Murcian Conspiracy</genre>
      <players>1-2</players>
    </game>
    <game>
@@ -522,7 +522,7 @@
      <desc>The game is divided into several levels; after collecting a certain amount of fire a door opens (which you must go to without dying). Dying starts you at the beginning of the stage. A great game that deserves to be in any collection! Sega Genesis Blockade Clone Game.</desc>
      <image>./linkdragon.png</image>
      <rating>0</rating>
-     <releasedate>19930101T000000</releasedate>
+     <releasedate>19930000T000000</releasedate>
      <developer>Songtly, Jumbo Team</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Link Dragon</genre>
@@ -534,7 +534,7 @@
      <desc>Jump with Mr. Manganga (Mysterious), avoid obstacles and find the keys. Keys will open the doors for you. Once last doors are open you can find the sign. By moving to the sign you will go to next level.</desc>
      <image>./manganga.png</image>
      <rating>0</rating>
-     <releasedate>20180101T000000</releasedate>
+     <releasedate>20180000T000000</releasedate>
      <developer>Laudelino</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Manganga</genre>
@@ -553,9 +553,9 @@
      <players>1</players>
    </game>
    <game>
-     <path>./megamariotd.md</path>
+     <path>./megamariotd.bin</path>
      <name>Mega Mario Tower Defense</name>
-     <desc>Tower defense (TD) is a subgenre of strategy video game where the goal is to defend a player's territories or possessions by obstructing the enemy attackers, usually achieved by placing defensive structures on or along their path of attack. Controls: Button A: Place a unit; Button B: Remove a unit; Button C: Menu / Map; Start: start game.</desc>
+     <desc>Tower defense (TD) is a subgenre of strategy video game where the goal is to defend a player&apos;s territories or possessions by obstructing the enemy attackers, usually achieved by placing defensive structures on or along their path of attack. Controls: Button A: Place a unit; Button B: Remove a unit; Button C: Menu / Map; Start: start game.</desc>
      <image>./megamariotd.png</image>
      <rating>0</rating>
      <releasedate>20160828T000000</releasedate>
@@ -582,7 +582,7 @@
      <desc>Slap the other player around of bunch to win! Your health is shown in your corner. Use the dash strategically to evade your enemy and strike at the right time. You may slap during a dash, and you may dash during a slap. Controls: A - Slap; B - Jump; C - Dash; D-pad - Movements.</desc>
      <image>./msa.png</image>
      <rating>0</rating>
-     <releasedate>20140101T000000</releasedate>
+     <releasedate>20140000T000000</releasedate>
      <developer>Michael Moffitt</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Mega Squad Advantage</genre>
@@ -627,7 +627,7 @@
    <game>
      <path>./octopus.bin</path>
      <name>Octopus</name>
-     <desc>A port of original Octopus game for  Game and Watch Handhelds.</desc>
+     <desc>A port of original Octopus game for  Game &amp; Watch Handhelds.</desc>
      <image>./octopus.png</image>
      <rating>0</rating>
      <releasedate>20150201T000000</releasedate>
@@ -639,7 +639,7 @@
    <game>
      <path>./odeiocarros.bin</path>
      <name>Odeio Carros (I hate cars)</name>
-     <desc>Destroy all cars, in each phase, using less number of kicks. To destroy the cars, you have to make two cars of the same color touch each other. Cones can help you or defend. Game is in portuguese, but it is so simple that you don't nedd a translation.</desc>
+     <desc>Destroy all cars, in each phase, using less number of kicks. To destroy the cars, you have to make two cars of the same color touch each other. Cones can help you or defend. Game is in portuguese, but it is so simple that you don&apos;t nedd a translation.</desc>
      <image>./odeiocarros.png</image>
      <rating>0</rating>
      <releasedate>20171213T000000</releasedate>
@@ -675,7 +675,7 @@
    <game>
      <path>./papicommandotennis.bin</path>
      <name>Papi Commando Tennis</name>
-     <desc>This is the new Demo of Papi Tennis ! You can play with a Friend or against AI for training of a 1 set Match !! Controls: PAD - Move Papi; Button A - Normal Shoot; UP and Button A - Long Shoot; DOWN and Button A - Short Shoot; Button A and Button B - Power Shoot; Button START - Pause Game.</desc>
+     <desc>This is the new Demo of Papi Tennis ! You can play with a Friend or against AI for training of a 1 set Match !! Controls: PAD - Move Papi; Button A - Normal Shoot; UP &amp; Button A - Long Shoot; DOWN &amp; Button A - Short Shoot; Button A &amp; Button B - Power Shoot; Button START - Pause Game.</desc>
      <image>./papicommandotennis.png</image>
      <rating>0</rating>
      <releasedate>20180317T000000</releasedate>
@@ -687,7 +687,7 @@
    <game>
      <path>./pingouinbleu.bin</path>
      <name>Pingouin Bleu</name>
-     <desc>Pingouin Bleu is a horizontal shmup. A to shoot; B to switch between three weapons; C to "grab" things, but it's a prototype feature and only works on the red spinning guys. I figured I'd keep it in for fun. Pick up stars left by defeated enemies to boost your weapon meter. More stars equals upgraded weapons.</desc>
+     <desc>Pingouin Bleu is a horizontal shmup. A to shoot; B to switch between three weapons; C to "grab" things, but it&apos;s a prototype feature and only works on the red spinning guys. I figured I&apos;d keep it in for fun. Pick up stars left by defeated enemies to boost your weapon meter. More stars equals upgraded weapons.</desc>
      <image>./pingouinbleu.png</image>
      <rating>0</rating>
      <releasedate>20141206T000000</releasedate>
@@ -723,7 +723,7 @@
    <game>
      <path>./pringles.bin</path>
      <name>Pringles Game</name>
-     <desc>There are three worlds with each three levels. Collect all Pringles and don't let your jump flow get into the wrong direction!</desc>
+     <desc>There are three worlds with each three levels. Collect all Pringles and don&apos;t let your jump flow get into the wrong direction!</desc>
      <image>./pringles.png</image>
      <rating>0</rating>
      <releasedate>20091012T000000</releasedate>
@@ -759,7 +759,7 @@
    <game>
      <path>./radrhino.bin</path>
      <name>Rad Rhino</name>
-     <desc>You are the last Rhino and Birb in the world, forced out of what little wild lands remain. Now there's nothing left to do but kill every human. Two player shooting action! It's called Rad Rhino but player 1 is the Birb. Shoot, run, and flap!</desc>
+     <desc>You are the last Rhino and Birb in the world, forced out of what little wild lands remain. Now there&apos;s nothing left to do but kill every human. Two player shooting action! It&apos;s called Rad Rhino but player 1 is the Birb. Shoot, run, and flap!</desc>
      <image>./radrhino.png</image>
      <rating>0</rating>
      <releasedate>20180814T000000</releasedate>
@@ -786,7 +786,7 @@
      <desc>For years the scientists tolled to produce products and medicines that are now taken for granted. Then one by one the planets were overrun by MECHANAUTS and the scientists forced into slavery. Now the Mechanauts themselves are at war. Their armies are away, the occupied planets barely defended. NOW IT IS YOUR CHANCE ! Rescue all of the scientists from the planets. Some of the scientists may bring their latest project with them to aid you in your mission. GO! NOW IS TIME to RETURN TO GENESIS !</desc>
      <image>./returntogenesis.png</image>
      <rating>0</rating>
-     <releasedate>20180101T000000</releasedate>
+     <releasedate>20180000T000000</releasedate>
      <developer>Igor, Troudki</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Return To Genesis</genre>
@@ -818,14 +818,14 @@
    </game>
    <game>
      <path>./rlr.smd</path>
-     <name>Riley's Letter Recycle</name>
+     <name>Riley&apos;s Letter Recycle</name>
      <desc>In the first level, guide Riley to recycle three letter into three letter words. In the second level, Riley surfs on top of a Recycle truck and you must jump to collect the needed letters.  In the third level, you must move the recycle bin to the left and right to catch the falling letters.  In the fourth level, you must drive the recycle truck to collect letters.  The "A" and "C" buttons are the gas pedals, the "B" button is the brake pedal, and the up and down directions allow you change lanes (as long the recycle truck is moving).  And the final fifth level is a platformer style level where Riley must jump around to collect letters to put in the recycle bin. On the title screen, you can enter "C","A","B" to enter the level select.  If you enter it on the first controller, it will use one player mode.  If you enter it on the second controller, it will use two player mode.  The level select also contains additional platform levels.</desc>
      <image>./rlr.png</image>
      <rating>0</rating>
      <releasedate>20110702T000000</releasedate>
      <developer>Bgvanbur </developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Riley's Letter Recycle</genre>
+     <genre>Riley&apos;s Letter Recycle</genre>
      <players>1</players>
    </game>
    <game>
@@ -834,7 +834,7 @@
      <desc>The objective of game is to score as many points as possible by destroying enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bullets at and attempting to crash into them. A Galaga clone.</desc>
      <image>./seggala.png</image>
      <rating>0</rating>
-     <releasedate>19980101T000000</releasedate>
+     <releasedate>19980000T000000</releasedate>
      <developer>Pure-Byte </developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>SegGala</genre>
@@ -855,7 +855,7 @@
    <game>
      <path>./shatteringjaws.md</path>
      <name>Shattering Jaws</name>
-     <desc>You are little Timmy. Be a good boy and pay attention to mom's advice. Exceed level 4 and get your reward. Be smart, you are the slowest thing out there, learn how to use boats to your advantage. It may be challenging sometimes, don't give up!</desc>
+     <desc>You are little Timmy. Be a good boy and pay attention to mom&apos;s advice. Exceed level 4 and get your reward. Be smart, you are the slowest thing out there, learn how to use boats to your advantage. It may be challenging sometimes, don&apos;t give up!</desc>
      <image>./shatteringjaws.png</image>
      <rating>0</rating>
      <releasedate>20160704T000000</releasedate>
@@ -877,7 +877,7 @@
      <players>1</players>
    </game>
    <game>
-     <path>./smartmouse.md</path>
+     <path>./smartmouse.bin</path>
      <name>Smart Mouse</name>
      <desc>The player uses a four-ways buttons and a single button to control Mouse. Pressing the button while pushing the four-ways buttons against an block will cause it to slide in that direction until it hits another block or a wall, if the space directly ahead of it is unoccupied by a block or wall. If that space is occupied, pressing the button will crush the block instead.</desc>
      <image>./smartmouse.png</image>
@@ -891,7 +891,7 @@
    <game>
      <path>./sonic1megamix.bin</path>
      <name>Sonic the Hedgehog</name>
-     <desc>South Island. A magnificent land; one that is not bound by restrictions such as time. 15 years have passed since Sonic the Hedgehog's first plight against the nefarious Dr. Eggman. Ever since, the two sides have clashed nonstop in a variety of settings, with the eventual outcome always being Sonic's victory. Both sides have gained both new allies and new enemies; some helpful, others... not so much. Naturally, throughout this time, Sonic has learned a few new techniques, which he uses to further stifle Eggman's plans of world domination. And so, the world is safe - but always just out of Eggman's grasp. Some say history repeats itself. In this case, the statement is proven true, as Eggman returns to South Island, in hopes that he can obtain the land's powerful Chaos Emeralds, and finally put forth a solid step in conquering the planet. As he arrives on the island, he brings with him a single Chaos Emerald - one that had been missing, and had upset the natural balance of the island for decades beforehand. The others were trapped in an alternate dimension; one which only very few could enter, and from which even fewer returned. Of course, Eggman isn't very good at keeping his plans secret (a big reason why they're foiled so easily). As a result, Sonic hears of this, and readies his travel back to South Island. With him, he brings two allies: one being Mighty the Armadillo, a longtime friend of his (though they had not spoken in quite some time); and the other being Shadow the Hedgehog who, after finally getting over his angst (at least for the moment), felt like teaching Eggman a thing or two about trying the same thing twice. And besides that, he had never seen South Island before; he had heard things about it, certainly, but never saw it for himself. So, he figured, why not? And so, the three begin their trek of South Island, each taking their own unique abilities with them, and going their separate ways, each in search of the remaining Chaos Emeralds, and of Eggman, in hopes that once he is defeated, he will finally abandon his plans of world domination. But, then again, that's not very likely to happen.</desc> 
+     <desc>South Island. A magnificent land; one that is not bound by restrictions such as time. 15 years have passed since Sonic the Hedgehog&apos;s first plight against the nefarious Dr. Eggman. Ever since, the two sides have clashed nonstop in a variety of settings, with the eventual outcome always being Sonic&apos;s victory. Both sides have gained both new allies and new enemies; some helpful, others... not so much. Naturally, throughout this time, Sonic has learned a few new techniques, which he uses to further stifle Eggman&apos;s plans of world domination. And so, the world is safe - but always just out of Eggman&apos;s grasp. Some say history repeats itself. In this case, the statement is proven true, as Eggman returns to South Island, in hopes that he can obtain the land&apos;s powerful Chaos Emeralds, and finally put forth a solid step in conquering the planet. As he arrives on the island, he brings with him a single Chaos Emerald - one that had been missing, and had upset the natural balance of the island for decades beforehand. The others were trapped in an alternate dimension; one which only very few could enter, and from which even fewer returned. Of course, Eggman isn&apos;t very good at keeping his plans secret (a big reason why they&apos;re foiled so easily). As a result, Sonic hears of this, and readies his travel back to South Island. With him, he brings two allies: one being Mighty the Armadillo, a longtime friend of his (though they had not spoken in quite some time); and the other being Shadow the Hedgehog who, after finally getting over his angst (at least for the moment), felt like teaching Eggman a thing or two about trying the same thing twice. And besides that, he had never seen South Island before; he had heard things about it, certainly, but never saw it for himself. So, he figured, why not? And so, the three begin their trek of South Island, each taking their own unique abilities with them, and going their separate ways, each in search of the remaining Chaos Emeralds, and of Eggman, in hopes that once he is defeated, he will finally abandon his plans of world domination. But, then again, that&apos;s not very likely to happen.</desc> 
      <image>./sonic1megamix.png</image>
      <rating>0</rating>
      <releasedate>20070630T000000</releasedate>
@@ -903,7 +903,7 @@
    <game>
      <path>./spacypixy.bin</path>
      <name>Space Pixy</name>
-     <desc>It's very simple game... You just gotta, collect mushrooms. when mushroom counter = 0, you can collect a horn. When horn counter = 0, you can finish the level (use a wand the rainbow bridge). This game have 8 levels, and you can choose the start level.</desc>
+     <desc>It&apos;s very simple game... You just gotta, collect mushrooms. when mushroom counter = 0, you can collect a horn. When horn counter = 0, you can finish the level (use a wand the rainbow bridge). This game have 8 levels, and you can choose the start level.</desc>
      <image>./spacypixy.png</image>
      <rating>0</rating>
      <releasedate>20101221T000000</releasedate>
@@ -913,12 +913,12 @@
      <players>1</players>
    </game>
    <game>
-     <path>./squirrelking.md</path>
+     <path>./squirrelking.bin</path>
      <name>Squirrel King</name>
      <desc>One or two-player game mode where the characters play cooperatively. In this game, the player can throw boxes, hide in them and throw fireballs. The player starts off with 5 hearts for health, and they can collect med-kits which restore one heart and acorns which restore health completely. They also have a limited amount of gloves which throw a fireball at the enemies. They start with three of these and extra ones can be collected by finding more gloves inside boxes. The player starts with 4 lives and 5 continues. 100 diamonds are required to get an extra life in single player, while only 50 are needed in cooperative play.</desc>
      <image>./squirrelking.png</image>
      <rating>0</rating>
-     <releasedate>19960101T000000</releasedate>
+     <releasedate>19960000T000000</releasedate>
      <developer>Gamtec</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Squirrel King</genre>
@@ -942,7 +942,7 @@
      <desc>The game is the port of the game Sumo Smash! This is a unique arcade game, analogues of which for SMD almost does not exist, you have to play for the Sumoista, and manage it with just one button. Thus, on one gamepad can play up to six people, and two to twelve. Has a cheat code to make the game harder, but it requires 6-button gamepad (U, D, U, U, D, U, D, U, D).</desc>
      <image>./sumoslam.png</image>
      <rating>0</rating>
-     <releasedate>20130101T000000</releasedate>
+     <releasedate>20130000T000000</releasedate>
      <developer>Segaman Production</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Sumo Slam!</genre>
@@ -966,7 +966,7 @@
      <desc>A simple pong game with some additional fetaures like super speed.</desc>
      <image>./superpingpong.png</image>
      <rating>0</rating>
-     <releasedate>19910101T000000</releasedate>
+     <releasedate>19910000T000000</releasedate>
      <developer>Pure-Byte</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Super Ping-Pong</genre>
@@ -1014,7 +1014,7 @@
      <desc>Move the teeterboard back and forth to bounce the clowns upwards and pop balloons. Power-ups will pass by overhead and give the player extra chances or clear certain colored balloons. After clearing the stage, the player moves onto the next round. The game is a re-imagining of the Atari 2600 game.</desc>
      <image>./tomclown.png</image>
      <rating>0</rating>
-     <releasedate>19930101T000000</releasedate>
+     <releasedate>19930000T000000</releasedate>
      <developer>AV artisan</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Tom Clown</genre>
@@ -1038,7 +1038,7 @@
      <desc>Jump with Cyclop, avoid obstacles and find the flag. You have 3 lives per level. For 1 or 2 players, with 3 modes: Easy, Normal, Hard. You can choose language: Spanish or English.</desc>
      <image>./twocyclops.png</image>
      <rating>0</rating>
-     <releasedate>20180101T000000</releasedate>
+     <releasedate>20180000T000000</releasedate>
      <developer>Laudelino</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Two Cyclops (Dois Ciclopes)</genre>
@@ -1050,7 +1050,7 @@
      <desc>This is a tetris clone for Sega Genesis/Mega Drive. Includes several options for 1 player, player vs cpu, 2 players...</desc>
      <image>./ultimatetetris.png</image>
      <rating>0</rating>
-     <releasedate>20010101T000000</releasedate>
+     <releasedate>20010000T000000</releasedate>
      <developer>Haroldo OK!</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Ultimate Tetris</genre>
@@ -1083,7 +1083,7 @@
    <game>
      <path>./vilqadventure.bin</path>
      <name>VilQ Adventure</name>
-     <desc>A classic jump'n run game in cute style with nice details and some great music! This one is a non stop side scrolling jump, run and slider in which you need to avoid the enemies, pick up the food and get as far along as possible to reach an ever higher score. This is second VilQ game, where you can select your hero: VilQ the wolf or Little Red Riding Hood.</desc>
+     <desc>A classic jump&apos;n run game in cute style with nice details and some great music! This one is a non stop side scrolling jump, run and slider in which you need to avoid the enemies, pick up the food and get as far along as possible to reach an ever higher score. This is second VilQ game, where you can select your hero: VilQ the wolf or Little Red Riding Hood.</desc>
      <image>./vilqadventure.png</image>
      <rating>0</rating>
      <releasedate>20171021T000000</releasedate>
@@ -1107,13 +1107,25 @@
    <game>
      <path>./virtuaworm.bin</path>
      <name>Virtua Worm</name>
-     <desc>Like pac-man crossd with snake. Navigate the mazes, but don't run in to yourself! Basically a clone of an old web game called nibblet.</desc>
+     <desc>Like pac-man crossd with snake. Navigate the mazes, but don&apos;t run in to yourself! Basically a clone of an old web game called nibblet.</desc>
      <image>./virtuaworm.png</image>
      <rating>0</rating>
      <releasedate>20160212T000000</releasedate>
-     <developer> ComradeOj</developer>
+     <developer>ComradeOj</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Virtua Worm</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./virtuaworm2.bin</path>
+     <name>Virtua Worm 2</name>
+     <desc>Virtua Worm 2 is more than just the old game with new levels. Virtua Worm 2 has slightly different gameplay rules than the first game. In this game, you must collect a set number of food rather than clearing the whole stage. After collecting a piece of food, another will spawn in a random location. The stage is finished after you collect a predetermined amount of food. In addition, you can collect a frenzy orb which increases you speed and spawns additional food.</desc>
+     <image>./virtuaworm2.png</image>
+     <rating>0</rating>
+     <releasedate>20181009T000000</releasedate>
+     <developer>ComradeOj</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Virtua Worm 2</genre>
      <players>1</players>
    </game>
    <game>
@@ -1155,7 +1167,7 @@
    <game>
      <path>./yiearkungfu.bin</path>
      <name>Yie Ar Kung-Fu</name>
-     <desc>Game features the protagonist who is a Wong Jack Man-based Kung Fu master named Oolong, controlled by the player. Oolong must fight all the martial arts masters given by the game (11 in the arcade version; five to 13 in the home ports) to win the title of "Grand Master" and honor the memory of his father. On his side is a variety of punch and kick blows reachable by combining the joystick with one of the buttons (punch or kick). He also has the greatest jumping ability of all the game's fighters, with the exception of "Blues".</desc>
+     <desc>Game features the protagonist who is a Wong Jack Man-based Kung Fu master named Oolong, controlled by the player. Oolong must fight all the martial arts masters given by the game (11 in the arcade version; five to 13 in the home ports) to win the title of "Grand Master" and honor the memory of his father. On his side is a variety of punch and kick blows reachable by combining the joystick with one of the buttons (punch or kick). He also has the greatest jumping ability of all the game&apos;s fighters, with the exception of "Blues".</desc>
      <image>./yiearkungfu.png</image>
      <rating>0</rating>
      <releasedate>20080103T000000</releasedate>
@@ -1179,10 +1191,10 @@
    <game>
      <path>./zombiterror.bin</path>
      <name>Zombi Terror</name>
-     <desc>A horror text adventure game. August, 1981. You're going to take some days for holidays when you receive a short telegram from your father, doctor Herbert Von Freudstein: 'Experiment has gone bad. Please, come to island asap.' Worried, you rent a boat to Almanzora Island, in order to help your father...</desc>
+     <desc>A horror text adventure game. August, 1981. You&apos;re going to take some days for holidays when you receive a short telegram from your father, doctor Herbert Von Freudstein: &apos;Experiment has gone bad. Please, come to island asap.&apos; Worried, you rent a boat to Almanzora Island, in order to help your father...</desc>
      <image>./zombiterror.png</image>
      <rating>0</rating>
-     <releasedate>20150101T000000</releasedate>
+     <releasedate>20150000T000000</releasedate>
      <developer>Kabuto Factory</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Zombi Terror</genre>
