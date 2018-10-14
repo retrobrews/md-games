@@ -1,0 +1,62 @@
+Virtua Worm 2 - Genesis homebrew release
+ComradeOj 
+2018/10/09
+
+A few years ago I came out with Virtua Worm, which was my own take on an old web game called Nibblet. 
+Late last year, I started work on the sequel. I've been working off and on (mostly off!) but I'm finally done with it.
+
+Virtua Worm 2 is more than just the old game with new levels. Virtua Worm 2 has slightly different gameplay rules 
+than the first game. In this game, you must collect a set number of food rather than clearing the whole stage. 
+After collecting a piece of food, another will spawn in a random location. The stage is finished after you 
+collect a predetermined amount of food. In addition, you can collect a frenzy orb which increases you speed and spawns additional food.
+
+There have been some improvements from the last game, notably:
+Game now runs at correct speed on PAL consoles
+Beep sound effect from food
+New level transition effect
+Some code optimization
+Level data is more efficiently stored and is now 37.5% smaller.
+Bug fixes
+
+The biggest thing (in my opinion) is the stage creator with save backup. I learned some lessons from my old 
+gravity pig level creator and hope this one works out better. You can play by the old rules or the new rules with custom created stages.
+
+Using the stage creator:
+The editor has two modes: SELECT MODE, and EDIT MODE. You switch between these modes by pressing START. 
+This might be familiar to uses of old CLI text editors like vi.
+In select mode, you choose which tile you want to lay down, and change the background music.
+In edit mode, you lay down tiles, and delete tiles.
+
+Controls:
+
+Edit mode:
+D-pad - move cursor within stage
+A - Move cursor quickly when held (see extra notes)1
+B - Place selected block to targeted area
+C - Erase targeted block
+
+Select mode:
+D-pad - move cursor to select items (no need to press a button to select, just hover)
+A - Same as edit mode
+B - Save stage and continue editing
+C - Save stage and play
+
+When you're finished:
+Press C while in select mode to play your stage. You will be asked to choose between the old Virtua Worm 1 rules or new 
+Virtua Worm 2 rules.(see notes)2. You must also set your starting location. The stage will be saved to SRAM and the game
+ will begin. Press START while playing to return to the editor.
+
+Extra notes:
+1. You can hold down A while placing or deleting tiles to quickly draw or erase large lines.
+2. The goal with old rules is to collect all food in the stage without dying. Additional food will not spawn. 
+New rules spawns a new food piece in a random location after each one is eaten, and the game runs until you die.
+3. Music is changed by moving the cursor the green numbers below the tile selecton while in select mode.
+4. Every wall tile blocks player movement all the same, large variety is only given for aesthetic reasons.
+5. The green "X" tile is an invisible dead zone. This can be used prevent food from spawning in closed off spaces.
+
+Admittedly, the editor pretty clunky. There are a lot of things I could improve on next time. It does work though, 
+and stages can be made quickly once get used to switching between edit and select mode.
+
+
+http://www.sega-16.com/forum/showthread.php?33795-Virtua-Worm-2-Genesis-homebrew-release
+http://www.mode5.net
