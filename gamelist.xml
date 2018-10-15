@@ -169,18 +169,6 @@
      <players>1</players>
    </game>
    <game>
-     <path>./bughunt.bin</path>
-     <name>Bug Hunt</name>
-     <desc>Eat bugs while avoiding bees to compete for online highscore supremacy! Test your reflexes and timing in this simple yet addicting romp! A port of PC game by Lazy Brain Games.</desc>
-     <image>./bughunt.png</image>
-     <rating>0</rating>
-     <releasedate>20150128T000000</releasedate>
-     <developer>Jack Nolddor, MoonWatcherMD</developer>
-     <publisher>HOMEBREW ROM</publisher>
-     <genre>Bug Hunt</genre>
-     <players>1</players>
-   </game>
-   <game>
      <path>./catatcrossroad.bin</path>
      <name>Cat At Crossroad</name>
      <desc>The game is played on a board divided by 5 rows and 5 columns.  Each player puts one of the three possible plates and the lines on them make a road. The goal is to reach the kitten located at the bottom right corner, or to force the opponent to touch the board limits. At the top of the screen symbolicaly is showed the result of the last 10 games. The one, whom cat first catch the mouse (and this happens after the 10th victory), wins the whole serie of games. If you play well you can always win. But the computer is a good opponent - try and you will see.</desc>
@@ -202,18 +190,6 @@
      <developer>Andy Grind</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Cave Story</genre>
-     <players>1</players>
-   </game>
-   <game>
-     <path>./chase.bin</path>
-     <name>Chase</name>
-     <desc>Chase, that&apos;s how our protagonist is called, has heard rumors about a strange treasure hidden in the highest tower of the castle Belafort, an abandoned and inhabited place outside their village where live the most dark and gloomy beasts from so long ago that neither remembers. The Belafort castle originally, was owned by a famous thief who spent his last days of life to build mazes in each and every one of the ten floors that had the highest tower of the castle, in order to keep their wealth safe once he died. Will you be able to help Chase on his adventure? Escape from the beasts that protect the castle and back safely with the TREASURE!</desc>
-     <image>./chase.png</image>
-     <rating>0</rating>
-     <releasedate>20140805T000000</releasedate>
-     <developer>Jack Nolddor</developer>
-     <publisher>HOMEBREW ROM</publisher>
-     <genre>Chase</genre>
      <players>1</players>
    </game>
    <game>
@@ -982,18 +958,6 @@
      <developer>Gamtec</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Super Tank War</genre>
-     <players>1</players>
-   </game>
-   <game>
-     <path>./suprakillminds.bin</path>
-     <name>SupraKillminds!</name>
-     <desc>A simple puzzle game. The object of the game is to create complete quadrants, by using the four auxiliary quadrants (up, down, left and right) to earn point, which are determined by the quantity of the same color that the other other quadrants are located. Parts of the center squares color appear will appear in the same auxiliary quadrants in the same location, as they were in the central square by pressing a button on the directional pad. Points are awarded as follows:    5 Points = All of the color positions are different; 20 Points = Two of the color positions are the same; 50 Points = Three of the color positions are the same; 150 Points + 1Up = The whole quadrant are the same color; 250 Points + 1Up = If all quadrants are empty at the end</desc>
-     <image>./suprakillminds.png</image>
-     <rating>0</rating>
-     <releasedate>20140214T000000</releasedate>
-     <developer>Jack Nolddor</developer>
-     <publisher>HOMEBREW ROM</publisher>
-     <genre>SupraKillminds!</genre>
      <players>1</players>
    </game>
    <game>
