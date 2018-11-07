@@ -1,8 +1,0 @@
-Battle City for SEGA MEgaDrive2
-«: July 12, 2009, 17:35:10»
-
-I decided to engage in a dense port of tanks for sega, one of the priorities is the maximum resemblance to the original. 
-Already something is ready and even there are several levels on which it is possible to crush opponents.
-
-In the course of the promotion of the work I will spread in this thread new versions in the flesh to the final. 
-while I spread beta1.0. Enjoy! (:
