@@ -1,8 +1,0 @@
-Octopus
-theelf 
-2015
-
-A port of original Octopus game for  Game & Watch Handhelds.
-
-
-http://www.retroplayingbcn.es/2015/02/nuevos-juegos-homebrew-para-megadrive.html
