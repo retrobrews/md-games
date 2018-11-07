@@ -1,9 +1,0 @@
-Airstriker
-30/11/2008
-by Electrokinesis Studios
-
-Description
-Airstriker is a 1980's-like arcade vertical shooter with 2 player support and an endurance mode.
-
-
-http://syniphas.drx.pl/electrokinesis/airstriker/air.html
