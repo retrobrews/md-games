@@ -1,5 +1,0 @@
-Pringles Game v1.00
-By Future Driver
-
-“Pringles Game” is a very professional looking Genesis / MegaDrive homebrew game by Future Driver.
-There are three worlds with each three levels. Collect all Pringles and don’t let your jump flow get into the wrong direction!
