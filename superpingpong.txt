@@ -1,7 +1,0 @@
-Super Ping-Pong
-Sega Genesis game
-by Pure-Byte 
-1991
-A simple pong game with some additional fetaures like super speed.
-
-https://archive.org/details/sg_Super_Ping-Pong_1991_Pure-Byte_PD
