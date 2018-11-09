@@ -1,0 +1,34 @@
+Goplanes 1.0.0
+by djcouchycouch
+2012/12/31
+You are a pilot of the plane.. You can fly around, shoot things, pick up coins and blast through walls with the charge attack. 
+
+These past few months I've been steadily working on Goplanes, a game for the Sega Genesis. Written in C using the SGDK. 
+
+The main thread on Sprites Mind, is here --> http://gendev.spritesmind.net/forum/viewtopic.php?t=1090
+
+Some latest development videos:
+
+Goplanes Dev Video 012 http://youtu.be/Cv9s1H32RSc
+Goplanes Dev Video 013 http://youtu.be/kRVg4_mE674
+Goplanes Dev Video 014 http://youtu.be/5kYjLdKqWHo
+
+
+The code doesn't have any license but is free to everyone. The copyright is still mine, though.
+
+
+
+*********** EDIT: January 4th, 2013 ***************
+
+A bit of unfortunate news.
+
+I'm stopping all development for this project. Art and videos will also be taken down.
+
+I wish and hope to revisit this project again, but won't be happening any time soon.
+
+Thanks for watching,
+DJCC.
+
+
+***********
+
