@@ -18,6 +18,7 @@ Homebrew Sega Megadrive/Genesis games:
  - Gen Poker<br />
  - Glass Breaker<br />
  - Gold Rush<br />
+ - Goplanes<br />
  - Gravity Pig<br />
  - Griels Quest for the Holy Porron<br />
  - IK+ Deluxe version<br />
