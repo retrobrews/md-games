@@ -1,0 +1,17 @@
+Fix It Felix Jr 
+Airwalk Studios
+2014 
+
+Port of a pseudo retro game in Flash by Disney (to help promote Wreck It Ralph). 
+
+This is "Fix It Felix Jr": the arcade game starring Ralph from Disney's "Wreck-it Ralph", ported to Genesis by Airwalk Studios
+
+Dra600n of AirWalk Studios released his make of Fix it Felix jr. on genesis to the public a couple months ago.
+It works on the Mega Everdrive. However some times some of the sprites are missing and you have to reset the game to make them show.
+
+Cheat Codes:
+[Marathon Mode]: Down Right A C Up Left A
+[Blood Code]: A B A C A B B
+[Extra Time]: A C C Right Up A Left
+
+Blood code doesn't work with marathon mode.

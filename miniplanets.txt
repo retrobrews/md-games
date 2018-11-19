@@ -1,0 +1,22 @@
+Miniplanets
+by SikTheHedgehog
+Updated Jun 26, 2018
+
+
+Note: this is a Genesis / Mega Drive game, not a PC game
+
+Note: if you downloaded this game before January 26th (i.e. REV00 or REV01), redownload the game now to fix an issue with real hardware.
+
+Note: if your console exhibits occasional glitched graphics redownload the game to update to REV03 (June 26th, 2018).
+
+Qisha is the protector of the planelago system, a planetary system consisting of five planelagos of nine miniplanets each. Each planelago was guarded by one of Qisha's children, but one day suddenly a mysterious force appeared and cursed them into statues. Qisha must go through all planelagos to retrieve the crystals to save the children and send back the mysterious force back where it belongs.
+
+Guide Qisha through 3D miniplanets in this new and unique platformer for Mega Drive. Jump over obstacles and collect keys with the special twist of paths wrapping around to the other end of the miniplanet.
+
+You can get the source code on GitHub:
+https://github.com/sikthehedgehog/miniplanets
+
+
+
+https://sik.itch.io/miniplanets
+https://github.com/sikthehedgehog/miniplanets
