@@ -5,6 +5,7 @@ Homebrew Sega Megadrive/Genesis games:
  - Astronauta Perdido (Lost Astronaut)<br />
  - Barbarian (CPC)<br />
  - Bare Knuckled Princess<br />
+ - Bomb on Basic City - DEMO<br />
  - BombX<br />
  - BoTTleD - Tower Defense<br />
  - Bug Hunt<br />
@@ -15,6 +16,7 @@ Homebrew Sega Megadrive/Genesis games:
  - Downforce : Red Hot Princess Carnage<br />
  - Dragon's Castle<br />
  - Error Rush<br />
+ - Fix It Felix Jr.<br />
  - Gen Poker<br />
  - Glass Breaker<br />
  - Gold Rush<br />
@@ -26,6 +28,7 @@ Homebrew Sega Megadrive/Genesis games:
  - Leovigildo's Murcian Conspiracy<br />
  - Mega Squad Advantage<br />
  - Megamindtris<br />
+ - Miniplanets<br />
  - Odeio Carros (I hate cars)<br />
  - Oh Mummy!<br />
  - Papi Commando (Remix)<br />
