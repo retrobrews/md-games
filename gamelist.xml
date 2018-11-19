@@ -49,6 +49,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./bombonbasiccity.bin</path>
+     <name>Bomb on Basic City</name>
+     <desc>Papi is back with a vengeance in the new game Bomb on Basic City. Take flight in Papi's bomber to fight the C++ Invasion Forces and reclaim your homeland in this action packed arcade bomber!</desc>
+     <image>./bombonbasiccity.png</image>
+     <rating>0</rating>
+     <releasedate>20180610T000000</releasedate>
+     <developer>Studio Vetea</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Bomb on Basic City - DEMO</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./bombx.bin</path>
      <name>BombX</name>
      <desc>Objective of this game is to move the boxes and make them explode. All of the boxes have numbers. If you move one other will also countdown. The black squares are the place where the bobms should explode!</desc>
@@ -142,6 +154,18 @@
      <developer>ComradeOj</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Error Rush</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./fixitfelixjr.bin</path>
+     <name>Fix It Felix Jr.</name>
+     <desc>Port of a pseudo retro game in Flash by Disney (to help promote Wreck It Ralph).</desc>
+     <image>./fixitfelixjr.png</image>
+     <rating>0</rating>
+     <releasedate>20140325T000000</releasedate>
+     <developer>Airwalk Studios (dra600n)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Fix It Felix Jr.</genre>
      <players>1</players>
    </game>
    <game>
@@ -262,6 +286,18 @@
      <developer>1985 Alternativo</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Megamindtris</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./miniplanets.bin</path>
+     <name>Miniplanets</name>
+     <desc>Guide Qisha through 3D miniplanets in this new and unique platformer for Mega Drive. Jump over obstacles and collect keys with the special twist of paths wrapping around to the other end of the miniplanet.</desc>
+     <image>./miniplanets.png</image>
+     <rating>0</rating>
+     <releasedate>20180626T000000</releasedate>
+     <developer>SikTheHedgeHog (Javier Degirolmo)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Miniplanets</genre>
      <players>1</players>
    </game>
    <game>
