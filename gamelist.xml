@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <gameList>
    <game>
+     <path>./30yearsofnintendont.bin</path>
+     <name>30 Years Of Nintendon't</name>
+     <desc> As a Sega evangelist, you'll have to convince players to leave their NES console and avoid the SNES because "Genesis does what Nintendon't".  How much market share can you earn thanks to your knowledge of the Megadrive / Genesis games library?</desc>
+     <image>./30yearsofnintendont.png</image>
+     <rating>0</rating>
+     <releasedate>20181029T000000</releasedate>
+     <developer>Dr. Ludos</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>30 Years Of Nintendon't</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./asciiwar.bin</path>
      <name>ASCII WAR</name>
      <desc>A simple 2 player combat game. An evil warlord lives in a dimension where everything is made up of ASCII art. He sent out a scout, to look for new lands to conquer. A resistance group also sent out a scout of their own, and they meet in out dimension to fight. The ships don&apos;t shoot bullets, but strings of text.</desc>
@@ -82,6 +94,18 @@
      <developer>Cero</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>BoTTleD - Tower Defense</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./breakanegg.bin</path>
+     <name>Break An Egg</name>
+     <desc>Break An Egg is a cute arcade game for the SEGA Megadrive / Genesis home console. Eggs are falling from the sky! Move your chicken to make them bounce into the basket. If an egg touches the ground, you loose! How many eggs can you rescue?</desc>
+     <image>./breakanegg.png</image>
+     <rating>0</rating>
+     <releasedate>20181214T000000</releasedate>
+     <developer>Dr. Ludos</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Break An Egg</genre>
      <players>1</players>
    </game>
    <game>
@@ -277,6 +301,30 @@
      <players>1-2</players>
    </game>
    <game>
+     <path>./mega-cheril-perils.bin</path>
+     <name>Mega Cheril Perils</name>
+     <desc>Cheril finds herself trapped until the zombie situation is brought under control. Naturally, this involves Cheril cleaning up the zombie infested streets of the city by taking them out. While the walking dead should be directly avoided, Cheril can activate resonator devices that are randomly placed in and around the streets. The resonators activate a vibration that puts the zombies in a state of confusion, which gives Cheril the time to jump over them, making them disappear in a puff of smoke.</desc>
+     <image>./mega-cheril-perils.png</image>
+     <rating>0</rating>
+     <releasedate>20171004T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Mega Cheril Perils</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./megaflappysis.bin</path>
+     <name>Mega Flappy Sis</name>
+     <desc>The objective was to direct a flying bird, named "Faby", who moves continuously to the right, between sets of Mario-like pipes. If the player touches the pipes, they lose. Faby briefly flaps upward each time that the player taps the screen; if the screen is not tapped, Faby falls because of gravity; each pair of pipes that he navigates between earns the player a single point, with medals awarded for the score at the end of the game. Based on the original Flappy Bird by Dong Nguyen (2013).</desc>
+     <image>./megaflappysis.png</image>
+     <rating>0</rating>
+     <releasedate>20180107T000000</releasedate>
+     <developer>Lennart Brink-Abeler</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Mega Flappy Sis</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./megamindtris.bin</path>
      <name>Megamindtris</name>
      <desc>Easy puzzle game: Just sum up the same numbers until you get the desired solution. A row clears when all cells contain the goal value.</desc>
@@ -454,6 +502,18 @@
      <developer>Igor, Troudki</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Return To Genesis</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./rickdangerous.bin</path>
+     <name>Rick Dangerous</name>
+     <desc>Will Rick Dangerous, intrepid Super Hero and part-time stamp collector, survive his first mission in the Aztec temple of the tribe? Should he do so, Rick will face new hazards in the Egyptian tomb and the enemy fortress.</desc>
+     <image>./rickdangerous.png</image>
+     <rating>0</rating>
+     <releasedate>20110215T000000</releasedate>
+     <developer>Pascal-O-Rama</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Rick Dangerous</genre>
      <players>1</players>
    </game>
    <game>
