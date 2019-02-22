@@ -30,7 +30,7 @@ Homebrew Sega Megadrive/Genesis games:
  - <b>Mega Flappy Sis</b> by Lennart Brink-Abeler
  - <b>Mega Squad Advantage</b> by Michael Moffitt
  - <b>Megamindtris</b> by 1985 Alternativo
- - <b>Miniplanets</b> by sikthehedgehog (Javier Degirolmo (Sik))
+ - <b>Miniplanets</b> by Javier Degirolmo (Sik)
  - <b>Odeio Carros (I hate cars)</b> by Nemezes Games
  - <b>Oh Mummy!</b> by 1985 alternativo
  - <b>Papi Commando (Remix)</b> by Studio Vetea
@@ -41,7 +41,7 @@ Homebrew Sega Megadrive/Genesis games:
  - <b>Project MD</b> by Javier Degirolmo (Sik)
  - <b>Racer</b> by TOF Studio
  - <b>Rad Rhino</b> by Triger Mountain
- - <b>Red Queen Rampage</b> by Demens Deum (Ilya Prokhorov)
+ - <b>Red Queen Rampage</b> by Demens Deum
  - <b>Return To Genesis</b> by Igor, Troudki
  - <b>Rick Dangerous</b> by Pascal-O-Rama
  - <b>Rick Dangerous II</b> by Alekmaul
@@ -53,7 +53,7 @@ Homebrew Sega Megadrive/Genesis games:
  - <b>Two Cyclops (Dois Ciclopes)</b> by Nemezes Games
  - <b>Ultimate Tetris</b> by Haroldo OK!
  - <b>VilQ</b> by AceMan, Axi0maT, tehKaiN
- - <b>VilQ Adventure</b> by AceMan, Axi0maT, Koyot1222   //  Jakub "AceMan" Szeląg
+ - <b>VilQ Adventure</b> by AceMan, Axi0maT, Koyot1222
  - <b>Violence Pingouin</b> by DjCouchyCouch
  - <b>Virtua Worm</b> by ComradeOj
  - <b>Virtua Worm 2</b> by ComradeOj
