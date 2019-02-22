@@ -1,6 +1,7 @@
 # md-games
 Homebrew Sega Megadrive/Genesis games:
 
+ - <b>30 Years Of Nintendont</b> by Dr. Ludos
  - <b>ASCII WAR</b> by ComradeOj
  - <b>Astronauta Perdido (Lost Astronaut)</b> by Nemezes Games
  - <b>Barbarian (CPC)</b> by F.L.
@@ -8,6 +9,7 @@ Homebrew Sega Megadrive/Genesis games:
  - <b>Bomb on Basic City</b> by Studio Vetea
  - <b>BombX</b> by Josh Tari (Captain Dreamcast)
  - <b>BoTTleD - Tower Defense</b> by Cero (Calima)
+ - <b>Break An Egg</b> by Dr. Ludos
  - <b>Cave Story</b> by Andy Grind
  - <b>Crazy Cars</b> by F.L.
  - <b>Crazy Driver</b> by M-374 LX (Alexandre Almeida)
@@ -25,6 +27,7 @@ Homebrew Sega Megadrive/Genesis games:
  - <b>Junkbots</b> by Moon Watcher, Bitslap
  - <b>Leovigildo's Murcian Conspiracy</b> by 1985 Alternativo
  - <b>Mega Cheril Perils</b> by Mojon Twins
+ - <b>Mega Flappy Sis</b> by Lennart Brink-Abeler
  - <b>Mega Squad Advantage</b> by Michael Moffitt
  - <b>Megamindtris</b> by 1985 Alternativo
  - <b>Miniplanets</b> by sikthehedgehog (Javier Degirolmo (Sik))
@@ -40,6 +43,7 @@ Homebrew Sega Megadrive/Genesis games:
  - <b>Rad Rhino</b> by Triger Mountain
  - <b>Red Queen Rampage</b> by Demens Deum (Ilya Prokhorov)
  - <b>Return To Genesis</b> by Igor, Troudki
+ - <b>Rick Dangerous</b> by Pascal-O-Rama
  - <b>Rick Dangerous II</b> by Alekmaul
  - <b>Scorpion Illuminati</b> by MoonWatcherMD
  - <b>Shattering Jaws</b> by MoonWatcherMD
