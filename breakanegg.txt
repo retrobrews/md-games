@@ -1,0 +1,16 @@
+Break An Egg (BreakAnEgg.bin)
+by Dr. Ludos
+2018/12/14
+
+Break An Egg is a cute arcade game for the SEGA Megadrive / Genesis home console.
+Eggs are falling from the sky!
+Move your chicken to make them bounce into the basket.
+If an egg touches the ground, you loose!
+
+How many eggs can you rescue?
+
+
+Regarding license, all my games hosted on itch.io are freeware but still copyrighted, unless otherwise noted.
+Dr. Ludos
+
+https://drludos.itch.io/breakanegg
