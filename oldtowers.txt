@@ -1,9 +1,14 @@
-Old Towers (SEGA Mega Drive and Genesis)   [ot11.bin]
+Old Towers (SEGA Mega Drive and Genesis)   [ot12.bin]
 --------------------------------------------------
 by RetroSouls
-2019/03/10
+2019/03/18
 
 https://retrosouls.itch.io/old-towers
+
+v1.2
+----
+*Fixed cram dots during fades
+*Fixed minor music bugs
 
 v1.1
 ----
