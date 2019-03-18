@@ -385,6 +385,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>/oldtowers.bin</path>
+     <name>Old Towers</name>
+     <desc>You play as a little explorers in a towers full of deadly traps and ugly skullz. Your only weapons to help you win: quick-thinking and skill.  Inspired by Tomb Of The Mask from Playgendary. Controls: Arrows: Move; A: Switch player;B: Free Camera mode; C: Restart level.</desc>
+     <image>./oldtowers.png</image>
+     <rating>0</rating>
+     <releasedate>20190310T000000</releasedate>
+     <developer>RetroSouls</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Old Towers [v.1.1]</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./papicommandoremix.bin</path>
      <name>Papi Commando (Remix)</name>
      <desc>Papi Commando and his wife are at war with the CePlusPlus because they stole them their CommoStrad! But it will be necessary to clean at first 11 zones of the BaseCamp ! Exciting Gameplay ... Up to the final Boss, terrible Colonel KASSTAGOUL guard of the retro treasure!</desc>
