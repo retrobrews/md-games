@@ -1,0 +1,9 @@
+Headship with Lasers (headship v002 fev2019.bin)
+by Nemezes Games (Laudelino)
+2019/02/15
+
+You are playing as a big head and you need to survive all easy and hard missions. Shoot if you can and be careful with the walls! 
+You can play against CPU or with a friend. Scoring model not yet implemented.
+
+https://www.youtube.com/watch?v=4LQo7Gg7xvs
+https://twitter.com/laudelino7
