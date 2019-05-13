@@ -3,7 +3,7 @@ Homebrew Sega Megadrive/Genesis games:
 
  - <b>30 Years Of Nintendont</b> by Dr. Ludos
  - <b>ASCII WAR</b> by ComradeOj
- - <b>Astronauta Perdido (Lost Astronaut)</b> by Nemezes Games
+ - <b>Astronauta Perdido (Lost Astronaut)</b> by Nemezes Games (Laudelino)
  - <b>Barbarian (CPC)</b> by F.L.
  - <b>Bare Knuckled Princess</b> by OhCarson
  - <b>Bomb on Basic City</b> by Studio Vetea
@@ -23,6 +23,7 @@ Homebrew Sega Megadrive/Genesis games:
  - <b>Goplanes</b> by DjCouchyCouch
  - <b>Gravity Pig</b> by ComradeOj
  - <b>Griels Quest for the Holy Porron</b> by MoonWatcherMD
+ - <b>Headship with Lasers</b> by Nemezes Games (Laudelino)
  - <b>IK+ Deluxe version</b> by Igor, Troudki
  - <b>Junkbots</b> by Moon Watcher, Bitslap
  - <b>Leovigildo's Murcian Conspiracy</b> by 1985 Alternativo
@@ -31,18 +32,19 @@ Homebrew Sega Megadrive/Genesis games:
  - <b>Mega Squad Advantage</b> by Michael Moffitt
  - <b>Megamindtris</b> by 1985 Alternativo
  - <b>Miniplanets</b> by Javier Degirolmo (Sik)
- - <b>Odeio Carros (I hate cars)</b> by Nemezes Games
- - <b>Oh Mummy!</b> by 1985 alternativo
+ - <b>Odeio Carros (I hate cars)</b> by Nemezes Games (Laudelino)
+ - <b>Oh Mummy!</b> by 1985 Alternativo
  - <b>Old Towers</b> by RetroSouls
  - <b>Papi Commando (Remix)</b> by Studio Vetea
  - <b>Papi Commando Tennis</b> by Studio Vetea
  - <b>Pingouin Bleu</b> by DjCouchyCouch
  - <b>Pingouin Rose</b> by DjCouchyCouch
+ - <b>Plataforma Ultimate</b> by Nemezes Games (Laudelino)
  - <b>Pong RAM</b> by Tmeeco co.(TM)
  - <b>Project MD</b> by Javier Degirolmo (Sik)
  - <b>Racer</b> by TOF Studio
  - <b>Rad Rhino</b> by Triger Mountain
- - <b>Red Queen Rampage</b> by Demens Deum
+ - <b>Red Queen Rampage</b> by Demens Deum (Ilya Prokhorov)
  - <b>Return To Genesis</b> by Igor, Troudki
  - <b>Rick Dangerous</b> by Pascal-O-Rama
  - <b>Rick Dangerous II</b> by Alekmaul
@@ -51,7 +53,8 @@ Homebrew Sega Megadrive/Genesis games:
  - <b>Star Chaser</b> by Javier Degirolmo (Sik)
  - <b>T-Gun II</b> by Robot Urchin
  - <b>Tro-Now</b> by 1985 Alternativo
- - <b>Two Cyclops (Dois Ciclopes)</b> by Nemezes Games
+ - <b>Two Cyclops (Dois Ciclopes)</b> by Nemezes Games (Laudelino)
+ - <b>Two Cyclops - Fight Game</b> by Nemezes Games (Laudelino)
  - <b>Ultimate Tetris</b> by Haroldo OK!
  - <b>VilQ</b> by AceMan, Axi0maT, tehKaiN
  - <b>VilQ Adventure</b> by AceMan, Axi0maT, Koyot1222
